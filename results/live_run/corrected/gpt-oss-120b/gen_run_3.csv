@@ -1,0 +1,38 @@
+key,stimulus,response,properties,parse_mode
+activity,activity,"activity: workout, calendar, collaboration, boredom","['workout', 'calendar', 'collaboration', 'boredom']",word_colon
+advice,advice,"advice: mentor, notebook, crossroads, coffee chat","['mentor', 'notebook', 'crossroads', 'coffee chat']",word_colon
+being,being,"being: breath, consciousness, existence, identity","['breath', 'consciousness', 'existence', 'identity']",word_colon
+boycott,boycott,"boycott: protest, ethics, consumer, solidarity","['protest', 'ethics', 'consumer', 'solidarity']",word_colon
+career,career,"career: ambition, networking, growth, mentorship","['ambition', 'networking', 'growth', 'mentorship']",word_colon
+comparison,comparison,"comparison: scale, benchmark, contrast, evaluation","['scale', 'benchmark', 'contrast', 'evaluation']",word_colon
+confession,confession,"confession: altar, diary, tears, midnight","['altar', 'diary', 'tears', 'midnight']",word_colon
+consideration,consideration,"consideration: budget, etiquette, pause, risk assessment","['budget', 'etiquette', 'pause', 'risk assessment']",word_colon
+consolation,consolation,"consolation: comfort, tea, rainstorm, handwritten note","['comfort', 'tea', 'rainstorm', 'handwritten note']",word_colon
+dream,dream,"dream: moonlight, floating, whispers, midnight","['moonlight', 'floating', 'whispers', 'midnight']",word_colon
+explanation,explanation,"explanation: lecture, diagram, curiosity, clarity","['lecture', 'diagram', 'curiosity', 'clarity']",word_colon
+fitness,fitness,"fitness: treadmill, protein shake, sunrise run, gym buddy","['treadmill', 'protein shake', 'sunrise run', 'gym buddy']",word_colon
+illusion,illusion,"illusion: mirage, stagecraft, perception, trickery","['mirage', 'stagecraft', 'perception', 'trickery']",word_colon
+invention,invention,"invention: curiosity, patents, prototypes, breakthroughs","['curiosity', 'patents', 'prototypes', 'breakthroughs']",word_colon
+justification,justification,"justification: courtroom, paperwork, excuses, moral dilemma","['courtroom', 'paperwork', 'excuses', 'moral dilemma']",word_colon
+manipulation,manipulation,"manipulation: puppeteer, chessboard, courtroom, magic trick","['puppeteer', 'chessboard', 'courtroom', 'magic trick']",word_colon
+memory,memory,"memory: childhood, photographs, nostalgia, forgetting","['childhood', 'photographs', 'nostalgia', 'forgetting']",word_colon
+misdemeanor,misdemeanor,"misdemeanor: courtroom, ticket, minor offense, police report","['courtroom', 'ticket', 'minor offense', 'police report']",word_colon
+need,need,"need: hunger, deadline, support, cravings","['hunger', 'deadline', 'support', 'cravings']",word_colon
+objection,objection,"objection: courtroom, protest, interruption, disagreement","['courtroom', 'protest', 'interruption', 'disagreement']",word_colon
+order,order,"order: queue, hierarchy, command, schedule","['queue', 'hierarchy', 'command', 'schedule']",word_colon
+prediction,prediction,"prediction: crystal ball, weather forecast, stock market, fortune teller","['crystal ball', 'weather forecast', 'stock market', 'fortune teller']",word_colon
+present,present,"present: gift, ceremony, now, attention","['gift', 'ceremony', 'now', 'attention']",word_colon
+proof,proof,"proof: experiment, courtroom, mathematics, verification","['experiment', 'courtroom', 'mathematics', 'verification']",word_colon
+proposal,proposal,"proposal: wedding, budget, pitch, deadline","['wedding', 'budget', 'pitch', 'deadline']",word_colon
+provocation,provocation,"provocation: prank, debate, protest, temptation","['prank', 'debate', 'protest', 'temptation']",word_colon
+quantity,quantity,"quantity: inventory, measurement, bulk, scarcity","['inventory', 'measurement', 'bulk', 'scarcity']",word_colon
+reassurance,reassurance,"reassurance: comfort, whispered promises, steady heartbeat, warm blanket","['comfort', 'whispered promises', 'steady heartbeat', 'warm blanket']",word_colon
+resemblance,resemblance,"resemblance: twins, mirror, family portrait, echo","['twins', 'mirror', 'family portrait', 'echo']",word_colon
+revolution,revolution,"revolution: wheel, uprising, change, cycle","['wheel', 'uprising', 'change', 'cycle']",word_colon
+ritual,ritual,"ritual: incense, sunrise, vows, mask","['incense', 'sunrise', 'vows', 'mask']",word_colon
+scheme,scheme,"scheme: plot, blueprint, scam, schedule","['plot', 'blueprint', 'scam', 'schedule']",word_colon
+self-dependence,self-dependence,"self-dependence: garden, solo travel, DIY projects, quiet mornings","['garden', 'solo travel', 'DIY projects', 'quiet mornings']",word_colon
+task,task,"task: deadline, checklist, teamwork, motivation","['deadline', 'checklist', 'teamwork', 'motivation']",word_colon
+thought,thought,"thought: dreams, puzzles, whispers, sparks","['dreams', 'puzzles', 'whispers', 'sparks']",word_colon
+trend,trend,"trend: fashion shows, social media hashtags, market analysis, viral memes","['fashion shows', 'social media hashtags', 'market analysis', 'viral memes']",word_colon
+willingness,willingness,"willingness: volunteer, sunrise, open door, handshake","['volunteer', 'sunrise', 'open door', 'handshake']",word_colon

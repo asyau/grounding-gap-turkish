@@ -1,0 +1,43 @@
+key,stimulus,response,properties,parse_mode
+ability,ability,"ability: talent, training, limits, growth","['talent', 'training', 'limits', 'growth']",word_colon
+advice,advice,"advice: mentor, checklist, hindsight, caution","['mentor', 'checklist', 'hindsight', 'caution']",word_colon
+argument,argument,"argument: courtroom, debate, logic, disagreement","['courtroom', 'debate', 'logic', 'disagreement']",word_colon
+being,being,"being: consciousness, mortality, identity, existence","['consciousness', 'mortality', 'identity', 'existence']",word_colon
+boycott,boycott,"boycott: protest, exclusion, activism, solidarity","['protest', 'exclusion', 'activism', 'solidarity']",word_colon
+consideration,consideration,"consideration: contracts, budgeting, ethics, planning","['contracts', 'budgeting', 'ethics', 'planning']",word_colon
+convention,convention,"convention: conference, dress code, tradition, schedule","['conference', 'dress code', 'tradition', 'schedule']",word_colon
+custom,custom,"custom: tailoring, branding, personalization, niche","['tailoring', 'branding', 'personalization', 'niche']",word_colon
+difference,difference,"difference: contrast, measurement, change, perspective","['contrast', 'measurement', 'change', 'perspective']",word_colon
+exploitation,exploitation,"exploitation: labor, resources, colonialism, manipulation","['labor', 'resources', 'colonialism', 'manipulation']",word_colon
+fantasy,fantasy,"fantasy: dragons, quests, imagination, realms","['dragons', 'quests', 'imagination', 'realms']",word_colon
+forgiveness,forgiveness,"forgiveness: apology, healing, second chances, letting go","['apology', 'healing', 'second chances', 'letting go']",word_colon
+guess,guess,"guess: mystery, lottery, intuition, speculation","['mystery', 'lottery', 'intuition', 'speculation']",word_colon
+indifference,indifference,"indifference: apathy, blank stare, neutral tone, untouched inbox","['apathy', 'blank stare', 'neutral tone', 'untouched inbox']",word_colon
+insurrection,insurrection,"insurrection: rebellion, barricades, secret meetings, cracked windows","['rebellion', 'barricades', 'secret meetings', 'cracked windows']",word_colon
+intention,intention,"intention: goal, planning, focus, promise","['goal', 'planning', 'focus', 'promise']",word_colon
+judgement,judgement,"judgement: courtroom, scales, verdict, bias","['courtroom', 'scales', 'verdict', 'bias']",word_colon
+manipulation,manipulation,"manipulation: puppeteer, chessboard, courtroom, social media
+
+","['puppeteer', 'chessboard', 'courtroom', 'social media']",word_colon
+manners,manners,"manners: dinner etiquette, polite greetings, table settings, respectful listening","['dinner etiquette', 'polite greetings', 'table settings', 'respectful listening']",word_colon
+misdemeanor,misdemeanor,"misdemeanor: courtroom, police badge, fine, first offense","['courtroom', 'police badge', 'fine', 'first offense']",word_colon
+need,need,"need: hunger, deadline, medication, support","['hunger', 'deadline', 'medication', 'support']",word_colon
+notion,notion,"notion: brainstorm, sketchbook, startup, curiosity","['brainstorm', 'sketchbook', 'startup', 'curiosity']",word_colon
+objection,objection,"objection: courtroom, protest, pause, rebuttal","['courtroom', 'protest', 'pause', 'rebuttal']",word_colon
+obligation,obligation,"obligation: contract, duty, deadline, responsibility","['contract', 'duty', 'deadline', 'responsibility']",word_colon
+observation,observation,"observation: telescope, notebook, traffic light, detective","['telescope', 'notebook', 'traffic light', 'detective']",word_colon
+occupation,occupation,"occupation: teacher, hospital, paycheck, schedule","['teacher', 'hospital', 'paycheck', 'schedule']",word_colon
+order,order,"order: queue, schedule, hierarchy, command","['queue', 'schedule', 'hierarchy', 'command']",word_colon
+pardon,pardon,"pardon: courtroom, apology, forgiveness, second chance","['courtroom', 'apology', 'forgiveness', 'second chance']",word_colon
+potential,potential,"potential: seed, future, energy, growth","['seed', 'future', 'energy', 'growth']",word_colon
+proof,proof,"proof: experiment, courtroom, mathematics, verification","['experiment', 'courtroom', 'mathematics', 'verification']",word_colon
+realization,realization,"realization: lightbulb, epiphany, breakthrough, clarity","['lightbulb', 'epiphany', 'breakthrough', 'clarity']",word_colon
+reassurance,reassurance,"reassurance: comfort, whispered advice, steady heartbeat, warm blanket","['comfort', 'whispered advice', 'steady heartbeat', 'warm blanket']",word_colon
+remorse,remorse,"remorse: guilt, confession, sleepless nights, torn letters","['guilt', 'confession', 'sleepless nights', 'torn letters']",word_colon
+resemblance,resemblance,"resemblance: twins, mirror, family portraits, echo","['twins', 'mirror', 'family portraits', 'echo']",word_colon
+self-dependence,self-dependence,"self-dependence: solitude, budgeting, self‑repair, personal growth","['solitude', 'budgeting', 'self‑repair', 'personal growth']",word_colon
+value,value,"value: price, worth, measurement, decision","['price', 'worth', 'measurement', 'decision']",word_colon
+victory,victory,"victory: trophy, parade, cheers, flagpole","['trophy', 'parade', 'cheers', 'flagpole']",word_colon
+view,view,"view: horizon, telescope, gallery, memory","['horizon', 'telescope', 'gallery', 'memory']",word_colon
+will,will,"will: inheritance, determination, courtroom, future","['inheritance', 'determination', 'courtroom', 'future']",word_colon
+willingness,willingness,"willingness: volunteer, open‑minded, first‑step, handshake","['volunteer', 'open‑minded', 'first‑step', 'handshake']",word_colon

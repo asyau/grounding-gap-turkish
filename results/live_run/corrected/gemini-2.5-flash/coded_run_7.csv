@@ -1,0 +1,8 @@
+key,stimulus,properties,codes,raw_labels,frequencies
+difficulty,difficulty,"['effort', 'wall', 'knot', 'steep']","['IS_E', 'VA', 'VA', 'SM']","['internal state and emotion', 'association', 'association', 'sensorimotor feature']","[0.25, 0.25, 0.0, 0.5]"
+assassination,assassination,"['plot', 'bullet', 'president', 'consequence']","['VA', 'SM', 'SC', 'VA']","['other abstract concept', 'sensorimotor feature', 'social constellation', 'association']","[0.25, 0.0, 0.25, 0.5]"
+fury,fury,"['explosion', 'red face', 'screaming', 'punching wall']","['VA', 'SM', 'SM', 'SM']","['association', 'sensorimotor feature', 'sensorimotor feature', 'sensorimotor feature']","[0.75, 0.0, 0.0, 0.25]"
+honor,honor,"['medal', 'bow', 'family name', 'promise']","['SM', 'SM', 'SC', 'VA']","['sensorimotor feature', 'sensorimotor feature', 'social constellation', 'other abstract concept']","[0.5, 0.0, 0.25, 0.25]"
+matter,matter,"['investigation', 'atoms', 'significance', 'courtroom']","['VA', 'SM', 'VA', 'SC']","['other abstract concept', 'sensorimotor feature', 'other abstract concept', 'social constellation']","[0.25, 0.0, 0.25, 0.5]"
+mercy,mercy,"['judge', 'kneeling', 'hand', 'pause']","['SC', 'SM', 'SM', 'VA']","['social constellation', 'sensorimotor feature', 'sensorimotor feature', 'other abstract concept']","[0.5, 0.0, 0.25, 0.25]"
+thirst,thirst,"['dryness', 'desert', 'water bottle', 'long run']","['SM', 'VA', 'VA', 'SM']","['sensorimotor feature', 'association', 'association', 'sensorimotor feature']","[0.5, 0.0, 0.0, 0.5]"

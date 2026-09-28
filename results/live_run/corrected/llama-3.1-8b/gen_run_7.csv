@@ -1,0 +1,213 @@
+key,stimulus,response,properties,parse_mode
+achievement,achievement,"achievement: badge, diploma, Olympic gold medal, team effort","['badge', 'diploma', 'Olympic gold medal', 'team effort']",word_colon
+activity,activity,"activity: 
+- physical effort
+- group collaboration
+- daily routine
+- sport competition","['physical effort', 'group collaboration', 'daily routine', 'sport competition']",list
+advice,advice,"advice: mentor, journal, lawyer, therapist","['mentor', 'journal', 'lawyer', 'therapist']",word_colon
+agony,agony,"agony: 
+- screams 
+- dark room
+- medical test
+- emotional toll","['screams', 'dark room', 'medical test', 'emotional toll']",list
+agreement,agreement,"agreement: contract, negotiation, handshake, lawsuit","['contract', 'negotiation', 'handshake', 'lawsuit']",word_colon
+amusement,amusement,"amusement: fireworks, carnival, rollercoaster, laughter","['fireworks', 'carnival', 'rollercoaster', 'laughter']",word_colon
+appetite,appetite,"appetite: 
+- midnight snacking
+- food critic
+- restaurant ambiance
+- Thanksgiving dinner","['midnight snacking', 'food critic', 'restaurant ambiance', 'Thanksgiving dinner']",list
+aptitude,aptitude,"aptitude: sports ability, academic performance, career potential, interviewing skills","['sports ability', 'academic performance', 'career potential', 'interviewing skills']",word_colon
+attention,attention,"attention: meditation, focus, classroom, spotlight","['meditation', 'focus', 'classroom', 'spotlight']",word_colon
+attraction,attraction,"attraction: theme park, vacation planning, carnival games, scenery","['theme park', 'vacation planning', 'carnival games', 'scenery']",word_colon
+betrayal,betrayal,"betrayal: 
+ 1. backstabbing 
+ 2. secret affair 
+ 3. Shakespearean drama 
+ 4. heartbreak song","['backstabbing', 'secret affair', 'Shakespearean drama', 'heartbreak song']",list
+boycott,boycott,"boycott: protest, politics, boycott signs, activists","['protest', 'politics', 'boycott signs', 'activists']",word_colon
+carefulness,carefulness,"carefulness: precision, elderliness, accidents, craftsmanship","['precision', 'elderliness', 'accidents', 'craftsmanship']",word_colon
+caution,caution,"caution: warning light, breaking rules, construction site, helmet","['warning light', 'breaking rules', 'construction site', 'helmet']",word_colon
+challenge,challenge,"challenge: 
+rise, winner, obstacle, test","['rise', 'winner', 'obstacle', 'test']",bare
+comfort,comfort,"comfort: warm blankets, cozy home, gentle touch, family movie night","['warm blankets', 'cozy home', 'gentle touch', 'family movie night']",word_colon
+commitment,commitment,"commitment: loyalty, family bonds, vows, marathon training","['loyalty', 'family bonds', 'vows', 'marathon training']",word_colon
+competence,competence,"competence: 
+expertise, teamwork, confidence, certification","['expertise', 'teamwork', 'confidence', 'certification']",bare
+conflict,conflict,"conflict: 
+war zone, wounded soul, argumentative person, bitter resolution","['war zone', 'wounded soul', 'argumentative person', 'bitter resolution']",bare
+contempt,contempt,"contempt: silence, mask, superior, darkness","['silence', 'mask', 'superior', 'darkness']",word_colon
+courage,courage,"courage: heroes, danger, legacy, strength","['heroes', 'danger', 'legacy', 'strength']",word_colon
+crime,crime,"crime: police, investigator, prison cell, trial","['police', 'investigator', 'prison cell', 'trial']",word_colon
+cruelty,cruelty,"cruelty: pain, animal shelters, prison cells, war zones","['pain', 'animal shelters', 'prison cells', 'war zones']",word_colon
+difference,difference,"difference: contrast, statistics, puzzle, inequality","['contrast', 'statistics', 'puzzle', 'inequality']",word_colon
+diligence,diligence,"diligence: 
+hard work, productivity meetings, academic achievement, punctual trains","['hard work', 'productivity meetings', 'academic achievement', 'punctual trains']",bare
+disadvantage,disadvantage,"disadvantage: 
+1. physical impairment
+2. mental health struggles
+3. career setbacks
+4. financial difficulties","['physical impairment', 'mental health struggles', 'career setbacks', 'financial difficulties']",list
+dream,dream,"dream: bedtime, sleepwalking, surrealism, subconsciousness","['bedtime', 'sleepwalking', 'surrealism', 'subconsciousness']",word_colon
+duty,duty,"duty: uniform, police, loyalty, whistle","['uniform', 'police', 'loyalty', 'whistle']",word_colon
+eagerness,eagerness,"eagerness: 
+children running, sunny mornings, competitive sports, flowers blooming","['children running', 'sunny mornings', 'competitive sports', 'flowers blooming']",bare
+enchantment,enchantment,"enchantment: fairies, magic shop, moonlight dance, hidden garden","['fairies', 'magic shop', 'moonlight dance', 'hidden garden']",word_colon
+envy,envy,"envy: luxury mansion, sibling rivalry, fashion magazine, green-eyed monster","['luxury mansion', 'sibling rivalry', 'fashion magazine', 'green-eyed monster']",word_colon
+expectation,expectation,"expectation: pressure, future plans, anticipation excitement","['pressure', 'future plans', 'anticipation excitement']",word_colon
+explanation,explanation,"explanation: math problem, therapist's office, dictionary definition, complex theory","['math problem', ""therapist's office"", 'dictionary definition', 'complex theory']",word_colon
+exploitation,exploitation,"exploitation: sweatshop, money laundering, news expose, environmental damage","['sweatshop', 'money laundering', 'news expose', 'environmental damage']",word_colon
+fight,fight,"fight: angry face, boxing ring, punches thrown, winner's belt","['angry face', 'boxing ring', 'punches thrown', ""winner's belt""]",word_colon
+fitness,fitness,"fitness: 
+- gym 
+- marathon 
+- inspiration
+- sportswear","['gym', 'marathon', 'inspiration', 'sportswear']",list
+force,force,"force: physics, tension, superhero, avalanche","['physics', 'tension', 'superhero', 'avalanche']",word_colon
+future,future,"future: progress, space exploration, wisdom, anticipation","['progress', 'space exploration', 'wisdom', 'anticipation']",word_colon
+glory,glory,"glory: 
+parade, champion, poem, temple","['parade', 'champion', 'poem', 'temple']",bare
+grace,grace,"grace: dance, angel, beauty, ballet","['dance', 'angel', 'beauty', 'ballet']",word_colon
+guess,guess,"guess: 
+
+1. mystery
+2. movie
+3. game show host
+4. test scores","['mystery', 'movie', 'game show host', 'test scores']",list
+happiness,happiness,"happiness: 
+smile, children, music, sunshine","['smile', 'children', 'music', 'sunshine']",bare
+hate,hate,"hate: anger, bitter memories, vandalism, grudge","['anger', 'bitter memories', 'vandalism', 'grudge']",word_colon
+hope,hope,"hope: light, dream, promise, resilience","['light', 'dream', 'promise', 'resilience']",word_colon
+humor,humor,"humor: comedy club, cartoons, sarcasm, laughter","['comedy club', 'cartoons', 'sarcasm', 'laughter']",word_colon
+impression,impression,"impression: 
+painting techniques, artistic style, lasting memory, fingerprint","['painting techniques', 'artistic style', 'lasting memory', 'fingerprint']",bare
+independence,independence,"independence: 
+fighting, fireworks, summer, liberty","['fighting', 'fireworks', 'summer', 'liberty']",bare
+influence,influence,"influence: politics, social media, people's behavior, powerful leaders","['politics', 'social media', ""people's behavior"", 'powerful leaders']",word_colon
+insight,insight,"insight: lightbulb, detective, self-awareness, awakening","['lightbulb', 'detective', 'self-awareness', 'awakening']",word_colon
+insult,insult,"insult: 
+
+1. tears
+2. office politics
+3. dark humor
+4. hurtful words","['tears', 'office politics', 'dark humor', 'hurtful words']",list
+insurrection,insurrection,"insurrection: 
+- riot
+- coup
+- leadership struggle
+- protest movement","['riot', 'coup', 'leadership struggle', 'protest movement']",list
+interest,interest,"interest: finance, stock market, education, loan","['finance', 'stock market', 'education', 'loan']",word_colon
+judgement,judgement,"judgement: 
+adversarial argument, crime investigation, judicial system, social inequality","['adversarial argument', 'crime investigation', 'judicial system', 'social inequality']",bare
+justice,justice,"justice: courtroom, scales, activism, equality","['courtroom', 'scales', 'activism', 'equality']",word_colon
+love,love,"love: 
+marriage proposal, Valentine's Day, flowers, heartbreak","['marriage proposal', ""Valentine's Day"", 'flowers', 'heartbreak']",bare
+luxury,luxury,"luxury: mansion, vacation, champagne, designer","['mansion', 'vacation', 'champagne', 'designer']",word_colon
+manners,manners,"manners : 
+politeness, aristocracy, table, etiquette","['politeness', 'aristocracy', 'table', 'etiquette']",bare
+menace,menace,"menace: danger, shadow, villainy, gangsters","['danger', 'shadow', 'villainy', 'gangsters']",word_colon
+miracle,miracle,"miracle: 
+mystical, hope, blindness, awe","['mystical', 'hope', 'blindness', 'awe']",bare
+moment,moment,"moment: 
+1. wedding 
+2. silence 
+3. camera 
+4. pause","['wedding', 'silence', 'camera', 'pause']",list
+notion,notion,"notion:
+ concepts, abstract ideas, library card catalogues, intellectual discussions","['concepts', 'abstract ideas', 'library card catalogues', 'intellectual discussions']",bare
+obedience,obedience,"obedience: 
+1. authority
+2. training collar
+3. family rules
+4. soldiers at attention","['authority', 'training collar', 'family rules', 'soldiers at attention']",list
+obligation,obligation,"obligation: duty, tax return, employer, promise","['duty', 'tax return', 'employer', 'promise']",word_colon
+observation,observation,"observation: clouds, detective, telescope, fieldwork","['clouds', 'detective', 'telescope', 'fieldwork']",word_colon
+order,order,"order: 
+1. restaurant
+2. queue
+3. list
+4. priority","['restaurant', 'queue', 'list', 'priority']",list
+ostracism,ostracism,"ostracism: isolation, social exclusion, bullying, shame","['isolation', 'social exclusion', 'bullying', 'shame']",word_colon
+pain,pain,"pain: physical injury, emotional toll, medical attention, financial burden","['physical injury', 'emotional toll', 'medical attention', 'financial burden']",word_colon
+panic,panic,"panic: chaos Theory, medical Emergency, out of control Situation, anxiety Attack","['chaos Theory', 'medical Emergency', 'out of control Situation', 'anxiety Attack']",word_colon
+pardon,pardon,"pardon: court, apology, forgive, judge","['court', 'apology', 'forgive', 'judge']",word_colon
+perception,perception,"perception: imagination, intuition, technology, reality","['imagination', 'intuition', 'technology', 'reality']",word_colon
+performance,performance,"performance:  score, theatre, musician, awards","['score', 'theatre', 'musician', 'awards']",word_colon
+perspective,perspective,"perspective: 
+
+1. lens
+2. art 
+3. horizon
+4. altitude","['lens', 'art', 'horizon', 'altitude']",list
+pleasure,pleasure,"pleasure: swimming, party, smile, vacation","['swimming', 'party', 'smile', 'vacation']",word_colon
+power,power,"power: electricity, industrial revolution, sports, confidence","['electricity', 'industrial revolution', 'sports', 'confidence']",word_colon
+prediction,prediction,"prediction: mystery, AI system, weather forecast, win game","['mystery', 'AI system', 'weather forecast', 'win game']",word_colon
+proof,proof,"proof: test, lawyer, verification, certificate","['test', 'lawyer', 'verification', 'certificate']",word_colon
+proposal,proposal,"proposal: 
+engagement ring, financial plan, wedding cake, conference room","['engagement ring', 'financial plan', 'wedding cake', 'conference room']",bare
+protest,protest,"protest: 
+
+1. police 
+2. rally 
+3. slogan 
+4. riot","['police', 'rally', 'slogan', 'riot']",list
+provocation,provocation,"provocation: 
+
+- insult
+- protest 
+- curiosity 
+- passion","['insult', 'protest', 'curiosity', 'passion']",list
+punishment,punishment,"punishment: court room, judge's gavel, teenage rebellion, prison cell","['court room', ""judge's gavel"", 'teenage rebellion', 'prison cell']",word_colon
+quantity,quantity,"quantity: 
+
+1. measurement
+2. stockroom 
+3. surplus 
+4. samples","['measurement', 'stockroom', 'surplus', 'samples']",list
+recovery,recovery,"recovery:
+physical therapy, insurance claim, hospital room, workout routine","['physical therapy', 'insurance claim', 'hospital room', 'workout routine']",bare
+regret,regret,"regret: 
+
+1. tears 
+2. past
+3. choice 
+4. longing","['tears', 'past', 'choice', 'longing']",list
+relief,relief,"relief:
+ weathered roads, rainclouds, swimming pool, ambulance","['weathered roads', 'rainclouds', 'swimming pool', 'ambulance']",bare
+remorse,remorse,"remorse: confession, darkness, regretful eyes, silence","['confession', 'darkness', 'regretful eyes', 'silence']",word_colon
+resistance,resistance,"Resistance: 
+
+1. circuit
+2. painkiller
+3. movement
+4. ideology","['circuit', 'painkiller', 'movement', 'ideology']",list
+responsibility,responsibility,"responsibility: parenting, oath, job promotion, civic duty","['parenting', 'oath', 'job promotion', 'civic duty']",word_colon
+ritual,ritual,"ritual: darkness, ancestors, fertility, mask","['darkness', 'ancestors', 'fertility', 'mask']",word_colon
+safety,safety,"safety: shelter, alarm, mask, harness","['shelter', 'alarm', 'mask', 'harness']",word_colon
+satisfaction,satisfaction,"satisfaction: happy memory, long marriage, good health, rewarding career","['happy memory', 'long marriage', 'good health', 'rewarding career']",word_colon
+scheme,scheme,"scheme: strategy, blueprint, corruption, engineering","['strategy', 'blueprint', 'corruption', 'engineering']",word_colon
+self-dependence,self-dependence,"self-dependence:
+autonomy, self-sufficiency, emotional resilience, confident individuality","['autonomy', 'self-sufficiency', 'emotional resilience', 'confident individuality']",bare
+shyness,shyness,"shyness: solitude, mask, vulnerability, social anxiety","['solitude', 'mask', 'vulnerability', 'social anxiety']",word_colon
+slapstick,slapstick,"slapstick: comedy sketch, Charlie Chaplin, physical humor, silent film","['comedy sketch', 'Charlie Chaplin', 'physical humor', 'silent film']",word_colon
+solitude,solitude,"solitude: 
+mountain peak, old books, quiet forest, midnight sky","['mountain peak', 'old books', 'quiet forest', 'midnight sky']",bare
+success,success,"success: 
+wealth, graduation, sports trophy, business partnership","['wealth', 'graduation', 'sports trophy', 'business partnership']",bare
+talent,talent,"talent: stage fear, awards night, hidden skill, artistic expression","['stage fear', 'awards night', 'hidden skill', 'artistic expression']",word_colon
+terrorism,terrorism,"terrorism: fear, chaos, politics, bomb","['fear', 'chaos', 'politics', 'bomb']",word_colon
+theory,theory,"theory:  evidence, paradigm shift, scientist, cosmos","['evidence', 'paradigm shift', 'scientist', 'cosmos']",word_colon
+threat,threat,"threat: danger, warning sign, anxious, security system","['danger', 'warning sign', 'anxious', 'security system']",word_colon
+view,view,"view: sunset, mountains, telescope, landscape","['sunset', 'mountains', 'telescope', 'landscape']",word_colon
+violation,violation,"violation: 
+
+1. traffic
+2. lawsuit
+3. health and safety regulations
+4. password","['traffic', 'lawsuit', 'health and safety regulations', 'password']",list
+warning,warning,"warning: 
+ alarm system, alert neighbors, danger sign, stormy weather","['alarm system', 'alert neighbors', 'danger sign', 'stormy weather']",bare
+weakness,weakness,"weakness: vulnerability, doubt, injury, fragility","['vulnerability', 'doubt', 'injury', 'fragility']",word_colon
+wit,wit,"wit: sarcasm, cleverness, old age, humor","['sarcasm', 'cleverness', 'old age', 'humor']",word_colon
+work,work,"work: paycheck, office, commute, vacation","['paycheck', 'office', 'commute', 'vacation']",word_colon

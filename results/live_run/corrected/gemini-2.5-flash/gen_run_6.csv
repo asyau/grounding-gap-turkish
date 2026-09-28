@@ -1,0 +1,10 @@
+key,stimulus,response,properties,parse_mode
+achievement,achievement,"achievement: goal, effort, pride, milestone","['goal', 'effort', 'pride', 'milestone']",word_colon
+appearance,appearance,"appearance: reflection, impression, color, costume","['reflection', 'impression', 'color', 'costume']",word_colon
+difficulty,difficulty,"difficulty: struggle, mountain, puzzle, sweat","['struggle', 'mountain', 'puzzle', 'sweat']",word_colon
+doubt,doubt,"doubt: hesitation, question mark, second guess, uncertain path","['hesitation', 'question mark', 'second guess', 'uncertain path']",word_colon
+insight,insight,"insight: lightbulb, root cause, pattern recognition, suddenly clear","['lightbulb', 'root cause', 'pattern recognition', 'suddenly clear']",word_colon
+observation,observation,"observation: telescope, scientist, note-taking, detective","['telescope', 'scientist', 'note-taking', 'detective']",word_colon
+slapstick,slapstick,"slapstick: banana peel, pie in face, pratfall, clown shoes","['banana peel', 'pie in face', 'pratfall', 'clown shoes']",word_colon
+victory,victory,"victory: trophy, podium, champagne, cheer","['trophy', 'podium', 'champagne', 'cheer']",word_colon
+will,will,"will: future, legacy, resolve, choice","['future', 'legacy', 'resolve', 'choice']",word_colon

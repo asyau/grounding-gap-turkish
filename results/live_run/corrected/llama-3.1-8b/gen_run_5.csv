@@ -1,0 +1,192 @@
+key,stimulus,response,properties,parse_mode
+ability,ability,"ability: potential, training, competitions, teamwork","['potential', 'training', 'competitions', 'teamwork']",word_colon
+achievement,achievement,"achievement: gold medal, parade, certificate, lifelong goal","['gold medal', 'parade', 'certificate', 'lifelong goal']",word_colon
+agreement,agreement,"agreement: lawcourt, politician, handshake, marriage certificate","['lawcourt', 'politician', 'handshake', 'marriage certificate']",word_colon
+amusement,amusement,"amusement: laughter, rollercoaster, childrens birthday, circus","['laughter', 'rollercoaster', 'childrens birthday', 'circus']",word_colon
+anxiety,anxiety,"anxiety: 
+darkness, panic attack, late night call, medicine bottle","['darkness', 'panic attack', 'late night call', 'medicine bottle']",bare
+apology,apology,"apology: regret, flowers, lawyer, forgiveness","['regret', 'flowers', 'lawyer', 'forgiveness']",word_colon
+argument,argument,"argument: shouting, couple, lawyer, politics","['shouting', 'couple', 'lawyer', 'politics']",word_colon
+assumption,assumption,"assumption: bias, argument, statistics, prejudice","['bias', 'argument', 'statistics', 'prejudice']",word_colon
+attraction,attraction,"attraction: theme parks, beaches, sports teams, curiosity","['theme parks', 'beaches', 'sports teams', 'curiosity']",word_colon
+beauty,beauty,"beauty: 
+parade, butterfly, tattoo, flower.","['parade', 'butterfly', 'tattoo', 'flower']",bare
+boycott,boycott,"boycott: protest, strike, politics, boycott label","['protest', 'strike', 'politics', 'boycott label']",word_colon
+bravery,bravery,"bravery: 
+1. firefighter
+2. medal
+3. challenge
+4. loyalty","['firefighter', 'medal', 'challenge', 'loyalty']",list
+career,career,"career: work, ladder, responsibilities, salary","['work', 'ladder', 'responsibilities', 'salary']",word_colon
+caution,caution,"caution: roadsigns, warning signal, quiet environment, attentive driver","['roadsigns', 'warning signal', 'quiet environment', 'attentive driver']",word_colon
+challenge,challenge,"challenge: obstacle course, teamwork, determination, victory","['obstacle course', 'teamwork', 'determination', 'victory']",word_colon
+charm,charm,"charm: 
+magic wand, fairy tale, diamond necklace, perfume","['magic wand', 'fairy tale', 'diamond necklace', 'perfume']",bare
+comfort,comfort,"comfort: 
+cozy clothes, cup of tea, warm fireplace, snuggled puppy","['cozy clothes', 'cup of tea', 'warm fireplace', 'snuggled puppy']",bare
+comparison,comparison,"comparison: argument, beauty contest, resume, benchmark","['argument', 'beauty contest', 'resume', 'benchmark']",word_colon
+compassion,compassion,"compassion: warmth, small acts, calmness, vulnerable moments","['warmth', 'small acts', 'calmness', 'vulnerable moments']",word_colon
+competence,competence,"competence: confidence, job interview, sports team, professional reputation","['confidence', 'job interview', 'sports team', 'professional reputation']",word_colon
+compulsion,compulsion,"compulsion: 
+
+ addiction, psychiatrist, habit, obsession","['addiction', 'psychiatrist', 'habit', 'obsession']",bare
+contempt,contempt,"contempt:  a snob, rude comment, old-fashioned ideals, arrogance","['a snob', 'rude comment', 'old-fashioned ideals', 'arrogance']",word_colon
+convention,convention,"convention: 
+ 1. conference hall
+ 2. formal attire
+ 3. celebrity appearance
+ 4. delegate badge","['conference hall', 'formal attire', 'celebrity appearance', 'delegate badge']",list
+cooperation,cooperation,"cooperation: team, handshake, rules, project","['team', 'handshake', 'rules', 'project']",word_colon
+crime,crime,"crime: police, courtroom, gun, conspiracy","['police', 'courtroom', 'gun', 'conspiracy']",word_colon
+curiosity,curiosity,"curiosity: 
+  - detective
+  - childlike wonder
+  - secret caverns
+  - science museum","['detective', 'childlike wonder', 'secret caverns', 'science museum']",list
+death,death,"death: mourning, cemetery, will, darkness","['mourning', 'cemetery', 'will', 'darkness']",word_colon
+decision,decision,"decision: choice, politician, fork in the road, responsibility","['choice', 'politician', 'fork in the road', 'responsibility']",word_colon
+demand,demand,"demand: strikes, economy, leadership, protests","['strikes', 'economy', 'leadership', 'protests']",word_colon
+desire,desire,"desire: luxury car, private piano concert, late night phone call, happy memory","['luxury car', 'private piano concert', 'late night phone call', 'happy memory']",word_colon
+destruction,destruction,"destruction: chaos, nuclear winter, war history, earthquake aftermath","['chaos', 'nuclear winter', 'war history', 'earthquake aftermath']",word_colon
+difference,difference,"difference: contrast, mirror, puzzle, argument","['contrast', 'mirror', 'puzzle', 'argument']",word_colon
+difficulty,difficulty,"difficulty: struggle, test, fatigue, puzzle.","['struggle', 'test', 'fatigue', 'puzzle']",word_colon
+dispute,dispute,"dispute: 
+- courtroom
+- heated conversation
+- mediation 
+- insurance claim","['courtroom', 'heated conversation', 'mediation', 'insurance claim']",list
+distance,distance,"distance: space station, marathon runner, cold shoulder, astronomical unit","['space station', 'marathon runner', 'cold shoulder', 'astronomical unit']",word_colon
+diversity,diversity,"diversity: cultures, artwork, global village, human rights","['cultures', 'artwork', 'global village', 'human rights']",word_colon
+doubt,doubt,"doubt: fear, darkness, decision, cloud","['fear', 'darkness', 'decision', 'cloud']",word_colon
+downfall,downfall,"downfall: failure, Nixon administration, rollercoaster drop, empire collapse","['failure', 'Nixon administration', 'rollercoaster drop', 'empire collapse']",word_colon
+dream,dream,"dream: sleepiness, cloud, flying, pillow","['sleepiness', 'cloud', 'flying', 'pillow']",word_colon
+effort,effort,"effort:  perseverance, athlete, weightlifting, volunteer","['perseverance', 'athlete', 'weightlifting', 'volunteer']",word_colon
+enchantment,enchantment,"enchantment: 
+magic spell, fairy tale princess, forest glade, moonlight","['magic spell', 'fairy tale princess', 'forest glade', 'moonlight']",bare
+exploitation,exploitation,"exploitation: 
+
+1. labor
+2. film genre
+3. emotional harm
+4. economic inequality","['labor', 'film genre', 'emotional harm', 'economic inequality']",list
+force,force,"force: 
+
+ gravity, muscles, storm, momentum","['gravity', 'muscles', 'storm', 'momentum']",bare
+fright,fright,"fright: 
+dark alley, horror movie, scream, spiders","['dark alley', 'horror movie', 'scream', 'spiders']",bare
+frustration,frustration,"frustration: 
+clenched fists, long drive, tight deadlines, rainy days","['clenched fists', 'long drive', 'tight deadlines', 'rainy days']",bare
+fun,fun,"fun: amusement park, summer vacation, clown makeup, carnival music","['amusement park', 'summer vacation', 'clown makeup', 'carnival music']",word_colon
+grace,grace,"grace: blessing, angel, dance, jewelry","['blessing', 'angel', 'dance', 'jewelry']",word_colon
+habit,habit,"habit: 
+
+rut, morning routine, addiction, discipline","['rut', 'morning routine', 'addiction', 'discipline']",bare
+happiness,happiness,"happiness: smile, children, music, holiday","['smile', 'children', 'music', 'holiday']",word_colon
+hate,hate,"hate: anger, darkness, mask, revenge","['anger', 'darkness', 'mask', 'revenge']",word_colon
+home,home,"home: 
+family tradition, favorite room, old memories, fireplace","['family tradition', 'favorite room', 'old memories', 'fireplace']",bare
+humor,humor,"humor: comedy club, sarcasm, laughter therapy, comedian","['comedy club', 'sarcasm', 'laughter therapy', 'comedian']",word_colon
+hunger,hunger,"hunger:  empty stomach, childhood memories, Thanksgiving dinner, stomach growl","['empty stomach', 'childhood memories', 'Thanksgiving dinner', 'stomach growl']",word_colon
+ideal,ideal,"ideal: perfect, dream home, fairness, flawless","['perfect', 'dream home', 'fairness', 'flawless']",word_colon
+insight,insight,"insight:
+prophecies, genius, ancient ruins, enlightenment","['prophecies', 'genius', 'ancient ruins', 'enlightenment']",bare
+insurrection,insurrection,"insurrection: 
+revolt, conspiracy, barricades, tumult","['revolt', 'conspiracy', 'barricades', 'tumult']",bare
+intention,intention,"intention: purpose, promise, goal, result","['purpose', 'promise', 'goal', 'result']",word_colon
+interest,interest,"interest: stock market, detective story, nature preserve, student loan","['stock market', 'detective story', 'nature preserve', 'student loan']",word_colon
+invention,invention,"invention: laboratory, Nikola Tesla, patent office, breakthrough","['laboratory', 'Nikola Tesla', 'patent office', 'breakthrough']",word_colon
+judgement,judgement,"judgement: court, guilt, law, fault","['court', 'guilt', 'law', 'fault']",word_colon
+justice,justice,"justice: courtroom, blindfold, social order, equality","['courtroom', 'blindfold', 'social order', 'equality']",word_colon
+knowledge,knowledge,"knowledge: classroom, library, innovation, wisdom","['classroom', 'library', 'innovation', 'wisdom']",word_colon
+magic,magic,"magic: wand, stage show, sparkles, fantasy","['wand', 'stage show', 'sparkles', 'fantasy']",word_colon
+manipulation,manipulation,"manipulation: mind games, control issues, propaganda, seduction","['mind games', 'control issues', 'propaganda', 'seduction']",word_colon
+manners,manners,"manners: 
+gentlefolk etiquette book, polite conversation, good breeding, fine china","['gentlefolk etiquette book', 'polite conversation', 'good breeding', 'fine china']",bare
+matter,matter,"matter: gravity, atoms, environment, theory","['gravity', 'atoms', 'environment', 'theory']",word_colon
+menace,menace,"menace: pirate ship, danger zone, black widow spider, nuclear power plant","['pirate ship', 'danger zone', 'black widow spider', 'nuclear power plant']",word_colon
+misdemeanor,misdemeanor,"misdemeanor: 
+trials, probation officer, minor theft, juvenile delinquency","['trials', 'probation officer', 'minor theft', 'juvenile delinquency']",bare
+misery,misery,"misery: 
+
+- hopeless
+- weather
+- love story
+- loss","['hopeless', 'weather', 'love story', 'loss']",list
+model,model,"model: high-tech, catwalk, architect, prototype","['high-tech', 'catwalk', 'architect', 'prototype']",word_colon
+moment,moment,"moment: 
+  - photo
+  - silence 
+  - proposal
+  - eternity","['photo', 'silence', 'proposal', 'eternity']",list
+mood,mood,"mood: sky, piano, journal, cinema","['sky', 'piano', 'journal', 'cinema']",word_colon
+nightmare,nightmare,"nightmare: sleepwalking, haunted house, dark clouds, lucid dreaming","['sleepwalking', 'haunted house', 'dark clouds', 'lucid dreaming']",word_colon
+observation,observation,"observation: telescope, science fair, pilot training, detective work.","['telescope', 'science fair', 'pilot training', 'detective work']",word_colon
+ostracism,ostracism,"ostracism: social exclusion, public shame, lonely child, unfair rules","['social exclusion', 'public shame', 'lonely child', 'unfair rules']",word_colon
+past,past,"past: 
+
+1. History
+2. Nostalgia
+3. Pension
+4. Sunset","['History', 'Nostalgia', 'Pension', 'Sunset']",list
+peace,peace,"peace: 
+harmonious music, stillness of a lake, world leaders gathering, love on a couple's face","['harmonious music', 'stillness of a lake', 'world leaders gathering', ""love on a couple's face""]",bare
+perfection,perfection,"perfection: flawless diamonds, beautiful paintings, perfect pitch, ideal wedding plan.","['flawless diamonds', 'beautiful paintings', 'perfect pitch', 'ideal wedding plan']",word_colon
+performance,performance,"performance: 1. Olympics
+2. Theatre auditions
+3. Business presentation
+4. Concert stage","['Theatre auditions', 'Business presentation', 'Concert stage']",list
+perspective,perspective,"perspective: 
+altitude, wide-angle lens, historical context, architectural detail","['altitude', 'wide-angle lens', 'historical context', 'architectural detail']",bare
+pleasure,pleasure,"pleasure: vacation, children, art, garden","['vacation', 'children', 'art', 'garden']",word_colon
+potential,potential,"potential: 
+unleashed, creativity, boundless energy, hidden talent","['unleashed', 'creativity', 'boundless energy', 'hidden talent']",bare
+poverty,poverty,"poverty: hunger, slums, exploitation, desperation","['hunger', 'slums', 'exploitation', 'desperation']",word_colon
+pride,pride,"pride: national anthem, lion's mane, Olympic flags, family crest","['national anthem', ""lion's mane"", 'Olympic flags', 'family crest']",word_colon
+problem,problem,"problem: frustration, equations, lawyer, deadline","['frustration', 'equations', 'lawyer', 'deadline']",word_colon
+prohibition,prohibition,"prohibition: underground bar, Gatsby novel, drinking age, bootlegger","['underground bar', 'Gatsby novel', 'drinking age', 'bootlegger']",word_colon
+proof,proof,"proof: court document, DNA test, mathematical equation, certificate of authenticity","['court document', 'DNA test', 'mathematical equation', 'certificate of authenticity']",word_colon
+realization,realization,"realization: emotional breakdown, epiphany moment, relationship growth, past regret","['emotional breakdown', 'epiphany moment', 'relationship growth', 'past regret']",word_colon
+reassurance,reassurance,"reassurance: security blanket, loved ones, calm atmosphere, child's first words","['security blanket', 'loved ones', 'calm atmosphere', ""child's first words""]",word_colon
+regard,regard,"regard: esteem, respect, admiration, vigilance","['esteem', 'respect', 'admiration', 'vigilance']",word_colon
+regret,regret,"regret: 
+remorse, old photograph, past decision, silence","['remorse', 'old photograph', 'past decision', 'silence']",bare
+resemblance,resemblance,"resemblance: family traits, old paintings, physical features, similar behaviors","['family traits', 'old paintings', 'physical features', 'similar behaviors']",word_colon
+resolution,resolution,"resolution: 
+sharpness, supercomputer, debate, decision","['sharpness', 'supercomputer', 'debate', 'decision']",bare
+retaliation,retaliation,"retaliation: 
+- conspiracy
+- espionage
+- revenge films
+- retaliatory actions","['conspiracy', 'espionage', 'revenge films', 'retaliatory actions']",list
+ritual,ritual,"ritual: candles, ancient, cave, masks","['candles', 'ancient', 'cave', 'masks']",word_colon
+satisfaction,satisfaction,"satisfaction: 
+smile, success, dinner, holiday","['smile', 'success', 'dinner', 'holiday']",bare
+self-dependence,self-dependence,"self-dependence: 
+1. autonomy 
+2. resilience
+3. stability in a relationship
+4. inner balance","['autonomy', 'resilience', 'stability in a relationship', 'inner balance']",list
+slapstick,slapstick,"slapstick: physical humor, silent film, rubber chicken, circus act","['physical humor', 'silent film', 'rubber chicken', 'circus act']",word_colon
+stimulus,stimulus,"stimulus: psychology labs, brain waves, marketing campaigns, sensory experiences","['psychology labs', 'brain waves', 'marketing campaigns', 'sensory experiences']",word_colon
+talent,talent,"talent: stage fright, paintbrush, mentor, potential","['stage fright', 'paintbrush', 'mentor', 'potential']",word_colon
+threat,threat,"threat: danger, terrorist, alarm blares, police sirens","['danger', 'terrorist', 'alarm blares', 'police sirens']",word_colon
+trust,trust,"trust: bank account, confidentiality, relationships, safe house","['bank account', 'confidentiality', 'relationships', 'safe house']",word_colon
+vanity,vanity,"vanity: 
+mirror, supermodel, makeup, actress","['mirror', 'supermodel', 'makeup', 'actress']",bare
+view,view,"view: 
+
+- landscape
+- surveillance
+- perspective
+- display","['landscape', 'surveillance', 'perspective', 'display']",list
+violence,violence,"violence: crime scene, damaged property, fist fight, war zone","['crime scene', 'damaged property', 'fist fight', 'war zone']",word_colon
+warning,warning,"warning: sirens, fire drill, alarm clock, natural disaster","['sirens', 'fire drill', 'alarm clock', 'natural disaster']",word_colon
+wealth,wealth,"wealth: luxurious mansion, happy memories, endless opportunities, material possessions","['luxurious mansion', 'happy memories', 'endless opportunities', 'material possessions']",word_colon
+welfare,welfare,"welfare: 
+ poverty relief work, public healthcare system, retirement savings plan, disaster response team","['poverty relief work', 'public healthcare system', 'retirement savings plan', 'disaster response team']",bare
+wish,wish,"wish: 
+
+1. fireworks
+2. birthday cake
+3. Christmas tree
+4. love letter","['fireworks', 'birthday cake', 'Christmas tree', 'love letter']",list

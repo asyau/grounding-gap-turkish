@@ -1,0 +1,226 @@
+{
+  "reviewer": "Asya Ünal (native speaker)",
+  "scope": "29 items flagged hard",
+  "decisions": {
+    "application": {
+      "chosen": "başvuru",
+      "action": "kept",
+      "date": "2026-09-25"
+    },
+    "argument": {
+      "chosen": "tartışma",
+      "action": "kept",
+      "date": "2026-09-25"
+    },
+    "aspect": {
+      "chosen": "yön",
+      "action": "kept",
+      "date": "2026-09-25"
+    },
+    "challenge": {
+      "chosen": "meydan okuma",
+      "action": "kept",
+      "date": "2026-09-25"
+    },
+    "compulsion": {
+      "chosen": "zorlama",
+      "action": "changed",
+      "from": "zorlantı",
+      "origin": "hybrid",
+      "concrete_root": "",
+      "date": "2026-09-25"
+    },
+    "consideration": {
+      "chosen": "değerlendirme",
+      "action": "changed",
+      "from": "düşüncelilik",
+      "origin": "native",
+      "concrete_root": "değer (value)",
+      "sense": "weighing a matter seriously (reviewer: 'bir konuyu ciddiyetle ele alıp tartma')",
+      "date": "2026-09-25"
+    },
+    "convention": {
+      "chosen": "uzlaşım",
+      "action": "changed",
+      "from": "teamül",
+      "origin": "native",
+      "concrete_root": "",
+      "sense": "social convention; reviewer first chose 'gelenek', which is reserved for tradition",
+      "date": "2026-09-25"
+    },
+    "dismay": {
+      "chosen": "dehşet",
+      "action": "changed",
+      "from": "yılgınlık",
+      "origin": "loan-arabic",
+      "concrete_root": "",
+      "note": "horror previously used dehşet; horror reassigned",
+      "date": "2026-09-25"
+    },
+    "horror": {
+      "chosen": "yoğun korku",
+      "action": "changed (knock-on, was flagged ok)",
+      "from": "dehşet",
+      "origin": "native",
+      "concrete_root": "kork- (fear)",
+      "note": "reviewer typed 'yoğun kokru'; read as typo for 'yoğun korku'. Freed 'dehşet' for dismay; 'korku' alone stays with fear",
+      "date": "2026-09-25"
+    },
+    "dream": {
+      "chosen": "rüya",
+      "action": "kept",
+      "date": "2026-09-25"
+    },
+    "frustration": {
+      "chosen": "hüsran",
+      "action": "kept",
+      "date": "2026-09-25"
+    },
+    "grace": {
+      "chosen": "incelik",
+      "action": "kept",
+      "date": "2026-09-25"
+    },
+    "fun": {
+      "chosen": "eğlence",
+      "action": "changed",
+      "from": "keyif",
+      "origin": "native",
+      "concrete_root": "eğlen- (be diverted)",
+      "date": "2026-09-25"
+    },
+    "amusement": {
+      "chosen": "eğlenme",
+      "action": "changed (knock-on, was flagged check)",
+      "from": "eğlence",
+      "origin": "native",
+      "concrete_root": "eğlen- (be diverted)",
+      "date": "2026-09-25"
+    },
+    "home": {
+      "chosen": "ev",
+      "action": "changed",
+      "from": "yuva",
+      "origin": "native",
+      "concrete_root": "ev (house)",
+      "date": "2026-09-25"
+    },
+    "matter": {
+      "chosen": "madde",
+      "action": "changed",
+      "from": "mesele",
+      "origin": "loan-arabic",
+      "concrete_root": "",
+      "sense": "physical matter",
+      "date": "2026-09-25"
+    },
+    "memory": {
+      "chosen": "anı",
+      "action": "kept",
+      "date": "2026-09-25"
+    },
+    "model": {
+      "chosen": "model",
+      "action": "kept",
+      "date": "2026-09-25"
+    },
+    "occupation": {
+      "chosen": "meslek",
+      "action": "kept",
+      "date": "2026-09-25"
+    },
+    "order": {
+      "chosen": "düzen",
+      "action": "kept",
+      "date": "2026-09-25"
+    },
+    "present": {
+      "chosen": "şimdiki zaman",
+      "action": "kept",
+      "date": "2026-09-25"
+    },
+    "realization": {
+      "chosen": "farkına varma",
+      "action": "changed",
+      "from": "farkındalık",
+      "origin": "hybrid",
+      "concrete_root": "var- (arrive)",
+      "date": "2026-09-25"
+    },
+    "regard": {
+      "chosen": "saymak",
+      "action": "changed",
+      "from": "itibar",
+      "origin": "native",
+      "concrete_root": "say- (count, esteem)",
+      "note": "reviewer's choice; a verb infinitive, unlike most stimuli; shares its root with saygı (respect)",
+      "date": "2026-09-25"
+    },
+    "resolution": {
+      "chosen": "önerge",
+      "action": "changed",
+      "from": "çözüm",
+      "origin": "native",
+      "concrete_root": "ön (front)",
+      "sense": "a formal resolution or motion put to an assembly",
+      "date": "2026-09-25"
+    },
+    "romantic": {
+      "chosen": "romantiklik",
+      "action": "kept",
+      "date": "2026-09-25"
+    },
+    "scheme": {
+      "chosen": "tasarı",
+      "action": "changed",
+      "from": "entrika",
+      "origin": "native",
+      "concrete_root": "",
+      "sense": "a plan or design; reviewer first chose 'plan', which is the stimulus plan's own translation",
+      "date": "2026-09-25"
+    },
+    "sensation": {
+      "chosen": "duyum",
+      "action": "kept",
+      "date": "2026-09-25"
+    },
+    "slapstick": {
+      "chosen": "şaklabanlık",
+      "action": "changed",
+      "from": "kaba güldürü",
+      "origin": "hybrid",
+      "concrete_root": "",
+      "note": "origin of şaklaban uncertain, check Nişanyan",
+      "date": "2026-09-25"
+    },
+    "self-dependence": {
+      "chosen": "kendine yeterlilik",
+      "action": "kept",
+      "note": "reviewer first chose bağımsızlık, which is independence's translation",
+      "date": "2026-09-25"
+    },
+    "welfare": {
+      "chosen": "esenlik",
+      "action": "kept",
+      "date": "2026-09-25"
+    },
+    "wonder": {
+      "chosen": "merak etmek",
+      "action": "changed",
+      "from": "huşu",
+      "origin": "hybrid",
+      "concrete_root": "",
+      "note": "verb phrase 'to wonder'; distinct from curiosity, which keeps 'merak'",
+      "date": "2026-09-25"
+    }
+  },
+  "summary": {
+    "hard_items_reviewed": 29,
+    "knock_on_changes": [
+      "horror",
+      "amusement"
+    ],
+    "reviewed_on": "2026-09-25",
+    "flag_policy": "original flags are kept so the notebook's ok-only robustness check stays conservative; review status is in the 'reviewed' column"
+  }
+}

@@ -1,0 +1,82 @@
+diff --git a/property_generation_experiments/evaluate.py b/property_generation_experiments/evaluate.py
+index 9e9e904..977527d 100644
+--- a/property_generation_experiments/evaluate.py
++++ b/property_generation_experiments/evaluate.py
+@@ -42,6 +42,14 @@ def parse_freq(value) -> Optional[List[float]]:
+     return None
+ 
+ 
++def _nonempty_list(value) -> bool:
++    try:
++        v = ast.literal_eval(str(value))
++    except (ValueError, SyntaxError):
++        return False
++    return isinstance(v, list) and any(str(x).strip() for x in v)
++
++
+ def load_run(path: str, cats: List[str]) -> Optional[pd.DataFrame]:
+     df = pd.read_csv(path)
+     if "word" not in df.columns or "frequencies" not in df.columns:
+@@ -49,6 +57,13 @@ def load_run(path: str, cats: List[str]) -> Optional[pd.DataFrame]:
+     df["word"] = df["word"].astype(str).str.strip()
+     parsed = df["frequencies"].apply(parse_freq)
+     keep = parsed.apply(lambda v: v is not None and len(v) == len(cats))
++    # A row whose properties could not be parsed has no codes. Treat it as
++    # missing rather than as an all-zero profile, which would pull the word's
++    # average toward zero.
++    if "codes" in df.columns:
++        keep = keep & df["codes"].apply(_nonempty_list)
++    if "properties" in df.columns:
++        keep = keep & df["properties"].apply(_nonempty_list)
+     df = df[keep].copy()
+     if df.empty:
+         return None
+diff --git a/property_generation_experiments/src/parsers.py b/property_generation_experiments/src/parsers.py
+index 1c18ba8..d64ec13 100644
+--- a/property_generation_experiments/src/parsers.py
++++ b/property_generation_experiments/src/parsers.py
+@@ -30,13 +30,39 @@ EXP2_CATS = ["taxonomic", "entity", "situation", "introspective"]
+ # Generation parsers
+ # ---------------------------------------------------------------------------
+ 
++_ITEM = re.compile(r"^\s*(?:\d+[\.\)]|[-*\u2022])\s*(.+?)\s*$")
++
++
+ def parse_exp1_response(text: str) -> List[str]:
+-    """Return the four properties from a Harpaintner-style response."""
+-    m = re.search(r"properties\s*:\s*(.*)", text, flags=re.IGNORECASE)
+-    if not m:
++    """Return the four properties from a Harpaintner-style response.
++
++    Accepts the requested 'properties: a, b, c, d' format and, as fallbacks,
++    the common 'anger: a, b, c, d' format, numbered or bulleted lists, and a
++    single comma-separated line. Previously only the first format was read, and
++    everything else was scored downstream as an all-zero profile.
++    """
++    text = (text or "").replace("**", "").strip()
++    if not text or re.match(r"^\s*error\b", text, flags=re.IGNORECASE):
+         return []
+-    line = m.group(1).splitlines()[0]
+-    return [p.strip() for p in line.split(",") if p.strip()]
++    m = re.search(r"properties\s*:", text, flags=re.IGNORECASE)
++    rest = text[m.end():] if m else None
++    if rest is not None:
++        for line in rest.splitlines():
++            if line.strip() and not _ITEM.match(line):
++                return [p.strip() for p in line.split(",") if p.strip()]
++            if line.strip():
++                break
++        items = [_ITEM.match(l).group(1) for l in rest.splitlines() if _ITEM.match(l)]
++        return [i.strip() for i in items]
++    lines = [l for l in text.splitlines() if l.strip()]
++    for l in lines:
++        if ":" in l and l.split(":", 1)[1].count(",") >= 2:
++            return [p.strip() for p in l.split(":", 1)[1].split(",") if p.strip()]
++    items = [_ITEM.match(l).group(1) for l in lines if _ITEM.match(l)]
++    if len(items) >= 2:
++        return [i.strip() for i in items]
++    commas = [l for l in lines if l.count(",") >= 2]
++    return [p.strip() for p in commas[-1].split(",") if p.strip()] if commas else []
+ 
+ 
+ def parse_exp2_response(text: str) -> List[str]:

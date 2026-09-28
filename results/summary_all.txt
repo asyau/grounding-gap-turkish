@@ -1,0 +1,6 @@
+On 293 abstract concepts, 3 runs per language, gemini-3.1-flash-lite generating and coding:
+  Mean r with the Harpaintner human norms: English 0.164, Turkish 0.176
+  Turkish minus English: +0.012 (95% CI -0.058 to +0.092)
+  Internal-state share: English 0.092, Turkish 0.149
+  Verbal-association share: English 0.459, Turkish 0.435
+  Transparent native vs loanword, Sensorimotor shift difference: -0.002 (95% CI -0.049 to +0.048)

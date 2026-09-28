@@ -1,0 +1,8 @@
+key,stimulus,properties,codes,raw_labels,frequencies
+astonishment,astonishment,"['wide eyes', 'dropped jaw', 'magic trick', 'speechless']","['SM', 'SM', 'VA', 'IS_E']","['sensorimotor feature', 'sensorimotor feature', 'association', 'internal state and emotion']","[0.5, 0.25, 0.0, 0.25]"
+death,death,"['grave', 'silence', 'memories', 'finality']","['SM', 'SM', 'IS_E', 'VA']","['sensorimotor feature', 'sensorimotor feature', 'internal state and emotion', 'other abstract concept']","[0.5, 0.25, 0.0, 0.25]"
+distraction,distraction,"['phone', 'squirrel', 'humming noise', 'shiny object']","['SM', 'VA', 'SM', 'SM']","['sensorimotor feature', 'association', 'sensorimotor feature', 'sensorimotor feature']","[0.75, 0.0, 0.0, 0.25]"
+fight,fight,"['anger', 'black eye', 'ring', 'screaming']","['IS_E', 'SM', 'VA', 'SM']","['internal state and emotion', 'sensorimotor feature', 'association', 'sensorimotor feature']","[0.5, 0.25, 0.0, 0.25]"
+mercy,mercy,"[""judge's gavel"", 'soft hand', 'kneeling figure', 'open gate']","['VA', 'SM', 'SC', 'VA']","['association', 'sensorimotor feature', 'social constellation', 'other abstract concept']","[0.25, 0.0, 0.25, 0.5]"
+greed,greed,"['hoarding', 'empty feeling', 'gold coins', 'sharp elbows']","['SM', 'IS_E', 'VA', 'SC']","['sensorimotor feature', 'internal state and emotion', 'association', 'social constellation']","[0.25, 0.25, 0.25, 0.25]"
+wit,wit,"['laughter', 'timing', 'sparkle', 'punchline']","['SC', 'VA', 'SM', 'VA']","['social constellation', 'other abstract concept', 'sensorimotor feature', 'association']","[0.25, 0.0, 0.25, 0.5]"

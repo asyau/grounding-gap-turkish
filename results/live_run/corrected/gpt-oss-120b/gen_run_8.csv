@@ -1,0 +1,49 @@
+key,stimulus,response,properties,parse_mode
+ability,ability,"ability: sports, learning, career, adaptation","['sports', 'learning', 'career', 'adaptation']",word_colon
+advice,advice,"advice: mentor, checklist, hindsight, whisper","['mentor', 'checklist', 'hindsight', 'whisper']",word_colon
+argument,argument,"argument: courtroom, debate, logic, disagreement","['courtroom', 'debate', 'logic', 'disagreement']",word_colon
+beauty,beauty,"beauty: sunrise, melody, confidence, garden","['sunrise', 'melody', 'confidence', 'garden']",word_colon
+being,being,"being: consciousness, mortality, identity, existence","['consciousness', 'mortality', 'identity', 'existence']",word_colon
+boycott,boycott,"boycott: protest, consumer, ethics, exclusion","['protest', 'consumer', 'ethics', 'exclusion']",word_colon
+consideration,consideration,"consideration: contracts, meetings, budgets, ethics","['contracts', 'meetings', 'budgets', 'ethics']",word_colon
+consolation,consolation,"consolation: blanket, tea, late-night call, sunrise","['blanket', 'tea', 'late-night call', 'sunrise']",word_colon
+convention,convention,"convention: conference, dress code, tradition, schedule","['conference', 'dress code', 'tradition', 'schedule']",word_colon
+custom,custom,"custom: tailoring, boutique, personalization, niche","['tailoring', 'boutique', 'personalization', 'niche']",word_colon
+difference,difference,"difference: contrast, measurement, change, diversity","['contrast', 'measurement', 'change', 'diversity']",word_colon
+downfall,downfall,"downfall: collapse, betrayal, scandal, ruin","['collapse', 'betrayal', 'scandal', 'ruin']",word_colon
+eagerness,eagerness,"eagerness: countdown, first step, bright eyes, early morning","['countdown', 'first step', 'bright eyes', 'early morning']",word_colon
+exploitation,exploitation,"exploitation: labor, resources, colonization, manipulation","['labor', 'resources', 'colonization', 'manipulation']",word_colon
+forgiveness,forgiveness,"forgiveness: apology, healing, second chances, letting go","['apology', 'healing', 'second chances', 'letting go']",word_colon
+guess,guess,"guess: mystery, lottery, intuition, speculation","['mystery', 'lottery', 'intuition', 'speculation']",word_colon
+ideal,ideal,"ideal: perfection, ambition, blueprint, role‑model","['perfection', 'ambition', 'blueprint', 'role‑model']",word_colon
+indifference,indifference,"indifference: apathy, detachment, neutrality, indeterminate
+
+","['apathy', 'detachment', 'neutrality', 'indeterminate']",word_colon
+insurrection,insurrection,"insurrection: rebellion, barricades, secret meetings, shattered authority","['rebellion', 'barricades', 'secret meetings', 'shattered authority']",word_colon
+intention,intention,"intention: goal, promise, focus, plan","['goal', 'promise', 'focus', 'plan']",word_colon
+jealousy,jealousy,"jealousy: envy, rivalry, insecurity, comparison","['envy', 'rivalry', 'insecurity', 'comparison']",word_colon
+judgement,judgement,"judgement: courtroom, scales, verdict, bias","['courtroom', 'scales', 'verdict', 'bias']",word_colon
+manipulation,manipulation,"manipulation: puppets, chess, magnets, negotiations","['puppets', 'chess', 'magnets', 'negotiations']",word_colon
+manners,manners,"manners: dinner etiquette, polite greetings, table settings, respectful listening","['dinner etiquette', 'polite greetings', 'table settings', 'respectful listening']",word_colon
+misdemeanor,misdemeanor,"misdemeanor: courtroom, police report, minor offense, legal record","['courtroom', 'police report', 'minor offense', 'legal record']",word_colon
+need,need,"need: hunger, deadlines, love, repair","['hunger', 'deadlines', 'love', 'repair']",word_colon
+notion,notion,"notion: brainstorm, sketchbook, startup, curiosity","['brainstorm', 'sketchbook', 'startup', 'curiosity']",word_colon
+objection,objection,"objection: courtroom, protest, pause, rebuttal","['courtroom', 'protest', 'pause', 'rebuttal']",word_colon
+obligation,obligation,"obligation: contract, duty, deadline, promise","['contract', 'duty', 'deadline', 'promise']",word_colon
+observation,observation,"observation: telescope, notebook, patient, data","['telescope', 'notebook', 'patient', 'data']",word_colon
+occupation,occupation,"occupation: résumé, uniform, schedule, paycheck","['résumé', 'uniform', 'schedule', 'paycheck']",word_colon
+order,order,"order: queue, schedule, hierarchy, rules","['queue', 'schedule', 'hierarchy', 'rules']",word_colon
+pardon,pardon,"pardon: courtroom, apology, second chances, diplomatic immunity","['courtroom', 'apology', 'second chances', 'diplomatic immunity']",word_colon
+potential,potential,"potential: seed, future, training, surprise","['seed', 'future', 'training', 'surprise']",word_colon
+proof,proof,"proof: experiment, courtroom, mathematics, verification","['experiment', 'courtroom', 'mathematics', 'verification']",word_colon
+realization,realization,"realization: lightbulb, epiphany, breakthrough, aha moment","['lightbulb', 'epiphany', 'breakthrough', 'aha moment']",word_colon
+reassurance,reassurance,"reassurance: calm voice, warm blanket, nodding head, steady heartbeat","['calm voice', 'warm blanket', 'nodding head', 'steady heartbeat']",word_colon
+remorse,remorse,"remorse: guilt, confession, sleepless nights, broken trust","['guilt', 'confession', 'sleepless nights', 'broken trust']",word_colon
+resemblance,resemblance,"resemblance: twins, family photos, echo, pattern","['twins', 'family photos', 'echo', 'pattern']",word_colon
+self-dependence,self-dependence,"self-dependence: solitude, budgeting, self‑teaching, DIY projects","['solitude', 'budgeting', 'self‑teaching', 'DIY projects']",word_colon
+value,value,"value: price, ethics, measurement, investment","['price', 'ethics', 'measurement', 'investment']",word_colon
+victory,victory,"victory: trophy, parade, celebration, anthem","['trophy', 'parade', 'celebration', 'anthem']",word_colon
+will,will,"will: inheritance, determination, courtroom, future
+
+","['inheritance', 'determination', 'courtroom', 'future']",word_colon
+willingness,willingness,"willingness: volunteer, adventure, open‑door, first‑step","['volunteer', 'adventure', 'open‑door', 'first‑step']",word_colon

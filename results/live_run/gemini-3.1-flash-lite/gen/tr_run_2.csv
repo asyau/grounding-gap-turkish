@@ -1,0 +1,587 @@
+key,stimulus,response,properties,parse_mode
+realization,farkına varma,"kelime: farkına varma
+özellikler: uyanış, ışık, gerçek, duraksama","['uyanış', 'ışık', 'gerçek', 'duraksama']",label
+fright,ürküntü,"kelime: ürküntü
+özellikler: karanlık, titreme, geri çekilme, kalp çarpıntısı","['karanlık', 'titreme', 'geri çekilme', 'kalp çarpıntısı']",label
+welfare,esenlik,"kelime: esenlik
+özellikler: huzur, rüzgar, sağlık, dinginlik","['huzur', 'rüzgar', 'sağlık', 'dinginlik']",label
+power,güç,"kelime: güç
+özellikler: kas, irade, fırtına, liderlik","['kas', 'irade', 'fırtına', 'liderlik']",label
+desperation,çaresizlik,"kelime: çaresizlik
+özellikler: çıkmaz, sessizlik, düğüm, karanlık","['çıkmaz', 'sessizlik', 'düğüm', 'karanlık']",label
+meanness,alçaklık,"kelime: alçaklık
+özellikler: ihanet, karanlık, vicdansızlık, gölge","['ihanet', 'karanlık', 'vicdansızlık', 'gölge']",label
+joy,sevinç,"kelime: sevinç
+özellikler: gülümseme, uçurtma, bayram, zafer","['gülümseme', 'uçurtma', 'bayram', 'zafer']",label
+value,değer,"kelime: değer
+özellikler: emek, ölçü, saygı, nadirlik","['emek', 'ölçü', 'saygı', 'nadirlik']",label
+habit,alışkanlık,"kelime: alışkanlık
+özellikler: sabah, tekrar, rutin, otomatizm","['sabah', 'tekrar', 'rutin', 'otomatizm']",label
+honor,onur,"kelime: onur
+özellikler: dik duruş, madalya, vicdan, sadakat","['dik duruş', 'madalya', 'vicdan', 'sadakat']",label
+anger,öfke,"kelime: öfke
+özellikler: kızarıklık, patlama, adaletsizlik, ateş","['kızarıklık', 'patlama', 'adaletsizlik', 'ateş']",label
+insurrection,ayaklanma,"kelime: ayaklanma
+özellikler: barikat, slogan, değişim, öfke","['barikat', 'slogan', 'değişim', 'öfke']",label
+charm,çekicilik,"kelime: çekicilik
+özellikler: mıknatıs, gülümseme, karizma, özgüven","['mıknatıs', 'gülümseme', 'karizma', 'özgüven']",label
+proposal,öneri,"kelime: öneri
+özellikler: tavsiye, fikir, gelişim, kapı","['tavsiye', 'fikir', 'gelişim', 'kapı']",label
+dream,rüya,"kelime: rüya
+özellikler: gece, uçmak, bilinçaltı, uyanış","['gece', 'uçmak', 'bilinçaltı', 'uyanış']",label
+ambition,hırs,"kelime: hırs
+özellikler: zirve, uykusuzluk, ateş, kazanma","['zirve', 'uykusuzluk', 'ateş', 'kazanma']",label
+luxury,lüks,"kelime: lüks
+özellikler: ipek, şampanya, yat, ihtişam","['ipek', 'şampanya', 'yat', 'ihtişam']",label
+reassurance,güvence,"kelime: güvence
+özellikler: kalkan, imza, sığınak, söz","['kalkan', 'imza', 'sığınak', 'söz']",label
+wish,dilek,"kelime: dilek
+özellikler: yıldız, mum, umut, yazı","['yıldız', 'mum', 'umut', 'yazı']",label
+theory,kuram,"kelime: kuram
+özellikler: laboratuvar, hipotez, gözlük, kütüphane","['laboratuvar', 'hipotez', 'gözlük', 'kütüphane']",label
+argument,tartışma,"kelime: tartışma
+özellikler: ses, fikir, karşıtlık, çözüm","['ses', 'fikir', 'karşıtlık', 'çözüm']",label
+overview,genel bakış,"kelime: genel bakış
+özellikler: manzara, özet, harita, zirve","['manzara', 'özet', 'harita', 'zirve']",label
+safety,güvenlik,"kelime: güvenlik
+özellikler: kilit, duvar, kalkan, nöbetçi","['kilit', 'duvar', 'kalkan', 'nöbetçi']",label
+stability,istikrar,"kelime: istikrar
+özellikler: kaya, çizgili grafik, kök salmak, pusula","['kaya', 'çizgili grafik', 'kök salmak', 'pusula']",label
+trust,güven,"kelime: güven
+özellikler: sırt, temel, kalkan, pusula","['sırt', 'temel', 'kalkan', 'pusula']",label
+revenge,intikam,"kelime: intikam
+özellikler: soğukluk, karanlık, hesaplaşma, ateş","['soğukluk', 'karanlık', 'hesaplaşma', 'ateş']",label
+advice,öğüt,"kelime: öğüt
+özellikler: tecrübe, yaşlılık, rehberlik, süzgeç","['tecrübe', 'yaşlılık', 'rehberlik', 'süzgeç']",label
+jealousy,kıskançlık,"kelime: kıskançlık
+özellikler: zehir, gözetleme, yetersizlik, sahiplenme","['zehir', 'gözetleme', 'yetersizlik', 'sahiplenme']",label
+wealth,zenginlik,"kelime: zenginlik
+özellikler: konfor, imkan, özgürlük, sorumluluk","['konfor', 'imkan', 'özgürlük', 'sorumluluk']",label
+manipulation,manipülasyon,"kelime: manipülasyon
+özellikler: kukla, sisli yol, gizli ajanda, yönlendirme","['kukla', 'sisli yol', 'gizli ajanda', 'yönlendirme']",label
+ability,kabiliyet,"kelime: kabiliyet
+özellikler: ustalık, keşif, potansiyel, özgünlük","['ustalık', 'keşif', 'potansiyel', 'özgünlük']",label
+admiration,hayranlık,"kelime: hayranlık
+özellikler: yıldızlar, derin nefes, parlayan gözler, ulaşılmazlık","['yıldızlar', 'derin nefes', 'parlayan gözler', 'ulaşılmazlık']",label
+activity,etkinlik,"kelime: etkinlik
+özellikler: planlama, katılımcı, enerji, zaman","['planlama', 'katılımcı', 'enerji', 'zaman']",label
+addiction,bağımlılık,"kelime: bağımlılık
+özellikler: zincir, döngü, arayış, tutsaklık","['zincir', 'döngü', 'arayış', 'tutsaklık']",label
+advantage,avantaj,"kelime: avantaj
+özellikler: hız, kazanç, fırsat, öncelik","['hız', 'kazanç', 'fırsat', 'öncelik']",label
+achievement,kazanım,"kelime: kazanım
+özellikler: ter, madalya, tecrübe, gelişim","['ter', 'madalya', 'tecrübe', 'gelişim']",label
+adventure,macera,"kelime: macera
+özellikler: keşif, harita, bilinmezlik, adrenalin","['keşif', 'harita', 'bilinmezlik', 'adrenalin']",label
+accusation,suçlama,"kelime: suçlama
+özellikler: parmak, mahkeme, savunma, sessizlik","['parmak', 'mahkeme', 'savunma', 'sessizlik']",label
+agony,ıstırap,"kelime: ıstırap
+özellikler: karanlık, uykusuzluk, sessizlik, kırgınlık","['karanlık', 'uykusuzluk', 'sessizlik', 'kırgınlık']",label
+agreement,anlaşma,"kelime: anlaşma
+özellikler: imza, el sıkışma, uzlaşma, mühür","['imza', 'el sıkışma', 'uzlaşma', 'mühür']",label
+amazement,hayret,"kelime: hayret
+özellikler: kocaman açılmış gözler, donup kalma, beklenmedik an, ağzın açık kalması","['kocaman açılmış gözler', 'donup kalma', 'beklenmedik an', 'ağzın açık kalması']",label
+amusement,eğlenme,"kelime: eğlenme
+özellikler: kahkaha, oyun, müzik, tatil","['kahkaha', 'oyun', 'müzik', 'tatil']",label
+anxiety,kaygı,"kelime: kaygı
+özellikler: kalp çarpıntısı, belirsizlik, uykusuzluk, terleyen avuçlar","['kalp çarpıntısı', 'belirsizlik', 'uykusuzluk', 'terleyen avuçlar']",label
+apology,özür,"kelime: özür
+özellikler: pişmanlık, mahcubiyet, af, telafi","['pişmanlık', 'mahcubiyet', 'af', 'telafi']",label
+appearance,görünüm,"kelime: görünüm
+özellikler: ayna, manzara, kıyafet, algı","['ayna', 'manzara', 'kıyafet', 'algı']",label
+ambush,pusu,"kelime: pusu
+özellikler: sessizlik, sabır, gölge, avcı","['sessizlik', 'sabır', 'gölge', 'avcı']",label
+appetite,iştah,"kelime: iştah
+özellikler: ziyafet, açlık, aroma, sabırsızlık","['ziyafet', 'açlık', 'aroma', 'sabırsızlık']",label
+aspect,yön,"kelime: yön
+özellikler: pusula, yolculuk, karar, hedef","['pusula', 'yolculuk', 'karar', 'hedef']",label
+art,sanat,"kelime: sanat
+özellikler: fırça, sergi, estetik, hayal","['fırça', 'sergi', 'estetik', 'hayal']",label
+aptitude,yatkınlık,"kelime: yatkınlık
+özellikler: yetenek, eğilim, hazırlık, uyum","['yetenek', 'eğilim', 'hazırlık', 'uyum']",label
+assassination,suikast,"kelime: suikast
+özellikler: karanlık, plan, sessizlik, hedef","['karanlık', 'plan', 'sessizlik', 'hedef']",label
+assumption,varsayım,"kelime: varsayım
+özellikler: olasılık, kanıtlanmamış, teorik, başlangıç","['olasılık', 'kanıtlanmamış', 'teorik', 'başlangıç']",label
+application,başvuru,"kelime: başvuru
+özellikler: dilekçe, imza, heyecan, sıra","['dilekçe', 'imza', 'heyecan', 'sıra']",label
+astonishment,şaşkınlık,"kelime: şaşkınlık
+özellikler: kocaman gözler, donup kalmak, beklenmedik, ağzı açık kalmak","['kocaman gözler', 'donup kalmak', 'beklenmedik', 'ağzı açık kalmak']",label
+attack,saldırı,"kelime: saldırı
+özellikler: adrenalin, savunma, kaos, yara","['adrenalin', 'savunma', 'kaos', 'yara']",label
+attention,dikkat,"kelime: dikkat
+özellikler: odaklanma, gözlem, titizlik, farkındalık","['odaklanma', 'gözlem', 'titizlik', 'farkındalık']",label
+attraction,çekim,"kelime: çekim
+özellikler: mıknatıs, sinema, yerçekimi, flört","['mıknatıs', 'sinema', 'yerçekimi', 'flört']",label
+beauty,güzellik,"kelime: güzellik
+özellikler: çiçek, simetri, gün batımı, sanat","['çiçek', 'simetri', 'gün batımı', 'sanat']",label
+betrayal,ihanet,"kelime: ihanet
+özellikler: bıçak, karanlık, güven, gözyaşı","['bıçak', 'karanlık', 'güven', 'gözyaşı']",label
+blackmail,şantaj,"kelime: şantaj
+özellikler: korku, gizli, baskı, köşeye sıkışmak","['korku', 'gizli', 'baskı', 'köşeye sıkışmak']",label
+being,varlık,"kelime: varlık
+özellikler: nefes, madde, evren, bilinç","['nefes', 'madde', 'evren', 'bilinç']",label
+boredom,can sıkıntısı,"kelime: can sıkıntısı
+özellikler: saat, boşluk, tavan, esneme","['saat', 'boşluk', 'tavan', 'esneme']",label
+bravery,yiğitlik,"kelime: yiğitlik
+özellikler: kalkan, meydan, dik duruş, siper","['kalkan', 'meydan', 'dik duruş', 'siper']",label
+career,kariyer,"kelime: kariyer
+özellikler: terfi, azim, ofis, vizyon","['terfi', 'azim', 'ofis', 'vizyon']",label
+catastrophe,felaket,"kelime: felaket
+özellikler: enkaz, çaresizlik, feryat, toz","['enkaz', 'çaresizlik', 'feryat', 'toz']",label
+carefulness,özen,"kelime: özen
+özellikler: parmak uçları, büyüteç, sessizlik, ilmek","['parmak uçları', 'büyüteç', 'sessizlik', 'ilmek']",label
+boycott,boykot,"kelime: boykot
+özellikler: protesto, tercihler, tepki, tutum","['protesto', 'tercihler', 'tepki', 'tutum']",label
+challenge,meydan okuma,"kelime: meydan okuma
+özellikler: adrenalin, kararlılık, engel, zirve","['adrenalin', 'kararlılık', 'engel', 'zirve']",label
+caution,temkin,"kelime: temkin
+özellikler: frene basmak, uçurum, sessizlik, adım","['frene basmak', 'uçurum', 'sessizlik', 'adım']",label
+chaos,kaos,"kelime: kaos
+özellikler: gürültü, karmaşa, belirsizlik, kıvılcım","['gürültü', 'karmaşa', 'belirsizlik', 'kıvılcım']",label
+character,karakter,"kelime: karakter
+özellikler: duruş, omurga, tutarlılık, imza","['duruş', 'omurga', 'tutarlılık', 'imza']",label
+comfort,rahatlık,"kelime: rahatlık
+özellikler: battaniye, sessizlik, esneme, pijama","['battaniye', 'sessizlik', 'esneme', 'pijama']",label
+compassion,şefkat,"kelime: şefkat
+özellikler: anne, dokunuş, merhamet, sığınak","['anne', 'dokunuş', 'merhamet', 'sığınak']",label
+commitment,bağlılık,"kelime: bağlılık
+özellikler: sadakat, zincir, kök salmak, söz vermek","['sadakat', 'zincir', 'kök salmak', 'söz vermek']",label
+comparison,karşılaştırma,"kelime: karşılaştırma
+özellikler: terazi, aynalar, rekabet, analiz","['terazi', 'aynalar', 'rekabet', 'analiz']",label
+competence,yetkinlik,"kelime: yetkinlik
+özellikler: ustalık, tecrübe, çözüm, derinlik","['ustalık', 'tecrübe', 'çözüm', 'derinlik']",label
+compromise,uzlaşma,"kelime: uzlaşma
+özellikler: el sıkışma, orta yol, pürüzlerin giderilmesi, ortak payda","['el sıkışma', 'orta yol', 'pürüzlerin giderilmesi', 'ortak payda']",label
+compulsion,zorlama,"kelime: zorlama
+özellikler: baskı, çatışma, mekanik, direnç","['baskı', 'çatışma', 'mekanik', 'direnç']",label
+confession,itiraf,"kelime: itiraf
+özellikler: pişmanlık, gizem, arınma, sessizlik","['pişmanlık', 'gizem', 'arınma', 'sessizlik']",label
+conflict,çatışma,"kelime: çatışma
+özellikler: barut, gürültü, fikir ayrılığı, gerginlik","['barut', 'gürültü', 'fikir ayrılığı', 'gerginlik']",label
+consolation,teselli,"kelime: teselli
+özellikler: omuz, sessizlik, yağmur, battaniye","['omuz', 'sessizlik', 'yağmur', 'battaniye']",label
+contempt,küçümseme,"kelime: küçümseme
+özellikler: burun kıvırma, yüksekten bakma, alaycı gülüş, omuz silkme","['burun kıvırma', 'yüksekten bakma', 'alaycı gülüş', 'omuz silkme']",label
+convention,uzlaşım,"kelime: uzlaşım
+özellikler: el sıkışma, orta yol, pürüzlerin giderilmesi, ortak payda","['el sıkışma', 'orta yol', 'pürüzlerin giderilmesi', 'ortak payda']",label
+consideration,değerlendirme,"kelime: değerlendirme
+özellikler: karne, sınav, kıyaslama, geri-bildirim","['karne', 'sınav', 'kıyaslama', 'geri-bildirim']",label
+cooperation,işbirliği,"kelime: işbirliği
+özellikler: ortak hedef, omuz omuza, verimlilik, uyum","['ortak hedef', 'omuz omuza', 'verimlilik', 'uyum']",label
+courage,cesaret,"kelime: cesaret
+özellikler: uçurum, kalkan, titreyen eller, zirve","['uçurum', 'kalkan', 'titreyen eller', 'zirve']",label
+creativity,yaratıcılık,"kelime: yaratıcılık
+özellikler: kıvılcım, keşif, özgünlük, renkler","['kıvılcım', 'keşif', 'özgünlük', 'renkler']",label
+crime,suç,"kelime: suç
+özellikler: pişmanlık, mahkeme, karanlık, vicdan","['pişmanlık', 'mahkeme', 'karanlık', 'vicdan']",label
+criticism,eleştiri,"kelime: eleştiri
+özellikler: ayna, analiz, gelişim, kusur","['ayna', 'analiz', 'gelişim', 'kusur']",label
+cruelty,zulüm,"kelime: zulüm
+özellikler: karanlık, çaresizlik, zincir, feryat","['karanlık', 'çaresizlik', 'zincir', 'feryat']",label
+culture,kültür,"kelime: kültür
+özellikler: gelenek, sanat, birikim, coğrafya","['gelenek', 'sanat', 'birikim', 'coğrafya']",label
+death,ölüm,"kelime: ölüm
+özellikler: soğukluk, sessizlik, toprak, son","['soğukluk', 'sessizlik', 'toprak', 'son']",label
+custom,âdet,"kelime: âdet
+özellikler: gelenek, takvim, döngü, alışkanlık","['gelenek', 'takvim', 'döngü', 'alışkanlık']",label
+decision,karar,"kelime: karar
+özellikler: yol ayrımı, sorumluluk, netlik, imza","['yol ayrımı', 'sorumluluk', 'netlik', 'imza']",label
+curiosity,merak,"kelime: merak
+özellikler: keşif, soru, büyüteç, bilinmezlik","['keşif', 'soru', 'büyüteç', 'bilinmezlik']",label
+demand,talep,"kelime: talep
+özellikler: kuyruk, arz, beklenti, dilekçe","['kuyruk', 'arz', 'beklenti', 'dilekçe']",label
+desire,arzu,"kelime: arzu
+özellikler: ulaşılmazlık, heyecan, kıvılcım, hedef","['ulaşılmazlık', 'heyecan', 'kıvılcım', 'hedef']",label
+danger,tehlike,"kelime: tehlike
+özellikler: siren, uçurum, karanlık, adrenalin","['siren', 'uçurum', 'karanlık', 'adrenalin']",label
+destruction,yıkım,"kelime: yıkım
+özellikler: toz, enkaz, sessizlik, başlangıç","['toz', 'enkaz', 'sessizlik', 'başlangıç']",label
+dictatorship,diktatörlük,"kelime: diktatörlük
+özellikler: baskı, sansür, biat, yasak","['baskı', 'sansür', 'biat', 'yasak']",label
+detection,tespit,"kelime: tespit
+özellikler: büyüteç, laboratuvar, onay, hakikat","['büyüteç', 'laboratuvar', 'onay', 'hakikat']",label
+difficulty,zorluk,"kelime: zorluk
+özellikler: ter, dağ, kararlılık, sınav","['ter', 'dağ', 'kararlılık', 'sınav']",label
+diligence,çalışkanlık,"kelime: çalışkanlık
+özellikler: alınteri, başarı, sabah, istikrar","['alınteri', 'başarı', 'sabah', 'istikrar']",label
+disadvantage,dezavantaj,"kelime: dezavantaj
+özellikler: engel, gecikme, eksiklik, zorluk","['engel', 'gecikme', 'eksiklik', 'zorluk']",label
+dignity,haysiyet,"kelime: haysiyet
+özellikler: dik duruş, öz saygı, tavizsizlik, onurlu sessizlik","['dik duruş', 'öz saygı', 'tavizsizlik', 'onurlu sessizlik']",label
+difference,fark,"kelime: fark
+özellikler: kontrast, mesafe, ayrışma, çeşitlilik","['kontrast', 'mesafe', 'ayrışma', 'çeşitlilik']",label
+disappointment,hayal kırıklığı,"kelime: hayal kırıklığı
+özellikler: kırık camlar, derin sessizlik, yağmurlu hava, beklenen trenin gelmemesi","['kırık camlar', 'derin sessizlik', 'yağmurlu hava', 'beklenen trenin gelmemesi']",label
+discovery,keşif,"kelime: keşif
+özellikler: harita, merak, pusula, bilinmezlik","['harita', 'merak', 'pusula', 'bilinmezlik']",label
+disgust,iğrenme,"kelime: iğrenme
+özellikler: bozulmuş yemek, kötü koku, tiksinti, uzaklaşma","['bozulmuş yemek', 'kötü koku', 'tiksinti', 'uzaklaşma']",label
+dismay,dehşet,"kelime: dehşet
+özellikler: karanlık, titreme, çığlık, kaçış","['karanlık', 'titreme', 'çığlık', 'kaçış']",label
+distance,mesafe,"kelime: mesafe
+özellikler: yalnızlık, yol, teleskop, soğukluk","['yalnızlık', 'yol', 'teleskop', 'soğukluk']",label
+distraction,dikkat dağınıklığı,"kelime: dikkat dağınıklığı
+özellikler: kelebek, sis, odak, parçalanma","['kelebek', 'sis', 'odak', 'parçalanma']",label
+diversity,çeşitlilik,"kelime: çeşitlilik
+özellikler: gökkuşağı, mozaik, baharat, orman","['gökkuşağı', 'mozaik', 'baharat', 'orman']",label
+dispute,anlaşmazlık,"kelime: anlaşmazlık
+özellikler: seslerin yükselmesi, uzlaşmazlık, gerginlik, farklı bakış açıları","['seslerin yükselmesi', 'uzlaşmazlık', 'gerginlik', 'farklı bakış açıları']",label
+doubt,şüphe,"kelime: şüphe
+özellikler: karanlık, dedektif, titreme, soru","['karanlık', 'dedektif', 'titreme', 'soru']",label
+downfall,çöküş,"kelime: çöküş
+özellikler: enkaz, sessizlik, toz, yerçekimi","['enkaz', 'sessizlik', 'toz', 'yerçekimi']",label
+duty,vazife,"kelime: vazife
+özellikler: sorumluluk, üniforma, disiplin, başarı","['sorumluluk', 'üniforma', 'disiplin', 'başarı']",label
+eagerness,heves,"kelime: heves
+özellikler: kıvılcım, başlangıç, merak, heyecan","['kıvılcım', 'başlangıç', 'merak', 'heyecan']",label
+elegance,zarafet,"kelime: zarafet
+özellikler: kuğu, ipek, tebessüm, bale","['kuğu', 'ipek', 'tebessüm', 'bale']",label
+effort,çaba,"kelime: çaba
+özellikler: ter, zirve, irade, basamak","['ter', 'zirve', 'irade', 'basamak']",label
+enchantment,büyülenme,"kelime: büyülenme
+özellikler: hipnoz, masal, donakalmak, ışık","['hipnoz', 'masal', 'donakalmak', 'ışık']",label
+enthusiasm,coşku,"kelime: coşku
+özellikler: kalp atışı, haykırış, dans, kıvılcım","['kalp atışı', 'haykırış', 'dans', 'kıvılcım']",label
+emotion,duygu,"kelime: duygu
+özellikler: kalp, gözyaşı, müzik, fırtına","['kalp', 'gözyaşı', 'müzik', 'fırtına']",label
+envy,haset,"kelime: haset
+özellikler: kıyaslama, zehir, eksiklik, gözleme","['kıyaslama', 'zehir', 'eksiklik', 'gözleme']",label
+error,hata,"kelime: hata
+özellikler: pişmanlık, düzeltme, tecrübe, kırıklık","['pişmanlık', 'düzeltme', 'tecrübe', 'kırıklık']",label
+excitement,heyecan,"kelime: heyecan
+özellikler: kalp çarpıntısı, adrenalin, kıpırtı, beklenti","['kalp çarpıntısı', 'adrenalin', 'kıpırtı', 'beklenti']",label
+event,olay,"kelime: olay
+özellikler: haber, tanık, karmaşa, sonuç","['haber', 'tanık', 'karmaşa', 'sonuç']",label
+expectation,beklenti,"kelime: beklenti
+özellikler: heyecan, takvim, sabırsızlık, sürpriz","['heyecan', 'takvim', 'sabırsızlık', 'sürpriz']",label
+experience,deneyim,"kelime: deneyim
+özellikler: yaşanmışlık, hatalar, yolculuk, olgunluk","['yaşanmışlık', 'hatalar', 'yolculuk', 'olgunluk']",label
+exploitation,sömürü,"kelime: sömürü
+özellikler: ter, haksızlık, yorgunluk, vicdansızlık","['ter', 'haksızlık', 'yorgunluk', 'vicdansızlık']",label
+explanation,açıklama,"kelime: açıklama
+özellikler: ders, parmak, çözüm, fener","['ders', 'parmak', 'çözüm', 'fener']",label
+faithfulness,sadakat,"kelime: sadakat
+özellikler: köpek, yemin, kale, gölge","['köpek', 'yemin', 'kale', 'gölge']",label
+fantasy,fantezi,"kelime: fantezi
+özellikler: ejderhalar, rüyalar, şato, büyü","['ejderhalar', 'rüyalar', 'şato', 'büyü']",label
+fear,korku,"kelime: korku
+özellikler: karanlık, titreme, kalp atışı, kaçış","['karanlık', 'titreme', 'kalp atışı', 'kaçış']",label
+fight,kavga,"kelime: kavga
+özellikler: bağrışma, yumruk, öfke, gürültü","['bağrışma', 'yumruk', 'öfke', 'gürültü']",label
+fate,kader,"kelime: kader
+özellikler: yol ayrımı, yazgı, bilinmezlik, alın yazısı","['yol ayrımı', 'yazgı', 'bilinmezlik', 'alın yazısı']",label
+fitness,zindelik,"kelime: zindelik
+özellikler: sabah, spor, nefes, enerji","['sabah', 'spor', 'nefes', 'enerji']",label
+flexibility,esneklik,"kelime: esneklik
+özellikler: jimnastik, lastik, uyum, yay","['jimnastik', 'lastik', 'uyum', 'yay']",label
+force,kuvvet,"kelime: kuvvet
+özellikler: kaslar, direnç, yerçekimi, kararlılık","['kaslar', 'direnç', 'yerçekimi', 'kararlılık']",label
+forgiveness,bağışlama,"kelime: bağışlama
+özellikler: yükten kurtulma, beyaz bir sayfa, huzur, nezaket","['yükten kurtulma', 'beyaz bir sayfa', 'huzur', 'nezaket']",label
+freedom,özgürlük,"kelime: özgürlük
+özellikler: kanatlar, ufuk, zincirsizlik, rüzgar","['kanatlar', 'ufuk', 'zincirsizlik', 'rüzgar']",label
+frustration,hüsran,"kelime: hüsran
+özellikler: kırık dökük, boşluk, pişmanlık, yağmur","['kırık dökük', 'boşluk', 'pişmanlık', 'yağmur']",label
+fun,eğlence,"kelime: eğlence
+özellikler: kahkaha, oyun, müzik, tatil","['kahkaha', 'oyun', 'müzik', 'tatil']",label
+genius,deha,"kelime: deha
+özellikler: satranç, gece, laboratuvar, kütüphane","['satranç', 'gece', 'laboratuvar', 'kütüphane']",label
+fury,hiddet,"kelime: hiddet
+özellikler: kızarıklık, patlama, diş gıcırdatma, kontrol kaybı","['kızarıklık', 'patlama', 'diş gıcırdatma', 'kontrol kaybı']",label
+glory,şan,"kelime: şan
+özellikler: alkışlar, zirve, madalya, yankı","['alkışlar', 'zirve', 'madalya', 'yankı']",label
+future,gelecek,"kelime: gelecek
+özellikler: belirsizlik, umut, teknoloji, zaman","['belirsizlik', 'umut', 'teknoloji', 'zaman']",label
+gratitude,minnettarlık,"kelime: minnettarlık
+özellikler: tebessüm, kalp, el sıkışma, huzur","['tebessüm', 'kalp', 'el sıkışma', 'huzur']",label
+grace,incelik,"kelime: incelik
+özellikler: porselen, nezaket, dantel, fısıltı","['porselen', 'nezaket', 'dantel', 'fısıltı']",label
+greed,açgözlülük,"kelime: açgözlülük
+özellikler: doyumsuzluk, biriktirme, karanlık, uçurum","['doyumsuzluk', 'biriktirme', 'karanlık', 'uçurum']",label
+guess,tahmin,"kelime: tahmin
+özellikler: olasılık, fal, bilinmezlik, analiz","['olasılık', 'fal', 'bilinmezlik', 'analiz']",label
+happiness,mutluluk,"kelime: mutluluk
+özellikler: gülümseme, huzur, bahar, paylaşım","['gülümseme', 'huzur', 'bahar', 'paylaşım']",label
+hate,nefret,"kelime: nefret
+özellikler: dikenli tel, karanlık, kalp çarpıntısı, zehir","['dikenli tel', 'karanlık', 'kalp çarpıntısı', 'zehir']",label
+help,yardım,"kelime: yardım
+özellikler: el uzatma, dayanışma, merhamet, çözüm","['el uzatma', 'dayanışma', 'merhamet', 'çözüm']",label
+hope,umut,"kelime: umut
+özellikler: filiz, şafak, bekleyiş, anahtar","['filiz', 'şafak', 'bekleyiş', 'anahtar']",label
+hint,ipucu,"kelime: okyanus
+özellikler: derinlik, dalga, mavi, gizem","['derinlik', 'dalga', 'mavi', 'gizem']",label
+home,ev,"kelime: ev
+özellikler: huzur, anahtar, aile, dinlenme","['huzur', 'anahtar', 'aile', 'dinlenme']",label
+horror,yoğun korku,"kelime: yoğun korku
+özellikler: titreme, kaçma isteği, kalp çarpıntısı, karanlık","['titreme', 'kaçma isteği', 'kalp çarpıntısı', 'karanlık']",label
+hunger,açlık,"kelime: açlık
+özellikler: mide, yemek, gurultu, sabırsızlık","['mide', 'yemek', 'gurultu', 'sabırsızlık']",label
+humor,mizah,"kelime: mizah
+özellikler: kahkaha, ironi, zeka, gözlem","['kahkaha', 'ironi', 'zeka', 'gözlem']",label
+hurry,acele,"kelime: acele
+özellikler: kalp çarpıntısı, koşuşturma, ter, saat","['kalp çarpıntısı', 'koşuşturma', 'ter', 'saat']",label
+idea,fikir,"kelime: fikir
+özellikler: kıvılcım, ampul, tartışma, keşif","['kıvılcım', 'ampul', 'tartışma', 'keşif']",label
+ideal,ülkü,"kelime: ülke
+özellikler: bayrak, aidiyet, vatan, gelecek","['bayrak', 'aidiyet', 'vatan', 'gelecek']",label
+impression,izlenim,"kelime: izlenim
+özellikler: kıyafet, bakış, tahmin, anı","['kıyafet', 'bakış', 'tahmin', 'anı']",label
+illusion,yanılsama,"kelime: yanılsama
+özellikler: serap, ayna, sis, gölge","['serap', 'ayna', 'sis', 'gölge']",label
+incentive,teşvik,"kelime: teşvik
+özellikler: alkış, madalya, basamak, rüzgar","['alkış', 'madalya', 'basamak', 'rüzgar']",label
+independence,bağımsızlık,"kelime: bağımsızlık
+özellikler: zincirler, gökyüzü, irade, bayrak","['zincirler', 'gökyüzü', 'irade', 'bayrak']",label
+indifference,kayıtsızlık,"kelime: kayıtsızlık
+özellikler: duvar, gri, sessizlik, boşluk","['duvar', 'gri', 'sessizlik', 'boşluk']",label
+influence,etki,"kelime: etki
+özellikler: dalga, iz, değişim, tepki","['dalga', 'iz', 'değişim', 'tepki']",label
+insanity,delilik,"kelime: delilik
+özellikler: kaos, boya, serbestlik, uçurum","['kaos', 'boya', 'serbestlik', 'uçurum']",label
+intention,niyet,"kelime: niyet
+özellikler: eylem, başlangıç, içtenlik, hedef","['eylem', 'başlangıç', 'içtenlik', 'hedef']",label
+insult,hakaret,"kelime: hakaret
+özellikler: öfke, soğukluk, vicdan, sessizlik","['öfke', 'soğukluk', 'vicdan', 'sessizlik']",label
+invention,buluş,"kelime: buluş
+özellikler: kıvılcım, laboratuvar, keşif, patent","['kıvılcım', 'laboratuvar', 'keşif', 'patent']",label
+insight,içgörü,"kelime: içgörü
+özellikler: aydınlanma, derinlik, sezgi, farkındalık","['aydınlanma', 'derinlik', 'sezgi', 'farkındalık']",label
+interest,ilgi,"kelime: ilgi
+özellikler: odaklanma, merak, dikkat, etkileşim","['odaklanma', 'merak', 'dikkat', 'etkileşim']",label
+judgement,yargı,"kelime: yargı
+özellikler: mahkeme, terazi, karar, adalet","['mahkeme', 'terazi', 'karar', 'adalet']",label
+justice,adalet,"kelime: adalet
+özellikler: terazi, mahkeme, eşitlik, vicdan","['terazi', 'mahkeme', 'eşitlik', 'vicdan']",label
+justification,gerekçe,"kelime: gerekçe
+özellikler: mahkeme, savunma, kanıt, açıklama","['mahkeme', 'savunma', 'kanıt', 'açıklama']",label
+kindness,iyilik,"kelime: iyilik
+özellikler: yardım, gülümseme, karşılıksızlık, huzur","['yardım', 'gülümseme', 'karşılıksızlık', 'huzur']",label
+love,sevgi,"kelime: sevgi
+özellikler: şefkat, fedakarlık, güven, huzur","['şefkat', 'fedakarlık', 'güven', 'huzur']",label
+luck,şans,"kelime: şans
+özellikler: kumar, tesadüf, piyango, yonca","['kumar', 'tesadüf', 'piyango', 'yonca']",label
+lust,şehvet,"kelime: şehvet
+özellikler: ateş, tutku, günah, arzu","['ateş', 'tutku', 'günah', 'arzu']",label
+knowledge,bilgi,"kelime: bilgi
+özellikler: kitap, ışık, tecrübe, zihin","['kitap', 'ışık', 'tecrübe', 'zihin']",label
+magic,büyü,"kelime: büyü
+özellikler: asalar, gizem, toz, dönüşüm","['asalar', 'gizem', 'toz', 'dönüşüm']",label
+matter,madde,"kelime: madde
+özellikler: atom, ağırlık, boşluk, şekil","['atom', 'ağırlık', 'boşluk', 'şekil']",label
+manners,görgü,"kelime: görgü
+özellikler: nezaket, sofra, selamlaşma, incelik","['nezaket', 'sofra', 'selamlaşma', 'incelik']",label
+memory,anı,"kelime: anı
+özellikler: fotoğraf, nostalji, toz, gülümseme","['fotoğraf', 'nostalji', 'toz', 'gülümseme']",label
+menace,gözdağı,"kelime: gözdağı
+özellikler: tehdit, korku, parmak, sessizlik","['tehdit', 'korku', 'parmak', 'sessizlik']",label
+mercy,merhamet,"kelime: merhamet
+özellikler: gözyaşı, el uzatmak, şefkat, vicdan","['gözyaşı', 'el uzatmak', 'şefkat', 'vicdan']",label
+miracle,mucize,"kelime: mucize
+özellikler: doğaüstü, şaşkınlık, imkansızlık, umut","['doğaüstü', 'şaşkınlık', 'imkansızlık', 'umut']",label
+misdemeanor,kabahat,"kelime: kabahat
+özellikler: utanç, özür, pişmanlık, gizlilik","['utanç', 'özür', 'pişmanlık', 'gizlilik']",label
+misery,sefalet,"kelime: sefalet
+özellikler: yırtık, soğuk, açlık, çamur","['yırtık', 'soğuk', 'açlık', 'çamur']",label
+model,model,"kelime: model
+özellikler: podyum, prototip, ölçek, tasarım","['podyum', 'prototip', 'ölçek', 'tasarım']",label
+mockery,alay,"kelime: alay
+özellikler: küçümseme, kahkaha, kışla, ordu","['küçümseme', 'kahkaha', 'kışla', 'ordu']",label
+need,ihtiyaç,"kelime: ihtiyaç
+özellikler: eksiklik, çaba, motivasyon, tamamlanma","['eksiklik', 'çaba', 'motivasyon', 'tamamlanma']",label
+mourning,yas,"kelime: yas
+özellikler: siyah, sessizlik, gözyaşı, anma","['siyah', 'sessizlik', 'gözyaşı', 'anma']",label
+nervousness,gerginlik,"kelime: gerginlik
+özellikler: yay, fırtına, düğüm, sınav","['yay', 'fırtına', 'düğüm', 'sınav']",label
+nightmare,kâbus,"kelime: kâbus
+özellikler: karanlık, terleme, kaçış, belirsizlik","['karanlık', 'terleme', 'kaçış', 'belirsizlik']",label
+moment,an,"kelime: an
+özellikler: fotoğraf, saniye, hatıra, şimdi","['fotoğraf', 'saniye', 'hatıra', 'şimdi']",label
+mood,ruh hali,"kelime: ruh hali
+özellikler: mevsimler, müzik, dalgalar, renkler","['mevsimler', 'müzik', 'dalgalar', 'renkler']",label
+notion,kavram,"kelime: kavram
+özellikler: zihin, yapı taşları, tanımlama, soyutlama","['zihin', 'yapı taşları', 'tanımlama', 'soyutlama']",label
+obedience,itaat,"kelime: itaat
+özellikler: zincir, hiyerarşi, sessizlik, baş eğme","['zincir', 'hiyerarşi', 'sessizlik', 'baş eğme']",label
+objection,itiraz,"kelime: itiraz
+özellikler: mahkeme, parmak, hayır, gürültü","['mahkeme', 'parmak', 'hayır', 'gürültü']",label
+occupation,meslek,"kelime: meslek
+özellikler: maaş, uzmanlık, kariyer, sorumluluk","['maaş', 'uzmanlık', 'kariyer', 'sorumluluk']",label
+order,düzen,"kelime: düzen
+özellikler: kütüphane, cetvel, plan, kristal","['kütüphane', 'cetvel', 'plan', 'kristal']",label
+ostracism,dışlanma,"kelime: dışlanma
+özellikler: sessizlik, soğukluk, köşede kalmak, görünmezlik","['sessizlik', 'soğukluk', 'köşede kalmak', 'görünmezlik']",label
+pain,acı,"kelime: acı
+özellikler: biber, gözyaşı, yara, veda","['biber', 'gözyaşı', 'yara', 'veda']",label
+panic,panik,"kelime: panik
+özellikler: kalp atışı, kaçış, belirsizlik, nefes darlığı","['kalp atışı', 'kaçış', 'belirsizlik', 'nefes darlığı']",label
+obligation,yükümlülük,"kelime: yükümlülük
+özellikler: imza, omuzlar, teslimiyet, takvim","['imza', 'omuzlar', 'teslimiyet', 'takvim']",label
+observation,gözlem,"kelime: gözlem
+özellikler: dürbün, dikkat, deney, yıldızlar","['dürbün', 'dikkat', 'deney', 'yıldızlar']",label
+passion,tutku,"kelime: tutku
+özellikler: ateş, derinlik, adanmışlık, uçurum","['ateş', 'derinlik', 'adanmışlık', 'uçurum']",label
+past,geçmiş,"kelime: geçmiş
+özellikler: tozlu, fotoğraf, özlem, yaşanmışlık","['tozlu', 'fotoğraf', 'özlem', 'yaşanmışlık']",label
+pardon,af,"kelime: af
+özellikler: pişmanlık, beyaz, başlangıç, hafifleme","['pişmanlık', 'beyaz', 'başlangıç', 'hafifleme']",label
+peace,barış,"kelime: barış
+özellikler: güvercin, zeytin, huzur, uzlaşma","['güvercin', 'zeytin', 'huzur', 'uzlaşma']",label
+perception,algı,"kelime: algı
+özellikler: filtre, ayna, derinlik, yankı","['filtre', 'ayna', 'derinlik', 'yankı']",label
+perspective,bakış açısı,"kelime: bakış açısı
+özellikler: perspektif, mesafe, deneyim, odak","['perspektif', 'mesafe', 'deneyim', 'odak']",label
+performance,performans,"kelime: performans
+özellikler: sahne, ter, alkış, odak","['sahne', 'ter', 'alkış', 'odak']",label
+perfection,mükemmellik,"kelime: mükemmellik
+özellikler: ustalık, detay, pürüzsüzlük, zirve","['ustalık', 'detay', 'pürüzsüzlük', 'zirve']",label
+plan,plan,"kelime: plan
+özellikler: harita, ajanda, strateji, hedef","['harita', 'ajanda', 'strateji', 'hedef']",label
+potential,potansiyel,"kelime: potansiyel
+özellikler: tohum, enerji, gelecek, yetenek","['tohum', 'enerji', 'gelecek', 'yetenek']",label
+pleasure,zevk,"kelime: zevk
+özellikler: müzik, gün batımı, çikolata, keşif","['müzik', 'gün batımı', 'çikolata', 'keşif']",label
+present,şimdiki zaman,"kelime: şimdiki zaman
+özellikler: nefes, odaklanma, geçicilik, farkındalık","['nefes', 'odaklanma', 'geçicilik', 'farkındalık']",label
+poverty,yoksulluk,"kelime: yoksulluk
+özellikler: açlık, soğuk, çaresizlik, boş mutfak","['açlık', 'soğuk', 'çaresizlik', 'boş mutfak']",label
+pride,gurur,"kelime: gurur
+özellikler: dik duruş, başarı, sınır, mesafe","['dik duruş', 'başarı', 'sınır', 'mesafe']",label
+prediction,öngörü,"kelime: öngörü
+özellikler: satranç, sis, pusula, deneyim","['satranç', 'sis', 'pusula', 'deneyim']",label
+problem,sorun,"kelime: sorun
+özellikler: düğüm, terleme, sessizlik, çözüm","['düğüm', 'terleme', 'sessizlik', 'çözüm']",label
+prohibition,yasak,"kelime: yasak
+özellikler: kırmızı ışık, gizlilik, kısıtlama, duvar","['kırmızı ışık', 'gizlilik', 'kısıtlama', 'duvar']",label
+promise,vaat,"kelime: vaat
+özellikler: imza, beklenti, güven, gelecek","['imza', 'beklenti', 'güven', 'gelecek']",label
+prosperity,refah,"kelime: refah
+özellikler: bolluk, huzur, gelişim, güven","['bolluk', 'huzur', 'gelişim', 'güven']",label
+protest,protesto,"kelime: protesto
+özellikler: pankart, kalabalık, ses, değişim","['pankart', 'kalabalık', 'ses', 'değişim']",label
+protection,koruma,"kelime: koruma
+özellikler: kalkan, şemsiye, kale, ebeveyn","['kalkan', 'şemsiye', 'kale', 'ebeveyn']",label
+provocation,provokasyon,"kelime: provokasyon
+özellikler: kıvılcım, kalabalık, öfke, oyun","['kıvılcım', 'kalabalık', 'öfke', 'oyun']",label
+proof,kanıt,"kelime: kanıt
+özellikler: mahkeme, iz, bilim, gerçeklik","['mahkeme', 'iz', 'bilim', 'gerçeklik']",label
+punishment,ceza,"kelime: ceza
+özellikler: pişmanlık, demir parmaklık, disiplin, karanlık","['pişmanlık', 'demir parmaklık', 'disiplin', 'karanlık']",label
+quality,nitelik,"kelime: nitelik
+özellikler: kalite, derinlik, uzmanlık, imza","['kalite', 'derinlik', 'uzmanlık', 'imza']",label
+quantity,nicelik,"kelime: nicelik
+özellikler: rakam, ölçüm, tartı, çokluk","['rakam', 'ölçüm', 'tartı', 'çokluk']",label
+rage,hışım,"kelime: hışım
+özellikler: fırtına, öfke, hız, yıkım","['fırtına', 'öfke', 'hız', 'yıkım']",label
+recovery,iyileşme,"kelime: iyileşme
+özellikler: pansuman, dinlenme, bahar, sabır","['pansuman', 'dinlenme', 'bahar', 'sabır']",label
+regard,saymak,"kelime: saymak
+özellikler: parmaklar, bütçe, sıra, sessizlik","['parmaklar', 'bütçe', 'sıra', 'sessizlik']",label
+relief,rahatlama,"kelime: rahatlama
+özellikler: hamak, derin nefes, ılık çay, gün batımı","['hamak', 'derin nefes', 'ılık çay', 'gün batımı']",label
+recommendation,tavsiye,"kelime: tavsiye
+özellikler: tecrübe, yol gösterme, kulak vermek, rehberlik","['tecrübe', 'yol gösterme', 'kulak vermek', 'rehberlik']",label
+regret,pişmanlık,"kelime: pişmanlık
+özellikler: keşkeler, vicdan, geçmiş, gözyaşı","['keşkeler', 'vicdan', 'geçmiş', 'gözyaşı']",label
+requirement,gereklilik,"kelime: gereklilik
+özellikler: sınav, zorunluluk, temel, eksiklik","['sınav', 'zorunluluk', 'temel', 'eksiklik']",label
+remorse,vicdan azabı,"kelime: vicdan azabı
+özellikler: uykusuzluk, ağırlık, pişmanlık, sessizlik","['uykusuzluk', 'ağırlık', 'pişmanlık', 'sessizlik']",label
+resemblance,benzerlik,"kelime: benzerlik
+özellikler: ayna, ikiz, kıyaslama, uyum","['ayna', 'ikiz', 'kıyaslama', 'uyum']",label
+resistance,direniş,"kelime: direniş
+özellikler: barikat, yumruk, kalkan, kararlılık","['barikat', 'yumruk', 'kalkan', 'kararlılık']",label
+respect,saygı,"kelime: saygı
+özellikler: mesafe, nezaket, dinlemek, hayranlık","['mesafe', 'nezaket', 'dinlemek', 'hayranlık']",label
+resolution,önerge,"kelime: önerge
+özellikler: meclis, oylama, teklif, tartışma","['meclis', 'oylama', 'teklif', 'tartışma']",label
+retaliation,misilleme,"kelime: misilleme
+özellikler: satranç, kaos, denge, aynalama","['satranç', 'kaos', 'denge', 'aynalama']",label
+revolution,devrim,"kelime: devrim
+özellikler: barikat, yenilik, uyanış, değişim","['barikat', 'yenilik', 'uyanış', 'değişim']",label
+risk,risk,"kelime: risk
+özellikler: uçurum, adrenalin, belirsizlik, yatırım","['uçurum', 'adrenalin', 'belirsizlik', 'yatırım']",label
+responsibility,sorumluluk,"kelime: sorumluluk
+özellikler: imza, yetişkinlik, görev, sadakat","['imza', 'yetişkinlik', 'görev', 'sadakat']",label
+ritual,ritüel,"kelime: ritüel
+özellikler: tütsü, sessizlik, tekrarlama, aidiyet","['tütsü', 'sessizlik', 'tekrarlama', 'aidiyet']",label
+romantic,romantiklik,"kelime: romantiklik
+özellikler: mumlar, gün batımı, keman, mektup","['mumlar', 'gün batımı', 'keman', 'mektup']",label
+satisfaction,tatmin,"kelime: tatmin
+özellikler: derin bir nefes, bitiş çizgisi, sıcak bir yemek, huzur","['derin bir nefes', 'bitiş çizgisi', 'sıcak bir yemek', 'huzur']",label
+scheme,tasarı,"kelime: tasarı
+özellikler: mimari, kağıt, hayal, planlama","['mimari', 'kağıt', 'hayal', 'planlama']",label
+selection,seçim,"kelime: seçim
+özellikler: sandık, kararsızlık, gelecek, tercih","['sandık', 'kararsızlık', 'gelecek', 'tercih']",label
+self-dependence,kendine yeterlilik,"kelime: kendine yeterlilik
+özellikler: özgüven, yalnızlık, üretim, bağımsızlık","['özgüven', 'yalnızlık', 'üretim', 'bağımsızlık']",label
+sensation,duyum,"kelime: duyum
+özellikler: sinir, titreşim, algı, dokunuş","['sinir', 'titreşim', 'algı', 'dokunuş']",label
+sensitivity,duyarlılık,"kelime: duyarlılık
+özellikler: gözyaşı, titizlik, empati, inceleme","['gözyaşı', 'titizlik', 'empati', 'inceleme']",label
+shame,utanç,"kelime: utanç
+özellikler: kızarma, yerin dibine girmek, saklanma isteği, göz temasından kaçınma","['kızarma', 'yerin dibine girmek', 'saklanma isteği', 'göz temasından kaçınma']",label
+shyness,çekingenlik,"kelime: çekingenlik
+özellikler: kızarma, köşede oturma, göz teması kuramama, sessizlik","['kızarma', 'köşede oturma', 'göz teması kuramama', 'sessizlik']",label
+skill,beceri,"kelime: beceri
+özellikler: pratik, zeka, ustalık, deneyim","['pratik', 'zeka', 'ustalık', 'deneyim']",label
+solitude,yalnızlık,"kelime: yalnızlık
+özellikler: sessizlik, gece, kitap, yankı","['sessizlik', 'gece', 'kitap', 'yankı']",label
+slapstick,şaklabanlık,"kelime: şaklabanlık
+özellikler: sirk, kahkaha, maske, taklit","['sirk', 'kahkaha', 'maske', 'taklit']",label
+success,başarı,"kelime: başarı
+özellikler: ter, zirve, madalya, disiplin","['ter', 'zirve', 'madalya', 'disiplin']",label
+stress,stres,"kelime: stres
+özellikler: uykusuzluk, yoğunluk, kalp çarpıntısı, son teslim tarihi","['uykusuzluk', 'yoğunluk', 'kalp çarpıntısı', 'son teslim tarihi']",label
+suffering,çile,"kelime: çile
+özellikler: diken, sabır, dert, yolculuk","['diken', 'sabır', 'dert', 'yolculuk']",label
+stimulus,uyaran,"kelime: özgürlük
+özellikler: kanatlar, gökyüzü, rüzgar, zincirsizlik","['kanatlar', 'gökyüzü', 'rüzgar', 'zincirsizlik']",label
+support,destek,"kelime: destek
+özellikler: omuz, güven, merdiven, temel","['omuz', 'güven', 'merdiven', 'temel']",label
+surprise,sürpriz,"kelime: sürpriz
+özellikler: hediye, heyecan, doğum günü, beklenmedik","['hediye', 'heyecan', 'doğum günü', 'beklenmedik']",label
+talent,yetenek,"kelime: yetenek
+özellikler: piyano, çıraklık, parmaklar, keşif","['piyano', 'çıraklık', 'parmaklar', 'keşif']",label
+task,görev,"kelime: görev
+özellikler: sorumluluk, üniforma, bitiş çizgisi, talimat","['sorumluluk', 'üniforma', 'bitiş çizgisi', 'talimat']",label
+thirst,susuzluk,"kelime: susuzluk
+özellikler: çöl, çatlak toprak, serin su, kuruluk","['çöl', 'çatlak toprak', 'serin su', 'kuruluk']",label
+terrorism,terörizm,"kelime: terörizm
+özellikler: korku, yıkım, ideoloji, kaos","['korku', 'yıkım', 'ideoloji', 'kaos']",label
+threat,tehdit,"kelime: tehdit
+özellikler: karanlık, titreme, engel, uyarı","['karanlık', 'titreme', 'engel', 'uyarı']",label
+trend,eğilim,"kelime: eğilim
+özellikler: yönelim, mıknatıs, tercih, akış","['yönelim', 'mıknatıs', 'tercih', 'akış']",label
+thought,düşünce,"kelime: düşünce
+özellikler: kıvılcım, labirent, derinlik, sessizlik","['kıvılcım', 'labirent', 'derinlik', 'sessizlik']",label
+tradition,gelenek,"kelime: gelenek
+özellikler: büyükler, bayram, kuşaktan kuşağa, ritüel","['büyükler', 'bayram', 'kuşaktan kuşağa', 'ritüel']",label
+vanity,kendini beğenmişlik,"kelime: kendini beğenmişlik
+özellikler: ayna, yüksekten bakmak, kibir, yalnızlık","['ayna', 'yüksekten bakmak', 'kibir', 'yalnızlık']",label
+view,görüş,"kelime: görüş
+özellikler: mesafe, odaklanma, fikir, ufuk","['mesafe', 'odaklanma', 'fikir', 'ufuk']",label
+victory,zafer,"kelime: zafer
+özellikler: madalya, bayrak, alkış, gözyaşı","['madalya', 'bayrak', 'alkış', 'gözyaşı']",label
+violation,ihlal,"kelime: ihlal
+özellikler: kırmızı ışık, sınır çizgisi, mahremiyet, kural hatası","['kırmızı ışık', 'sınır çizgisi', 'mahremiyet', 'kural hatası']",label
+violence,şiddet,"kelime: şiddet
+özellikler: kırılma, çığlık, yıkım, karanlık","['kırılma', 'çığlık', 'yıkım', 'karanlık']",label
+warning,uyarı,"kelime: uyarı
+özellikler: kırmızı, siren, dikkat, levha","['kırmızı', 'siren', 'dikkat', 'levha']",label
+will,irade,"kelime: irade
+özellikler: disiplin, kararlılık, direniş, pusula","['disiplin', 'kararlılık', 'direniş', 'pusula']",label
+weakness,zayıflık,"kelime: zayıflık
+özellikler: titreme, cam, gölge, kırılganlık","['titreme', 'cam', 'gölge', 'kırılganlık']",label
+war,savaş,"kelime: savaş
+özellikler: siper, yıkım, madalya, barış","['siper', 'yıkım', 'madalya', 'barış']",label
+willingness,isteklilik,"kelime: isteklilik
+özellikler: kıvılcım, hareket, gönüllülük, enerji","['kıvılcım', 'hareket', 'gönüllülük', 'enerji']",label
+wit,nükte,"kelime: nükte
+özellikler: tebessüm, zeka, hiciv, derinlik","['tebessüm', 'zeka', 'hiciv', 'derinlik']",label
+work,iş,"kelime: iş
+özellikler: sabah, sorumluluk, maaş, yorgunluk","['sabah', 'sorumluluk', 'maaş', 'yorgunluk']",label
+wonder,merak etmek,"kelime: merak etmek
+özellikler: soru işareti, keşif, ucu açık, büyüteç","['soru işareti', 'keşif', 'ucu açık', 'büyüteç']",label
+worry,endişe,"kelime: endişe
+özellikler: uykusuzluk, hızlanan nabız, belirsizlik, tırnak yemek","['uykusuzluk', 'hızlanan nabız', 'belirsizlik', 'tırnak yemek']",label

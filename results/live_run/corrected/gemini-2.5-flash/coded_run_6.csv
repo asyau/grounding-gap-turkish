@@ -1,0 +1,10 @@
+key,stimulus,properties,codes,raw_labels,frequencies
+achievement,achievement,"['goal', 'effort', 'pride', 'milestone']","['VA', 'IS_E', 'IS_E', 'VA']","['other abstract concept', 'internal state and emotion', 'internal state and emotion', 'association']","[0.0, 0.5, 0.0, 0.5]"
+appearance,appearance,"['reflection', 'impression', 'color', 'costume']","['SM', 'IS_E', 'SM', 'VA']","['sensorimotor feature', 'internal state and emotion', 'sensorimotor feature', 'association']","[0.5, 0.25, 0.0, 0.25]"
+difficulty,difficulty,"['struggle', 'mountain', 'puzzle', 'sweat']","['IS_E', 'VA', 'VA', 'SM']","['internal state and emotion', 'association', 'other abstract concept', 'sensorimotor feature']","[0.25, 0.25, 0.0, 0.5]"
+slapstick,slapstick,"['banana peel', 'pie in face', 'pratfall', 'clown shoes']","['VA', 'SM', 'SM', 'VA']","['association', 'sensorimotor feature', 'sensorimotor feature', 'association']","[0.5, 0.0, 0.0, 0.5]"
+observation,observation,"['telescope', 'scientist', 'note-taking', 'detective']","['SM', 'SC', 'SM', 'SC']","['sensorimotor feature', 'social constellation', 'sensorimotor feature', 'social constellation']","[0.5, 0.0, 0.5, 0.0]"
+doubt,doubt,"['hesitation', 'question mark', 'second guess', 'uncertain path']","['IS_E', 'VA', 'IS_E', 'VA']","['internal state and emotion', 'association', 'internal state and emotion', 'other abstract concept']","[0.0, 0.5, 0.0, 0.5]"
+insight,insight,"['lightbulb', 'root cause', 'pattern recognition', 'suddenly clear']","['VA', 'VA', 'IS_E', 'SM']","['association', 'other abstract concept', 'internal state and emotion', 'sensorimotor feature']","[0.25, 0.25, 0.0, 0.5]"
+victory,victory,"['trophy', 'podium', 'champagne', 'cheer']","['SM', 'SM', 'VA', 'SC']","['sensorimotor feature', 'sensorimotor feature', 'association', 'social constellation']","[0.5, 0.0, 0.25, 0.25]"
+will,will,"['future', 'legacy', 'resolve', 'choice']","['VA', 'VA', 'IS_E', 'VA']","['other abstract concept', 'association', 'internal state and emotion', 'other abstract concept']","[0.0, 0.25, 0.0, 0.75]"

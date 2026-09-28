@@ -1,0 +1,124 @@
+key,stimulus,response,properties,parse_mode
+ability,ability,"ability: talent, training, limits, growth","['talent', 'training', 'limits', 'growth']",word_colon
+activity,activity,"activity: hiking, brainstorming, classroom, marathon","['hiking', 'brainstorming', 'classroom', 'marathon']",word_colon
+advice,advice,"advice: mentor, notebook, crossroads, coffee chat","['mentor', 'notebook', 'crossroads', 'coffee chat']",word_colon
+agony,agony,"agony: heartbreak, midnight, trembling, shadows","['heartbreak', 'midnight', 'trembling', 'shadows']",word_colon
+agreement,agreement,"agreement: handshake, contract, compromise, consensus","['handshake', 'contract', 'compromise', 'consensus']",word_colon
+amazement,amazement,"amazement: fireworks, first snowfall, surprise party, hidden treasure","['fireworks', 'first snowfall', 'surprise party', 'hidden treasure']",word_colon
+ambition,ambition,"ambition: ladder, midnight oil, applause, sunrise","['ladder', 'midnight oil', 'applause', 'sunrise']",word_colon
+ambush,ambush,"ambush: shadows, surprise, trap, silence","['shadows', 'surprise', 'trap', 'silence']",word_colon
+amusement,amusement,"amusement: carnival, popcorn, laughter, rollercoaster","['carnival', 'popcorn', 'laughter', 'rollercoaster']",word_colon
+apology,apology,"apology: regret, dinner, email, forgiveness","['regret', 'dinner', 'email', 'forgiveness']",word_colon
+appetite,appetite,"appetite: dinner, cravings, hunger, satisfaction","['dinner', 'cravings', 'hunger', 'satisfaction']",word_colon
+application,application,"application: resume, software, loan, research","['resume', 'software', 'loan', 'research']",word_colon
+aspect,aspect,"aspect: perspective, lighting, detail, angle","['perspective', 'lighting', 'detail', 'angle']",word_colon
+astonishment,astonishment,"astonishment: fireworks, gasp, wide‑eyed, jaw‑drop","['fireworks', 'gasp', 'wide‑eyed', 'jaw‑drop']",word_colon
+attention,attention,"attention: spotlight, lecture, notifications, eye‑contact","['spotlight', 'lecture', 'notifications', 'eye‑contact']",word_colon
+being,being,"being: breath, consciousness, existence, identity","['breath', 'consciousness', 'existence', 'identity']",word_colon
+blackmail,blackmail,"blackmail: secrets, leverage, extortion, blackmailers","['secrets', 'leverage', 'extortion', 'blackmailers']",word_colon
+boycott,boycott,"boycott: protest, ethics, consumer, pressure","['protest', 'ethics', 'consumer', 'pressure']",word_colon
+bravery,bravery,"bravery: battlefield, rescue, conviction, sacrifice","['battlefield', 'rescue', 'conviction', 'sacrifice']",word_colon
+caution,caution,"caution: traffic lights, warning signs, careful steps, safety helmets","['traffic lights', 'warning signs', 'careful steps', 'safety helmets']",word_colon
+character,character,"character: mask, growth, dialogue, reputation","['mask', 'growth', 'dialogue', 'reputation']",word_colon
+commitment,commitment,"commitment: wedding ring, marathon training, project deadline, long‑term partnership","['wedding ring', 'marathon training', 'project deadline', 'long‑term partnership']",word_colon
+conflict,conflict,"conflict: war, negotiation, torn, resolution","['war', 'negotiation', 'torn', 'resolution']",word_colon
+consolation,consolation,"consolation: lullaby, warm tea, sunrise, handwritten note","['lullaby', 'warm tea', 'sunrise', 'handwritten note']",word_colon
+contempt,contempt,"contempt: disdain, sneer, hierarchy, dismissal","['disdain', 'sneer', 'hierarchy', 'dismissal']",word_colon
+cooperation,cooperation,"cooperation: teamwork, negotiation, shared goals, joint effort","['teamwork', 'negotiation', 'shared goals', 'joint effort']",word_colon
+criticism,criticism,"criticism: feedback, debate, art review, classroom​","['feedback', 'debate', 'art review', 'classroom\u200b']",word_colon
+culture,culture,"culture: festivals, language, traditions, art","['festivals', 'language', 'traditions', 'art']",word_colon
+danger,danger,"danger: cliff, alarm, fire, storm","['cliff', 'alarm', 'fire', 'storm']",word_colon
+demand,demand,"demand: deadline, protest, negotiation, shortage","['deadline', 'protest', 'negotiation', 'shortage']",word_colon
+detection,detection,"detection: sensor, alarm, investigation, radar","['sensor', 'alarm', 'investigation', 'radar']",word_colon
+difficulty,difficulty,"difficulty: puzzle, stress, learning curve, perseverance","['puzzle', 'stress', 'learning curve', 'perseverance']",word_colon
+dismay,dismay,"dismay: surprise, darkness, trembling, silence","['surprise', 'darkness', 'trembling', 'silence']",word_colon
+dispute,dispute,"dispute: courtroom, heated debate, broken contract, media headlines","['courtroom', 'heated debate', 'broken contract', 'media headlines']",word_colon
+distance,distance,"distance: roadtrip, longing, telescope, marathon","['roadtrip', 'longing', 'telescope', 'marathon']",word_colon
+downfall,downfall,"downfall: collapse, betrayal, tragedy, ruin","['collapse', 'betrayal', 'tragedy', 'ruin']",word_colon
+effort,effort,"effort: sweat, deadline, training, perseverance","['sweat', 'deadline', 'training', 'perseverance']",word_colon
+envy,envy,"envy: jealousy, green, comparison, desire","['jealousy', 'green', 'comparison', 'desire']",word_colon
+event,event,"event: concert, birthday, earthquake, deadline","['concert', 'birthday', 'earthquake', 'deadline']",word_colon
+expectation,expectation,"expectation: anticipation, deadlines, hope, pressure","['anticipation', 'deadlines', 'hope', 'pressure']",word_colon
+exploitation,exploitation,"exploitation: labor, resources, colonization, manipulation","['labor', 'resources', 'colonization', 'manipulation']",word_colon
+fate,fate,"fate: destiny, crossroads, prophecy, inevitability","['destiny', 'crossroads', 'prophecy', 'inevitability']",word_colon
+flexibility,flexibility,"flexibility: yoga, rubber bands, remote work, bending trees","['yoga', 'rubber bands', 'remote work', 'bending trees']",word_colon
+forgiveness,forgiveness,"forgiveness: apology, healing, second chances, letting go","['apology', 'healing', 'second chances', 'letting go']",word_colon
+fright,fright,"fright: darkness, scream, trembling, haunted house","['darkness', 'scream', 'trembling', 'haunted house']",word_colon
+future,future,"future: time travel, predictions, hope, technology","['time travel', 'predictions', 'hope', 'technology']",word_colon
+glory,glory,"glory: victory, medals, parades, legends","['victory', 'medals', 'parades', 'legends']",word_colon
+habit,habit,"habit: routine, cravings, progress, triggers","['routine', 'cravings', 'progress', 'triggers']",word_colon
+help,help,"help: rescue, advice, hand‑out, support","['rescue', 'advice', 'hand‑out', 'support']",word_colon
+hint,hint,"hint: puzzle, clue, mystery, guidance","['puzzle', 'clue', 'mystery', 'guidance']",word_colon
+honor,honor,"honor: oath, medals, legacy, sacrifice","['oath', 'medals', 'legacy', 'sacrifice']",word_colon
+hope,hope,"hope: sunrise, letters, seedlings, rescue
+
+","['sunrise', 'letters', 'seedlings', 'rescue']",word_colon
+humor,humor,"humor: comedy club, witty banter, unexpected twist, laughing crowd","['comedy club', 'witty banter', 'unexpected twist', 'laughing crowd']",word_colon
+ideal,ideal,"ideal: perfection, aspiration, blueprint, utopia","['perfection', 'aspiration', 'blueprint', 'utopia']",word_colon
+influence,influence,"influence: politics, mentorship, trends, advertising","['politics', 'mentorship', 'trends', 'advertising']",word_colon
+insanity,insanity,"insanity: chaos, laughter, midnight, mirrors","['chaos', 'laughter', 'midnight', 'mirrors']",word_colon
+judgement,judgement,"judgement: courtroom, bias, verdict, self‑reflection","['courtroom', 'bias', 'verdict', 'self‑reflection']",word_colon
+justification,justification,"justification: courtroom, receipts, excuses, policy","['courtroom', 'receipts', 'excuses', 'policy']",word_colon
+kindness,kindness,"kindness: caring gestures, community volunteering, gentle tone, unexpected help","['caring gestures', 'community volunteering', 'gentle tone', 'unexpected help']",word_colon
+knowledge,knowledge,"knowledge: books, curiosity, experiments, mentors","['books', 'curiosity', 'experiments', 'mentors']",word_colon
+magic,magic,"magic: wand, illusion, spellbook, enchanted forest","['wand', 'illusion', 'spellbook', 'enchanted forest']",word_colon
+matter,matter,"matter: gravity, particles, existence, transformation","['gravity', 'particles', 'existence', 'transformation']",word_colon
+menace,menace,"menace: thunderstorm, dark alley, warning sign, trembling hands","['thunderstorm', 'dark alley', 'warning sign', 'trembling hands']",word_colon
+mercy,mercy,"mercy: forgiveness, rescue, compassion, redemption","['forgiveness', 'rescue', 'compassion', 'redemption']",word_colon
+miracle,miracle,"miracle: birth, recovery, rainstorm, lottery","['birth', 'recovery', 'rainstorm', 'lottery']",word_colon
+mockery,mockery,"mockery: sarcasm, theater, ridicule, masks","['sarcasm', 'theater', 'ridicule', 'masks']",word_colon
+model,model,"model: runway, prototype, simulation, scale
+
+","['runway', 'prototype', 'simulation', 'scale']",word_colon
+moment,moment,"moment: sunrise, applause, photo, decision","['sunrise', 'applause', 'photo', 'decision']",word_colon
+obedience,obedience,"obedience: training, hierarchy, rituals, loyalty","['training', 'hierarchy', 'rituals', 'loyalty']",word_colon
+obligation,obligation,"obligation: contract, duty, deadline, promise","['contract', 'duty', 'deadline', 'promise']",word_colon
+observation,observation,"observation: telescope, notebook, curiosity, data","['telescope', 'notebook', 'curiosity', 'data']",word_colon
+order,order,"order: hierarchy, paperwork, sequence, discipline","['hierarchy', 'paperwork', 'sequence', 'discipline']",word_colon
+overview,overview,"overview: map, summary, briefing, snapshot","['map', 'summary', 'briefing', 'snapshot']",word_colon
+pardon,pardon,"pardon: courtroom, apology, forgiveness, second chance","['courtroom', 'apology', 'forgiveness', 'second chance']",word_colon
+past,past,"past: memories, history, nostalgia, regret","['memories', 'history', 'nostalgia', 'regret']",word_colon
+peace,peace,"peace: sunrise, garden, quiet library, gentle rain","['sunrise', 'garden', 'quiet library', 'gentle rain']",word_colon
+perception,perception,"perception: illusion, bias, senses, interpretation","['illusion', 'bias', 'senses', 'interpretation']",word_colon
+perfection,perfection,"perfection: symmetry, flawless performance, unattainable ideal, meticulous detail","['symmetry', 'flawless performance', 'unattainable ideal', 'meticulous detail']",word_colon
+performance,performance,"performance: stage, applause, metrics, rehearsal","['stage', 'applause', 'metrics', 'rehearsal']",word_colon
+perspective,perspective,"perspective: telescope, storytelling, mountain summit, courtroom
+
+","['telescope', 'storytelling', 'mountain summit', 'courtroom']",word_colon
+potential,potential,"potential: seed, future, energy, growth","['seed', 'future', 'energy', 'growth']",word_colon
+prediction,prediction,"prediction: crystal ball, weather forecast, stock market, fortune teller","['crystal ball', 'weather forecast', 'stock market', 'fortune teller']",word_colon
+pride,pride,"pride: parade, trophy, mirror, anthem","['parade', 'trophy', 'mirror', 'anthem']",word_colon
+problem,problem,"problem: frustration, puzzles, deadlines, solutions","['frustration', 'puzzles', 'deadlines', 'solutions']",word_colon
+prohibition,prohibition,"prohibition: police, speakeasy, fines, moral code","['police', 'speakeasy', 'fines', 'moral code']",word_colon
+promise,promise,"promise: wedding, deadline, handshake, sunrise","['wedding', 'deadline', 'handshake', 'sunrise']",word_colon
+prosperity,prosperity,"prosperity: harvest, sunrise, bustling market, thriving garden","['harvest', 'sunrise', 'bustling market', 'thriving garden']",word_colon
+provocation,provocation,"provocation: spark, rebellion, tease, tension","['spark', 'rebellion', 'tease', 'tension']",word_colon
+realization,realization,"realization: epiphany, breakthrough, lightbulb, aha moment","['epiphany', 'breakthrough', 'lightbulb', 'aha moment']",word_colon
+recovery,recovery,"recovery: hospital, springtime, data backup, therapy","['hospital', 'springtime', 'data backup', 'therapy']",word_colon
+relief,relief,"relief: sigh, rainstorm, release, massage","['sigh', 'rainstorm', 'release', 'massage']",word_colon
+remorse,remorse,"remorse: confession, sleepless nights, torn letters, cold coffee","['confession', 'sleepless nights', 'torn letters', 'cold coffee']",word_colon
+requirement,requirement,"requirement: deadline, checklist, budget, compliance","['deadline', 'checklist', 'budget', 'compliance']",word_colon
+resemblance,resemblance,"resemblance: twins, family photos, echoing patterns, déjà vu","['twins', 'family photos', 'echoing patterns', 'déjà vu']",word_colon
+resolution,resolution,"resolution: calendar, conflict, clarity, upgrade","['calendar', 'conflict', 'clarity', 'upgrade']",word_colon
+responsibility,responsibility,"responsibility: deadlines, trust, accountability, leadership","['deadlines', 'trust', 'accountability', 'leadership']",word_colon
+retaliation,retaliation,"retaliation: courtroom, revenge, scars, cycle
+
+","['courtroom', 'revenge', 'scars', 'cycle']",word_colon
+revenge,revenge,"revenge: betrayal, courtroom, scars, nightfall","['betrayal', 'courtroom', 'scars', 'nightfall']",word_colon
+romantic,romantic,"romantic: candlelit dinner, handwritten letters, slow dancing, sunrise beach walk","['candlelit dinner', 'handwritten letters', 'slow dancing', 'sunrise beach walk']",word_colon
+sensitivity,sensitivity,"sensitivity: touch, emotions, allergies, microphone","['touch', 'emotions', 'allergies', 'microphone']",word_colon
+shame,shame,"shame: blush, secret, judgment, confession","['blush', 'secret', 'judgment', 'confession']",word_colon
+suffering,suffering,"suffering: pain, sacrifice, resilience, compassion","['pain', 'sacrifice', 'resilience', 'compassion']",word_colon
+theory,theory,"theory: curiosity, experiments, textbooks, debate","['curiosity', 'experiments', 'textbooks', 'debate']",word_colon
+threat,threat,"threat: warning, tension, security, escalation","['warning', 'tension', 'security', 'escalation']",word_colon
+trust,trust,"trust: handshake, secret, loyalty, gamble","['handshake', 'secret', 'loyalty', 'gamble']",word_colon
+victory,victory,"victory: trophy, parade, anthem, celebration","['trophy', 'parade', 'anthem', 'celebration']",word_colon
+view,view,"view: horizon, telescope, gallery, perspective","['horizon', 'telescope', 'gallery', 'perspective']",word_colon
+warning,warning,"warning: siren, caution tape, red light, emergency broadcast","['siren', 'caution tape', 'red light', 'emergency broadcast']",word_colon
+weakness,weakness,"weakness: fatigue, injury, vulnerability, temptation","['fatigue', 'injury', 'vulnerability', 'temptation']",word_colon
+welfare,welfare,"welfare: safety net, public assistance, community health, social security","['safety net', 'public assistance', 'community health', 'social security']",word_colon
+willingness,willingness,"willingness: volunteer, adventure, open‑door policy, first‑step enthusiasm","['volunteer', 'adventure', 'open‑door policy', 'first‑step enthusiasm']",word_colon
+wish,wish,"wish: birthday cake, shooting star, secret diary, lottery ticket","['birthday cake', 'shooting star', 'secret diary', 'lottery ticket']",word_colon
+wit,wit,"wit: jokes, repartee, quick‑thinking, sarcasm","['jokes', 'repartee', 'quick‑thinking', 'sarcasm']",word_colon
+work,work,"work: deadline, teamwork, coffee, commute","['deadline', 'teamwork', 'coffee', 'commute']",word_colon
+worry,worry,"worry: anxiety, sleeplessness, overthinking, hesitation","['anxiety', 'sleeplessness', 'overthinking', 'hesitation']",word_colon

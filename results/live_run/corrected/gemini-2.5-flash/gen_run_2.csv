@@ -1,0 +1,15 @@
+key,stimulus,response,properties,parse_mode
+ability,ability,"ability: practice, improvement, task, confidence","['practice', 'improvement', 'task', 'confidence']",word_colon
+appearance,appearance,"appearance: mirror, clothes, stage, book cover","['mirror', 'clothes', 'stage', 'book cover']",word_colon
+death,death,"death: loss, ending, funeral, grave","['loss', 'ending', 'funeral', 'grave']",word_colon
+enchantment,enchantment,"enchantment: awe, fairy tale, wand, mystery","['awe', 'fairy tale', 'wand', 'mystery']",word_colon
+guess,guess,"guess: blindfold, dice, riddle, poll","['blindfold', 'dice', 'riddle', 'poll']",word_colon
+help,help,"help: hand, ladder, map, lifeline","['hand', 'ladder', 'map', 'lifeline']",word_colon
+home,home,"home: comfort, family, kitchen, slippers","['comfort', 'family', 'kitchen', 'slippers']",word_colon
+insight,insight,"insight: Aha! moment, puzzle solved, lightbulb above head, seeing clearly","['Aha! moment', 'puzzle solved', 'lightbulb above head', 'seeing clearly']",word_colon
+need,need,"need: empty, thirst, action, priority","['empty', 'thirst', 'action', 'priority']",word_colon
+nightmare,nightmare,"nightmare: waking up, falling, sweating, relief","['waking up', 'falling', 'sweating', 'relief']",word_colon
+overview,overview,"overview: map, agenda, helicopter, table of contents","['map', 'agenda', 'helicopter', 'table of contents']",word_colon
+slapstick,slapstick,"slapstick: falling over, pie in face, boing sound effect, exaggerated movement","['falling over', 'pie in face', 'boing sound effect', 'exaggerated movement']",word_colon
+thirst,thirst,"thirst: dry mouth, water, desert, heat","['dry mouth', 'water', 'desert', 'heat']",word_colon
+will,will,"will: future, testament, determination, choice","['future', 'testament', 'determination', 'choice']",word_colon

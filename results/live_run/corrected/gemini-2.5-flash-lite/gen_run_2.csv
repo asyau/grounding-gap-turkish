@@ -1,0 +1,70 @@
+key,stimulus,response,properties,parse_mode
+addiction,addiction,"addiction: craving, escape, relapse, recovery","['craving', 'escape', 'relapse', 'recovery']",word_colon
+anxiety,anxiety,"anxiety: racing heart, shaky hands, restless sleep, tight chest","['racing heart', 'shaky hands', 'restless sleep', 'tight chest']",word_colon
+application,application,"application: software, job, resume, button","['software', 'job', 'resume', 'button']",word_colon
+aptitude,aptitude,"aptitude: talent, skill, test, learning","['talent', 'skill', 'test', 'learning']",word_colon
+beauty,beauty,"beauty: sunrise, flower, art, melody","['sunrise', 'flower', 'art', 'melody']",word_colon
+blackmail,blackmail,"blackmail: coercion, secrets, extortion, threats","['coercion', 'secrets', 'extortion', 'threats']",word_colon
+catastrophe,catastrophe,"catastrophe: earthquake, flood, explosion, devastation","['earthquake', 'flood', 'explosion', 'devastation']",word_colon
+character,character,"character: story, actor, cartoon, personality","['story', 'actor', 'cartoon', 'personality']",word_colon
+compassion,compassion,"compassion: empathy, comfort, kindness, helping","['empathy', 'comfort', 'kindness', 'helping']",word_colon
+confession,confession,"confession: guilt, relief, secrets, truth","['guilt', 'relief', 'secrets', 'truth']",word_colon
+conflict,conflict,"conflict: war, argument, disagreement, struggle","['war', 'argument', 'disagreement', 'struggle']",word_colon
+convention,convention,"convention: meeting, rules, agreement, tradition","['meeting', 'rules', 'agreement', 'tradition']",word_colon
+criticism,criticism,"criticism: feedback, review, judgment, opinion","['feedback', 'review', 'judgment', 'opinion']",word_colon
+cruelty,cruelty,"cruelty: pain, suffering, violence, injustice","['pain', 'suffering', 'violence', 'injustice']",word_colon
+danger,danger,"danger: alarm, risk, threat, warning","['alarm', 'risk', 'threat', 'warning']",word_colon
+disappointment,disappointment,"disappointment: broken promise, missed goal, dashed hopes, sad feeling","['broken promise', 'missed goal', 'dashed hopes', 'sad feeling']",word_colon
+distraction,distraction,"distraction: phone, loud noise, daydreaming, game","['phone', 'loud noise', 'daydreaming', 'game']",word_colon
+doubt,doubt,"doubt: uncertainty, question, hesitation, suspicion","['uncertainty', 'question', 'hesitation', 'suspicion']",word_colon
+downfall,downfall,"downfall: collapse, ruin, end, defeat","['collapse', 'ruin', 'end', 'defeat']",word_colon
+dream,dream,"dream: sleep, fantasy, imagination, subconscious","['sleep', 'fantasy', 'imagination', 'subconscious']",word_colon
+elegance,elegance,"elegance: ballroom, posture, jewelry, quiet","['ballroom', 'posture', 'jewelry', 'quiet']",word_colon
+envy,envy,"envy: green, covet, jealous, comparison","['green', 'covet', 'jealous', 'comparison']",word_colon
+fate,fate,"fate: destiny, preordained, unavoidable, future","['destiny', 'preordained', 'unavoidable', 'future']",word_colon
+fight,fight,"fight: boxing, argument, struggle, war","['boxing', 'argument', 'struggle', 'war']",word_colon
+force,force,"force: push, strength, effort, resistance","['push', 'strength', 'effort', 'resistance']",word_colon
+forgiveness,forgiveness,"forgiveness: letting go, peace, healing, grace","['letting go', 'peace', 'healing', 'grace']",word_colon
+frustration,frustration,"frustration: traffic, project deadline, broken computer, long line","['traffic', 'project deadline', 'broken computer', 'long line']",word_colon
+gratitude,gratitude,"gratitude: thank you, gift, appreciation, kindness","['thank you', 'gift', 'appreciation', 'kindness']",word_colon
+happiness,happiness,"happiness: laughter, smiles, sunshine, comfort","['laughter', 'smiles', 'sunshine', 'comfort']",word_colon
+help,help,"help: rescue, advice, support, relief","['rescue', 'advice', 'support', 'relief']",word_colon
+idea,idea,"idea: lightbulb, brainstorm, invention, spark","['lightbulb', 'brainstorm', 'invention', 'spark']",word_colon
+intention,intention,"intention: plan, goal, purpose, aim","['plan', 'goal', 'purpose', 'aim']",word_colon
+invention,invention,"invention: idea, prototype, patent, laboratory","['idea', 'prototype', 'patent', 'laboratory']",word_colon
+kindness,kindness,"kindness: helping, smiles, generosity, gentleness","['helping', 'smiles', 'generosity', 'gentleness']",word_colon
+love,love,"love: heart, embrace, devotion, passion","['heart', 'embrace', 'devotion', 'passion']",word_colon
+manners,manners,"manners: etiquette, respect, politeness, upbringing","['etiquette', 'respect', 'politeness', 'upbringing']",word_colon
+matter,matter,"matter: physics, importance, substance, problem","['physics', 'importance', 'substance', 'problem']",word_colon
+memory,memory,"memory: photographs, childhood, regret, forgetting","['photographs', 'childhood', 'regret', 'forgetting']",word_colon
+menace,menace,"menace: shadow, danger, fear, threat","['shadow', 'danger', 'fear', 'threat']",word_colon
+mercy,mercy,"mercy: forgiveness, compassion, kindness, reprieve","['forgiveness', 'compassion', 'kindness', 'reprieve']",word_colon
+mourning,mourning,"mourning: tears, black, funeral, loss","['tears', 'black', 'funeral', 'loss']",word_colon
+nightmare,nightmare,"nightmare: dark, fear, sweat, scream","['dark', 'fear', 'sweat', 'scream']",word_colon
+notion,notion,"notion: idea, thought, concept, belief","['idea', 'thought', 'concept', 'belief']",word_colon
+objection,objection,"objection: protest, court, disagreement, hurdle","['protest', 'court', 'disagreement', 'hurdle']",word_colon
+observation,observation,"observation: telescope, microscope, detective, nature walk","['telescope', 'microscope', 'detective', 'nature walk']",word_colon
+occupation,occupation,"occupation: doctor, teacher, artist, programmer","['doctor', 'teacher', 'artist', 'programmer']",word_colon
+ostracism,ostracism,"ostracism: exile, shunning, exclusion, banishment","['exile', 'shunning', 'exclusion', 'banishment']",word_colon
+pain,pain,"pain: ache, injury, grief, burn","['ache', 'injury', 'grief', 'burn']",word_colon
+pardon,pardon,"pardon: forgiveness, excuse, mercy, apology","['forgiveness', 'excuse', 'mercy', 'apology']",word_colon
+past,past,"past: memories, history, future, yesterday","['memories', 'history', 'future', 'yesterday']",word_colon
+plan,plan,"plan: blueprint, strategy, schedule, intention","['blueprint', 'strategy', 'schedule', 'intention']",word_colon
+present,present,"present: gift, now, attend, show","['gift', 'now', 'attend', 'show']",word_colon
+promise,promise,"promise: vow, trust, contract, future","['vow', 'trust', 'contract', 'future']",word_colon
+protection,protection,"protection: shield, safe, cover, insurance","['shield', 'safe', 'cover', 'insurance']",word_colon
+punishment,punishment,"punishment: detention, fine, remorse, stripes","['detention', 'fine', 'remorse', 'stripes']",word_colon
+regard,regard,"regard: respect, affection, esteem, consideration","['respect', 'affection', 'esteem', 'consideration']",word_colon
+regret,regret,"regret: missed opportunities, actions, remorse, past","['missed opportunities', 'actions', 'remorse', 'past']",word_colon
+resolution,resolution,"resolution: New Year's Eve, decision, clarity, image","[""New Year's Eve"", 'decision', 'clarity', 'image']",word_colon
+scheme,scheme,"scheme: plan, conspiracy, blueprint, design","['plan', 'conspiracy', 'blueprint', 'design']",word_colon
+sensitivity,sensitivity,"sensitivity: delicate, emotional, alert, easily hurt","['delicate', 'emotional', 'alert', 'easily hurt']",word_colon
+slapstick,slapstick,"slapstick: pie, banana peel, pratfall, cream","['pie', 'banana peel', 'pratfall', 'cream']",word_colon
+suffering,suffering,"suffering: pain, loss, illness, struggle","['pain', 'loss', 'illness', 'struggle']",word_colon
+talent,talent,"talent:  stage, practice, applause, innate","['stage', 'practice', 'applause', 'innate']",word_colon
+task,task,"task: work, computer, deadline, goal","['work', 'computer', 'deadline', 'goal']",word_colon
+thought,thought,"thought: idea, contemplate, plan, consider","['idea', 'contemplate', 'plan', 'consider']",word_colon
+violence,violence,"violence: fight, pain, anger, war","['fight', 'pain', 'anger', 'war']",word_colon
+war,war,"war: soldiers, conflict, destruction, peace","['soldiers', 'conflict', 'destruction', 'peace']",word_colon
+welfare,welfare,"welfare:
+support, health, security, community","['support', 'health', 'security', 'community']",bare

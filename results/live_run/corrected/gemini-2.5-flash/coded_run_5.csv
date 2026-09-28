@@ -1,0 +1,12 @@
+key,stimulus,properties,codes,raw_labels,frequencies
+fury,fury,"['red face', 'screaming', 'storm', 'punching wall']","['SM', 'SM', 'VA', 'SM']","['sensorimotor feature', 'sensorimotor feature', 'association', 'sensorimotor feature']","[0.75, 0.0, 0.0, 0.25]"
+career,career,"['growth', 'mentor', 'path', 'goals']","['VA', 'SC', 'VA', 'IS_E']","['other abstract concept', 'social constellation', 'association', 'internal state and emotion']","[0.0, 0.25, 0.25, 0.5]"
+greed,greed,"['hoarding', 'empty feeling', 'gold coins', 'clenched fist']","['VA', 'IS_E', 'VA', 'SM']","['other abstract concept', 'internal state and emotion', 'association', 'sensorimotor feature']","[0.25, 0.25, 0.0, 0.5]"
+nightmare,nightmare,"['sweat', 'racing heart', 'waking up', 'monster']","['SM', 'SM', 'SM', 'VA']","['sensorimotor feature', 'sensorimotor feature', 'sensorimotor feature', 'association']","[0.75, 0.0, 0.0, 0.25]"
+responsibility,responsibility,"['burden', 'parenting', 'consequences', 'growth']","['VA', 'SC', 'VA', 'VA']","['other abstract concept', 'social constellation', 'other abstract concept', 'other abstract concept']","[0.0, 0.0, 0.25, 0.75]"
+home,home,"['comfort', 'family', 'kitchen', 'garden']","['IS_E', 'SC', 'SM', 'SM']","['internal state and emotion', 'social constellation', 'sensorimotor feature', 'sensorimotor feature']","[0.5, 0.25, 0.25, 0.0]"
+relief,relief,"['kicking off shoes', 'exam finished', 'cold water', 'weight lifted']","['SM', 'SC', 'VA', 'IS_E']","['sensorimotor feature', 'social constellation', 'association', 'internal state and emotion']","[0.25, 0.25, 0.25, 0.25]"
+occupation,occupation,"['skill', 'income', 'identity', 'training']","['VA', 'VA', 'IS_E', 'SM']","['other abstract concept', 'association', 'internal state and emotion', 'sensorimotor feature']","[0.25, 0.25, 0.0, 0.5]"
+romantic,romantic,"['candlelight', 'sunset', 'poetry', 'stargazing']","['SM', 'VA', 'VA', 'SC']","['sensorimotor feature', 'association', 'other abstract concept', 'social constellation']","[0.25, 0.0, 0.25, 0.5]"
+will,will,"['future', 'money', 'strength', 'choice']","['VA', 'VA', 'SM', 'IS_E']","['other abstract concept', 'association', 'sensorimotor feature', 'internal state and emotion']","[0.25, 0.25, 0.0, 0.5]"
+slapstick,slapstick,"['pie in the face', 'banana peel', 'sound effects', 'exaggerated falls']","['SM', 'VA', 'SM', 'SM']","['sensorimotor feature', 'association', 'sensorimotor feature', 'sensorimotor feature']","[0.75, 0.0, 0.0, 0.25]"

@@ -1,0 +1,7 @@
+key,stimulus,properties,codes,raw_labels,frequencies
+difficulty,difficulty,"['mountain', 'puzzle', 'sweat', 'frustration']","['VA', 'SM', 'SM', 'IS_E']","['association', 'sensorimotor feature', 'sensorimotor feature', 'internal state and emotion']","[0.5, 0.25, 0.0, 0.25]"
+appearance,appearance,"['mirror', 'impression', 'disguise', 'reality']","['SM', 'IS_E', 'SC', 'VA']","['sensorimotor feature', 'internal state and emotion', 'social constellation', 'other abstract concept']","[0.25, 0.25, 0.25, 0.25]"
+fury,fury,"['red face', 'broken glass', 'screaming', 'punch']","['SM', 'VA', 'SM', 'SM']","['sensorimotor feature', 'association', 'sensorimotor feature', 'sensorimotor feature']","[0.75, 0.0, 0.0, 0.25]"
+honor,honor,"['medal', 'pledge', 'flag', 'code']","['SM', 'SC', 'VA', 'VA']","['sensorimotor feature', 'social constellation', 'association', 'other abstract concept']","[0.25, 0.0, 0.25, 0.5]"
+horror,horror,"['scream', 'darkness', 'adrenaline', 'monster']","['SM', 'SM', 'IS_E', 'VA']","['sensorimotor feature', 'sensorimotor feature', 'internal state and emotion', 'association']","[0.5, 0.25, 0.0, 0.25]"
+will,will,"['future', 'determination', 'inheritance', 'choice']","['VA', 'IS_E', 'VA', 'VA']","['other abstract concept', 'internal state and emotion', 'association', 'other abstract concept']","[0.0, 0.25, 0.0, 0.75]"

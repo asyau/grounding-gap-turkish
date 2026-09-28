@@ -1,0 +1,7 @@
+key,stimulus,response,properties,parse_mode
+appearance,appearance,"appearance: mirror, impression, disguise, reality","['mirror', 'impression', 'disguise', 'reality']",word_colon
+difficulty,difficulty,"difficulty: mountain, puzzle, sweat, frustration","['mountain', 'puzzle', 'sweat', 'frustration']",word_colon
+fury,fury,"fury: red face, broken glass, screaming, punch","['red face', 'broken glass', 'screaming', 'punch']",word_colon
+honor,honor,"honor: medal, pledge, flag, code","['medal', 'pledge', 'flag', 'code']",word_colon
+horror,horror,"horror: scream, darkness, adrenaline, monster","['scream', 'darkness', 'adrenaline', 'monster']",word_colon
+will,will,"will: future, determination, inheritance, choice","['future', 'determination', 'inheritance', 'choice']",word_colon

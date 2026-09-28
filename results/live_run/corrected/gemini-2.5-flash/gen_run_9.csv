@@ -1,0 +1,10 @@
+key,stimulus,response,properties,parse_mode
+betrayal,betrayal,"betrayal: stab in the back, broken trust, Judas, tears","['stab in the back', 'broken trust', 'Judas', 'tears']",word_colon
+fright,fright,"fright: jump, cold sweat, suspense film, monster","['jump', 'cold sweat', 'suspense film', 'monster']",word_colon
+home,home,"home: comfort, family, kitchen, garden","['comfort', 'family', 'kitchen', 'garden']",word_colon
+horror,horror,"horror: scream, darkness, cold sweat, jump scare","['scream', 'darkness', 'cold sweat', 'jump scare']",word_colon
+present,present,"present: wrapping, moment, speech, surprise","['wrapping', 'moment', 'speech', 'surprise']",word_colon
+slapstick,slapstick,"slapstick: banana peel, boing sound, oversized hammer, tumbling stack of plates","['banana peel', 'boing sound', 'oversized hammer', 'tumbling stack of plates']",word_colon
+thirst,thirst,"thirst: desert, lemonade, cracked lips, marathon","['desert', 'lemonade', 'cracked lips', 'marathon']",word_colon
+victory,victory,"victory: joy, cheers, trophy, podium","['joy', 'cheers', 'trophy', 'podium']",word_colon
+will,will,"will: future, inheritance, choice, determination","['future', 'inheritance', 'choice', 'determination']",word_colon

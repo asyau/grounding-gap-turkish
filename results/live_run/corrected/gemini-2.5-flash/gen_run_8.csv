@@ -1,0 +1,8 @@
+key,stimulus,response,properties,parse_mode
+astonishment,astonishment,"astonishment: wide eyes, dropped jaw, magic trick, speechless","['wide eyes', 'dropped jaw', 'magic trick', 'speechless']",word_colon
+death,death,"death: grave, silence, memories, finality","['grave', 'silence', 'memories', 'finality']",word_colon
+distraction,distraction,"distraction: phone, squirrel, humming noise, shiny object","['phone', 'squirrel', 'humming noise', 'shiny object']",word_colon
+fight,fight,"fight: anger, black eye, ring, screaming","['anger', 'black eye', 'ring', 'screaming']",word_colon
+greed,greed,"greed: hoarding, empty feeling, gold coins, sharp elbows","['hoarding', 'empty feeling', 'gold coins', 'sharp elbows']",word_colon
+mercy,mercy,"mercy: judge's gavel, soft hand, kneeling figure, open gate","[""judge's gavel"", 'soft hand', 'kneeling figure', 'open gate']",word_colon
+wit,wit,"wit: laughter, timing, sparkle, punchline","['laughter', 'timing', 'sparkle', 'punchline']",word_colon

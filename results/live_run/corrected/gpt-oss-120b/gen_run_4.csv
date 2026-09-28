@@ -1,0 +1,36 @@
+key,stimulus,response,properties,parse_mode
+ability,ability,"ability: talent, training, limits, growth","['talent', 'training', 'limits', 'growth']",word_colon
+activity,activity,"activity: gym, meeting, hobby, schedule","['gym', 'meeting', 'hobby', 'schedule']",word_colon
+appearance,appearance,"appearance: mirror, runway, camouflage, first impression","['mirror', 'runway', 'camouflage', 'first impression']",word_colon
+beauty,beauty,"beauty: sunrise, music, confidence, garden","['sunrise', 'music', 'confidence', 'garden']",word_colon
+being,being,"being: breath, consciousness, existence, empathy","['breath', 'consciousness', 'existence', 'empathy']",word_colon
+boredom,boredom,"boredom: waiting, silence, ticking clock, empty hallway","['waiting', 'silence', 'ticking clock', 'empty hallway']",word_colon
+boycott,boycott,"boycott: protest, consumer, blacklist, solidarity","['protest', 'consumer', 'blacklist', 'solidarity']",word_colon
+consideration,consideration,"consideration: meeting, budget, pause, respect","['meeting', 'budget', 'pause', 'respect']",word_colon
+courage,courage,"courage: lion, rescue, speech, storm","['lion', 'rescue', 'speech', 'storm']",word_colon
+diligence,diligence,"diligence: routine, progress, focus, perseverance","['routine', 'progress', 'focus', 'perseverance']",word_colon
+doubt,doubt,"doubt: hesitation, questioning, uncertainty, second‑guessing","['hesitation', 'questioning', 'uncertainty', 'second‑guessing']",word_colon
+downfall,downfall,"downfall: empire, betrayal, collapse, tragedy","['empire', 'betrayal', 'collapse', 'tragedy']",word_colon
+flexibility,flexibility,"flexibility: yoga, rubber bands, remote work, bending trees","['yoga', 'rubber bands', 'remote work', 'bending trees']",word_colon
+future,future,"future: time travel, predictions, hope, technology","['time travel', 'predictions', 'hope', 'technology']",word_colon
+indifference,indifference,"indifference: apathy, detachment, neutrality, indeterminate​","['apathy', 'detachment', 'neutrality', 'indeterminate\u200b']",word_colon
+insight,insight,"insight: puzzle, breakthrough, lightbulb, epiphany","['puzzle', 'breakthrough', 'lightbulb', 'epiphany']",word_colon
+intention,intention,"intention: goal, focus, planning, resolve","['goal', 'focus', 'planning', 'resolve']",word_colon
+justification,justification,"justification: courtroom, receipts, excuses, standards","['courtroom', 'receipts', 'excuses', 'standards']",word_colon
+miracle,miracle,"miracle: birth, recovery, rain after drought, unexpected reunion","['birth', 'recovery', 'rain after drought', 'unexpected reunion']",word_colon
+mourning,mourning,"mourning: cemetery, candles, black clothing, quiet prayers","['cemetery', 'candles', 'black clothing', 'quiet prayers']",word_colon
+need,need,"need: shelter, food, sleep, connection","['shelter', 'food', 'sleep', 'connection']",word_colon
+observation,observation,"observation: telescope, journal, detective, sunrise","['telescope', 'journal', 'detective', 'sunrise']",word_colon
+occupation,occupation,"occupation: resume, uniform, shift, paycheck","['resume', 'uniform', 'shift', 'paycheck']",word_colon
+order,order,"order: queue, hierarchy, schedule, lawfulness","['queue', 'hierarchy', 'schedule', 'lawfulness']",word_colon
+pardon,pardon,"pardon: apology, courtroom, forgiveness, second chances","['apology', 'courtroom', 'forgiveness', 'second chances']",word_colon
+pleasure,pleasure,"pleasure: laughter, indulgence, relaxation, reward","['laughter', 'indulgence', 'relaxation', 'reward']",word_colon
+quantity,quantity,"quantity: inventory, measurement, bulk, limit","['inventory', 'measurement', 'bulk', 'limit']",word_colon
+realization,realization,"realization: lightbulb, epiphany, breakthrough, aha moment","['lightbulb', 'epiphany', 'breakthrough', 'aha moment']",word_colon
+reassurance,reassurance,"reassurance: calm voice, gentle touch, nodding head, steady breathing","['calm voice', 'gentle touch', 'nodding head', 'steady breathing']",word_colon
+remorse,remorse,"remorse: confession, sleepless nights, wilted flowers, ticking clock","['confession', 'sleepless nights', 'wilted flowers', 'ticking clock']",word_colon
+requirement,requirement,"requirement: checklist, deadline, contract, budget","['checklist', 'deadline', 'contract', 'budget']",word_colon
+slapstick,slapstick,"slapstick: banana peel, custard pie, pratfall, exaggerated sound effects","['banana peel', 'custard pie', 'pratfall', 'exaggerated sound effects']",word_colon
+value,value,"value: price, ethics, measurement, importance","['price', 'ethics', 'measurement', 'importance']",word_colon
+victory,victory,"victory: trophy, parade, celebration, relief","['trophy', 'parade', 'celebration', 'relief']",word_colon
+view,view,"view: horizon, telescope, painting, perspective","['horizon', 'telescope', 'painting', 'perspective']",word_colon

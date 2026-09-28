@@ -1,0 +1,44 @@
+key,stimulus,response,properties,parse_mode
+ability,ability,"ability: talent, training, potential, challenge","['talent', 'training', 'potential', 'challenge']",word_colon
+advice,advice,"advice: mentor, notebook, coffee, crossroads","['mentor', 'notebook', 'coffee', 'crossroads']",word_colon
+beauty,beauty,"beauty: sunrise, melody, confidence, garden","['sunrise', 'melody', 'confidence', 'garden']",word_colon
+being,being,"being: breath, consciousness, existence, empathy","['breath', 'consciousness', 'existence', 'empathy']",word_colon
+boycott,boycott,"boycott: protest, ethics, pressure, solidarity","['protest', 'ethics', 'pressure', 'solidarity']",word_colon
+career,career,"career: networking, promotion, mentorship, burnout","['networking', 'promotion', 'mentorship', 'burnout']",word_colon
+comparison,comparison,"comparison: scales, side‑by‑side, pros‑and‑cons list, benchmark test","['scales', 'side‑by‑side', 'pros‑and‑cons list', 'benchmark test']",word_colon
+confession,confession,"confession: courtroom, diary, midnight, tears","['courtroom', 'diary', 'midnight', 'tears']",word_colon
+consideration,consideration,"consideration: budget, etiquette, reflection, safety","['budget', 'etiquette', 'reflection', 'safety']",word_colon
+consolation,consolation,"consolation: comfort, tea, rain, letters","['comfort', 'tea', 'rain', 'letters']",word_colon
+custom,custom,"custom: tailoring, branding, personalization, niche","['tailoring', 'branding', 'personalization', 'niche']",word_colon
+downfall,downfall,"downfall: betrayal, empire, cliff, tragedy","['betrayal', 'empire', 'cliff', 'tragedy']",word_colon
+dream,dream,"dream: flying, night, imagination, hope","['flying', 'night', 'imagination', 'hope']",word_colon
+explanation,explanation,"explanation: lecture, diagram, curiosity, evidence","['lecture', 'diagram', 'curiosity', 'evidence']",word_colon
+faithfulness,faithfulness,"faithfulness: loyalty, marriage, dog, routine","['loyalty', 'marriage', 'dog', 'routine']",word_colon
+indifference,indifference,"indifference: apathy, neutrality, detachment, indeterminate​","['apathy', 'neutrality', 'detachment', 'indeterminate\u200b']",word_colon
+intention,intention,"intention: goal, planning, focus, commitment","['goal', 'planning', 'focus', 'commitment']",word_colon
+invention,invention,"invention: spark, prototype, patent, breakthrough","['spark', 'prototype', 'patent', 'breakthrough']",word_colon
+justification,justification,"justification: courtroom, paperwork, excuses, ethics","['courtroom', 'paperwork', 'excuses', 'ethics']",word_colon
+manipulation,manipulation,"manipulation: strings, puppeteer, chessboard, pressure gauge","['strings', 'puppeteer', 'chessboard', 'pressure gauge']",word_colon
+memory,memory,"memory: nostalgia, photographs, forgetting, trauma","['nostalgia', 'photographs', 'forgetting', 'trauma']",word_colon
+misdemeanor,misdemeanor,"misdemeanor: courtroom, ticket, minor, warning","['courtroom', 'ticket', 'minor', 'warning']",word_colon
+need,need,"need: hunger, deadline, support, repair","['hunger', 'deadline', 'support', 'repair']",word_colon
+objection,objection,"objection: courtroom, protest, hesitation, rebuttal","['courtroom', 'protest', 'hesitation', 'rebuttal']",word_colon
+order,order,"order: command, queue, sequence, hierarchy","['command', 'queue', 'sequence', 'hierarchy']",word_colon
+past,past,"past: memories, history, nostalgia, regret","['memories', 'history', 'nostalgia', 'regret']",word_colon
+present,present,"present: birthday, gift, meeting, now","['birthday', 'gift', 'meeting', 'now']",word_colon
+proof,proof,"proof: evidence, courtroom, math, verification","['evidence', 'courtroom', 'math', 'verification']",word_colon
+proposal,proposal,"proposal: wedding, pitch, deadline, budget","['wedding', 'pitch', 'deadline', 'budget']",word_colon
+prosperity,prosperity,"prosperity: harvest, thriving cities, investment growth, healthy ecosystems","['harvest', 'thriving cities', 'investment growth', 'healthy ecosystems']",word_colon
+provocation,provocation,"provocation: fireworks, protest, teasing, debate","['fireworks', 'protest', 'teasing', 'debate']",word_colon
+quantity,quantity,"quantity: bulk, measurement, inventory, scarcity","['bulk', 'measurement', 'inventory', 'scarcity']",word_colon
+reassurance,reassurance,"reassurance: calm voice, gentle touch, steady heartbeat, supportive nod","['calm voice', 'gentle touch', 'steady heartbeat', 'supportive nod']",word_colon
+requirement,requirement,"requirement: deadline, checklist, budget, compliance","['deadline', 'checklist', 'budget', 'compliance']",word_colon
+resemblance,resemblance,"resemblance: twins, mirror, family portrait, echo","['twins', 'mirror', 'family portrait', 'echo']",word_colon
+revolution,revolution,"revolution: uprising, wheel, change, music","['uprising', 'wheel', 'change', 'music']",word_colon
+ritual,ritual,"ritual: candlelight, chanting, tradition, preparation","['candlelight', 'chanting', 'tradition', 'preparation']",word_colon
+scheme,scheme,"scheme: plot, code, budget, roadmap","['plot', 'code', 'budget', 'roadmap']",word_colon
+self-dependence,self-dependence,"self-dependence: gardening, solo travel, budgeting, DIY projects","['gardening', 'solo travel', 'budgeting', 'DIY projects']",word_colon
+task,task,"task: deadline, teamwork, checklist, motivation","['deadline', 'teamwork', 'checklist', 'motivation']",word_colon
+thought,thought,"thought: daydream, puzzle, whisper, ripple","['daydream', 'puzzle', 'whisper', 'ripple']",word_colon
+trend,trend,"trend: fashion, social media, data analysis, cultural shift","['fashion', 'social media', 'data analysis', 'cultural shift']",word_colon
+value,value,"value: price, ethics, measurement, importance","['price', 'ethics', 'measurement', 'importance']",word_colon

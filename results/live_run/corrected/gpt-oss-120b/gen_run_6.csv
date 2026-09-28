@@ -1,0 +1,39 @@
+key,stimulus,response,properties,parse_mode
+beauty,beauty,"beauty: sunrise, music, confidence, symmetry","['sunrise', 'music', 'confidence', 'symmetry']",word_colon
+being,being,"being: consciousness, existence, mortality, identity","['consciousness', 'existence', 'mortality', 'identity']",word_colon
+boredom,boredom,"boredom: lecture, traffic jam, empty hallway, waiting line","['lecture', 'traffic jam', 'empty hallway', 'waiting line']",word_colon
+boycott,boycott,"boycott: protest, revenue loss, solidarity, consumer choice","['protest', 'revenue loss', 'solidarity', 'consumer choice']",word_colon
+caution,caution,"caution: traffic lights, warning signs, double‑check, safety goggles","['traffic lights', 'warning signs', 'double‑check', 'safety goggles']",word_colon
+courage,courage,"courage: lion, firewalk, first step, stormy sea","['lion', 'firewalk', 'first step', 'stormy sea']",word_colon
+custom,custom,"custom: tailoring, boutique, personalization, niche","['tailoring', 'boutique', 'personalization', 'niche']",word_colon
+diligence,diligence,"diligence: research, deadlines, notebooks, perseverance","['research', 'deadlines', 'notebooks', 'perseverance']",word_colon
+doubt,doubt,"doubt: hesitation, midnight, whispers, crossroads","['hesitation', 'midnight', 'whispers', 'crossroads']",word_colon
+downfall,downfall,"downfall: tragedy, betrayal, collapse, redemption","['tragedy', 'betrayal', 'collapse', 'redemption']",word_colon
+excitement,excitement,"excitement: rollercoaster, fireworks, surprise party, first kiss","['rollercoaster', 'fireworks', 'surprise party', 'first kiss']",word_colon
+flexibility,flexibility,"flexibility: yoga, rubber bands, remote work, bendy trees","['yoga', 'rubber bands', 'remote work', 'bendy trees']",word_colon
+ideal,ideal,"ideal: harmony, perfection, aspiration, blueprint","['harmony', 'perfection', 'aspiration', 'blueprint']",word_colon
+illusion,illusion,"illusion: mirage, trickery, perception, theater","['mirage', 'trickery', 'perception', 'theater']",word_colon
+indifference,indifference,"indifference: apathy, detachment, neutral, indeterminate","['apathy', 'detachment', 'neutral', 'indeterminate']",word_colon
+insight,insight,"insight: puzzle, flashlight, epiphany, microscope","['puzzle', 'flashlight', 'epiphany', 'microscope']",word_colon
+intention,intention,"intention: goal, promise, focus, planning","['goal', 'promise', 'focus', 'planning']",word_colon
+jealousy,jealousy,"jealousy: envy, rivalry, suspicion, insecurity","['envy', 'rivalry', 'suspicion', 'insecurity']",word_colon
+justification,justification,"justification: courtroom, excuses, paperwork, moral dilemma","['courtroom', 'excuses', 'paperwork', 'moral dilemma']",word_colon
+menace,menace,"menace: thunderstorm, shadow, warning sign, uneasy silence","['thunderstorm', 'shadow', 'warning sign', 'uneasy silence']",word_colon
+mourning,mourning,"mourning: funeral, candles, silence, black ribbons","['funeral', 'candles', 'silence', 'black ribbons']",word_colon
+need,need,"need: hunger, deadline, shelter, support","['hunger', 'deadline', 'shelter', 'support']",word_colon
+objection,objection,"objection: courtroom, protest, disagreement, interruption","['courtroom', 'protest', 'disagreement', 'interruption']",word_colon
+observation,observation,"observation: telescope, journal, patient, traffic light","['telescope', 'journal', 'patient', 'traffic light']",word_colon
+pardon,pardon,"pardon: apology, courtroom, forgiveness, second chances","['apology', 'courtroom', 'forgiveness', 'second chances']",word_colon
+pleasure,pleasure,"pleasure: laughter, indulgence, weekend, fireworks","['laughter', 'indulgence', 'weekend', 'fireworks']",word_colon
+potential,potential,"potential: seed, future, energy, growth","['seed', 'future', 'energy', 'growth']",word_colon
+present,present,"present: gift, now, attention, ceremony","['gift', 'now', 'attention', 'ceremony']",word_colon
+quantity,quantity,"quantity: numbers, inventory, measurement, bulk","['numbers', 'inventory', 'measurement', 'bulk']",word_colon
+realization,realization,"realization: epiphany, lightbulb, breakthrough, aha moment","['epiphany', 'lightbulb', 'breakthrough', 'aha moment']",word_colon
+reassurance,reassurance,"reassurance: calm voice, steady hand, warm blanket, gentle nod","['calm voice', 'steady hand', 'warm blanket', 'gentle nod']",word_colon
+remorse,remorse,"remorse: confession, sleepless nights, cold coffee, wilted flowers","['confession', 'sleepless nights', 'cold coffee', 'wilted flowers']",word_colon
+resemblance,resemblance,"resemblance: twins, mirror, family portrait, echo","['twins', 'mirror', 'family portrait', 'echo']",word_colon
+self-dependence,self-dependence,"self-dependence: garden, solo travel, DIY repair, quiet mornings","['garden', 'solo travel', 'DIY repair', 'quiet mornings']",word_colon
+slapstick,slapstick,"slapstick: pies, pratfalls, exaggerated sound effects, chaotic chase scenes","['pies', 'pratfalls', 'exaggerated sound effects', 'chaotic chase scenes']",word_colon
+terrorism,terrorism,"terrorism: fear, propaganda, security, radicalization","['fear', 'propaganda', 'security', 'radicalization']",word_colon
+value,value,"value: price, ethics, investment, significance","['price', 'ethics', 'investment', 'significance']",word_colon
+welfare,welfare,"welfare: safety net, community center, unemployment benefits, health insurance","['safety net', 'community center', 'unemployment benefits', 'health insurance']",word_colon

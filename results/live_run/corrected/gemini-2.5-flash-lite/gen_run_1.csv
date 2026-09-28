@@ -1,0 +1,72 @@
+key,stimulus,response,properties,parse_mode
+addiction,addiction,"addiction: craving, relapse, recovery, compulsion","['craving', 'relapse', 'recovery', 'compulsion']",word_colon
+anger,anger,"anger: shouting, red face, clenched fists, frustration","['shouting', 'red face', 'clenched fists', 'frustration']",word_colon
+anxiety,anxiety,"anxiety: racing heart, worry, knots in stomach, unease","['racing heart', 'worry', 'knots in stomach', 'unease']",word_colon
+appearance,appearance,"appearance: mirror, fashion, disguise, stage","['mirror', 'fashion', 'disguise', 'stage']",word_colon
+application,application,"application: form, job, resume, software","['form', 'job', 'resume', 'software']",word_colon
+aptitude,aptitude,"aptitude: talent, skill, learning, potential","['talent', 'skill', 'learning', 'potential']",word_colon
+blackmail,blackmail,"blackmail: threat, secret, fear, money","['threat', 'secret', 'fear', 'money']",word_colon
+boredom,boredom,"boredom: staring, clock, waiting, nothing","['staring', 'clock', 'waiting', 'nothing']",word_colon
+catastrophe,catastrophe,"catastrophe: earthquake, famine, ruin, despair","['earthquake', 'famine', 'ruin', 'despair']",word_colon
+compassion,compassion,"compassion: kindness, empathy, helping, comfort","['kindness', 'empathy', 'helping', 'comfort']",word_colon
+confession,confession,"confession: secret, guilt, relief, truth","['secret', 'guilt', 'relief', 'truth']",word_colon
+consolation,consolation,"consolation: comfort, kind words, solace, embrace","['comfort', 'kind words', 'solace', 'embrace']",word_colon
+convention,convention,"convention: meeting, rules, agreement, tradition","['meeting', 'rules', 'agreement', 'tradition']",word_colon
+criticism,criticism,"criticism: feedback, review, judgment, advice","['feedback', 'review', 'judgment', 'advice']",word_colon
+death,death,"death: finality, grief, silence, transition","['finality', 'grief', 'silence', 'transition']",word_colon
+desperation,desperation,"desperation: frantic search, last resort, begging, empty hands","['frantic search', 'last resort', 'begging', 'empty hands']",word_colon
+dictatorship,dictatorship,"dictatorship: control, fear, repression, obedience","['control', 'fear', 'repression', 'obedience']",word_colon
+dignity,dignity,"dignity: self-respect, composure, honor, integrity","['self-respect', 'composure', 'honor', 'integrity']",word_colon
+disappointment,disappointment,"disappointment: unmet expectation, sigh, feeling of loss, looking down","['unmet expectation', 'sigh', 'feeling of loss', 'looking down']",word_colon
+disgust,disgust,"disgust: spoiled food, bad smell, unpleasant taste, recoiling","['spoiled food', 'bad smell', 'unpleasant taste', 'recoiling']",word_colon
+distance,distance,"distance: miles,  telescope,  journey,  emptiness","['miles', 'telescope', 'journey', 'emptiness']",word_colon
+distraction,distraction,"distraction: phone, noise, daydreaming, play","['phone', 'noise', 'daydreaming', 'play']",word_colon
+doubt,doubt,"doubt: question, uncertainty, hesitation, skepticism","['question', 'uncertainty', 'hesitation', 'skepticism']",word_colon
+dream,dream,"dream: sleep, imagination, future, escape","['sleep', 'imagination', 'future', 'escape']",word_colon
+excitement,excitement,"excitement: roller coaster, surprise party,  opening presents,  concert crowd","['roller coaster', 'surprise party', 'opening presents', 'concert crowd']",word_colon
+expectation,expectation,"expectation: waiting, hope, future, disappointment","['waiting', 'hope', 'future', 'disappointment']",word_colon
+fate,fate,"fate: destiny, threads, inevitability, path","['destiny', 'threads', 'inevitability', 'path']",word_colon
+fear,fear,"fear: darkness, monsters, screaming, escape","['darkness', 'monsters', 'screaming', 'escape']",word_colon
+future,future,"future: innovation, planning, unknown, dreams","['innovation', 'planning', 'unknown', 'dreams']",word_colon
+happiness,happiness,"happiness: laughter, sunshine, smiles, celebration","['laughter', 'sunshine', 'smiles', 'celebration']",word_colon
+hate,hate,"hate
+anger, fight, dark, broken","['anger', 'fight', 'dark', 'broken']",bare
+help,help,"help: rescue, advice, support, tool","['rescue', 'advice', 'support', 'tool']",word_colon
+idea,idea,"idea: lightbulb, brainstorm, eureka, plan","['lightbulb', 'brainstorm', 'eureka', 'plan']",word_colon
+insurrection,insurrection,"insurrection: rebellion, riot, uprising, overthrow","['rebellion', 'riot', 'uprising', 'overthrow']",word_colon
+intention,intention,"intention: plan, purpose, motive, goal","['plan', 'purpose', 'motive', 'goal']",word_colon
+kindness,kindness,"kindness: gentle touch, helping hand, warm smile, shared meal","['gentle touch', 'helping hand', 'warm smile', 'shared meal']",word_colon
+magic,magic,"magic: spell, wand, illusion, enchantment","['spell', 'wand', 'illusion', 'enchantment']",word_colon
+manners,manners,"manners: table, greeting, respect, apology","['table', 'greeting', 'respect', 'apology']",word_colon
+matter,matter,"matter: physics, gravity, solid, chemical","['physics', 'gravity', 'solid', 'chemical']",word_colon
+mercy,mercy,"mercy: forgiveness, release, compassion, reprieve","['forgiveness', 'release', 'compassion', 'reprieve']",word_colon
+miracle,miracle,"miracle: healing, unanswered prayer, divine intervention, unexpected luck","['healing', 'unanswered prayer', 'divine intervention', 'unexpected luck']",word_colon
+mood,mood,"mood: happy, sad, angry, bored","['happy', 'sad', 'angry', 'bored']",word_colon
+mourning,mourning,"mourning: funeral, tears, memories, darkness","['funeral', 'tears', 'memories', 'darkness']",word_colon
+need,need,"need: lack, hunger, help, important","['lack', 'hunger', 'help', 'important']",word_colon
+nightmare,nightmare,"nightmare: dark, fear, sweat, scream","['dark', 'fear', 'sweat', 'scream']",word_colon
+observation,observation,"observation: telescope, microscope, data, analysis","['telescope', 'microscope', 'data', 'analysis']",word_colon
+occupation,occupation,"occupation: doctor, lawyer, artist, firefighter","['doctor', 'lawyer', 'artist', 'firefighter']",word_colon
+order,order,"order: queue, grocery list, command, filing cabinet","['queue', 'grocery list', 'command', 'filing cabinet']",word_colon
+past,past,"past: memories, history, yesterday, lessons","['memories', 'history', 'yesterday', 'lessons']",word_colon
+perception,perception,"perception: sight, understanding, opinion, awareness","['sight', 'understanding', 'opinion', 'awareness']",word_colon
+potential,potential,"potential: future, unseen, opportunity, growth","['future', 'unseen', 'opportunity', 'growth']",word_colon
+prediction,prediction,"prediction: crystal ball, forecast, crystal ball, educated guess","['crystal ball', 'forecast', 'crystal ball', 'educated guess']",word_colon
+protection,protection,"protection: shield, security, safety, defense","['shield', 'security', 'safety', 'defense']",word_colon
+punishment,punishment,"punishment: jail, discipline, consequences, shame","['jail', 'discipline', 'consequences', 'shame']",word_colon
+realization,realization,"realization: epiphany, dawn, understanding, awareness","['epiphany', 'dawn', 'understanding', 'awareness']",word_colon
+recommendation,recommendation,"recommendation: advice, review, endorsement, suggestion","['advice', 'review', 'endorsement', 'suggestion']",word_colon
+regret,regret,"regret: missed opportunities, past mistakes, longing for a different outcome, a heavy heart","['missed opportunities', 'past mistakes', 'longing for a different outcome', 'a heavy heart']",word_colon
+resistance,resistance,"resistance: static, rebellion, electrical, obstruction","['static', 'rebellion', 'electrical', 'obstruction']",word_colon
+resolution,resolution,"resolution: New Year, divorce, camera, problem","['New Year', 'divorce', 'camera', 'problem']",word_colon
+retaliation,retaliation,"retaliation: revenge, attack, consequence, anger","['revenge', 'attack', 'consequence', 'anger']",word_colon
+sensitivity,sensitivity,"sensitivity: tears, gentle touch, shy, easily hurt","['tears', 'gentle touch', 'shy', 'easily hurt']",word_colon
+slapstick,slapstick,"slapstick: pratfall, custard pie, exaggerated movements, rubber chicken","['pratfall', 'custard pie', 'exaggerated movements', 'rubber chicken']",word_colon
+suffering,suffering,"suffering: pain, illness, loss, hardship","['pain', 'illness', 'loss', 'hardship']",word_colon
+task,task,"task: project, deadline, effort, completion","['project', 'deadline', 'effort', 'completion']",word_colon
+terrorism,terrorism,"terrorism: fear, destruction, security, conflict","['fear', 'destruction', 'security', 'conflict']",word_colon
+violence,violence,"violence: anger, protest, harm, fear","['anger', 'protest', 'harm', 'fear']",word_colon
+war,war,"war: soldiers, explosions, trenches, nations","['soldiers', 'explosions', 'trenches', 'nations']",word_colon
+welfare,welfare,"welfare: safety net, community support, social services, care","['safety net', 'community support', 'social services', 'care']",word_colon
+will,will,"will: future, intention, determination, inheritance","['future', 'intention', 'determination', 'inheritance']",word_colon
+worry,worry,"worry: frown, sleepless nights, heart pounding, biting nails","['frown', 'sleepless nights', 'heart pounding', 'biting nails']",word_colon

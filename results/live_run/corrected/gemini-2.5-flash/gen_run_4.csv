@@ -1,0 +1,10 @@
+key,stimulus,response,properties,parse_mode
+art,art,"art: brush, museum, color, emotion","['brush', 'museum', 'color', 'emotion']",word_colon
+death,death,"death: finality, absence, memory, stillness","['finality', 'absence', 'memory', 'stillness']",word_colon
+fury,fury,"fury: explosion, red, scream, punch","['explosion', 'red', 'scream', 'punch']",word_colon
+insight,insight,"insight: aha! moment, puzzle piece clicking, lightbulb, fog clearing","['aha! moment', 'puzzle piece clicking', 'lightbulb', 'fog clearing']",word_colon
+proposal,proposal,"proposal: engagement ring, knee, project, future","['engagement ring', 'knee', 'project', 'future']",word_colon
+romantic,romantic,"romantic: candlelight, rose, kiss, sunset","['candlelight', 'rose', 'kiss', 'sunset']",word_colon
+thirst,thirst,"thirst: dryness, water, desert, longing","['dryness', 'water', 'desert', 'longing']",word_colon
+war,war,"war: explosions, rubble, refugees, trenches","['explosions', 'rubble', 'refugees', 'trenches']",word_colon
+will,will,"will: Future, Resolve, Inheritance, Choice","['Future', 'Resolve', 'Inheritance', 'Choice']",word_colon

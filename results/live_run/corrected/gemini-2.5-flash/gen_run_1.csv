@@ -1,0 +1,14 @@
+key,stimulus,response,properties,parse_mode
+advice,advice,"advice: confusion, wisdom, crossroads, ear","['confusion', 'wisdom', 'crossroads', 'ear']",word_colon
+difficulty,difficulty,"difficulty: mountain climbing, knot, sweat, puzzle","['mountain climbing', 'knot', 'sweat', 'puzzle']",word_colon
+home,home,"home: warmth, family, anchor, kitchen","['warmth', 'family', 'anchor', 'kitchen']",word_colon
+honor,honor,"honor: medal, oath, flag, ancestors","['medal', 'oath', 'flag', 'ancestors']",word_colon
+luck,luck,"luck: coin flip, four-leaf clover, black cat, jackpot","['coin flip', 'four-leaf clover', 'black cat', 'jackpot']",word_colon
+occupation,occupation,"occupation: job application, desk, skill, income","['job application', 'desk', 'skill', 'income']",word_colon
+pardon,pardon,"pardon: bump, judge, release, repeat","['bump', 'judge', 'release', 'repeat']",word_colon
+past,past,"past: memory, history, regret, foundation","['memory', 'history', 'regret', 'foundation']",word_colon
+proposal,proposal,"proposal: ring, kneel, project, future","['ring', 'kneel', 'project', 'future']",word_colon
+retaliation,retaliation,"retaliation: escalation, cycle, anger, punch","['escalation', 'cycle', 'anger', 'punch']",word_colon
+slapstick,slapstick,"slapstick: falling down, pie in face, cartoon sound effects, pratfall","['falling down', 'pie in face', 'cartoon sound effects', 'pratfall']",word_colon
+victory,victory,"victory: parade, gold medal, champagne spray, raised arms","['parade', 'gold medal', 'champagne spray', 'raised arms']",word_colon
+will,will,"will: future, document, resolve, desire","['future', 'document', 'resolve', 'desire']",word_colon

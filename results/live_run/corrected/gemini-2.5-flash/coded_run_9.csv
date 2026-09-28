@@ -1,0 +1,10 @@
+key,stimulus,properties,codes,raw_labels,frequencies
+betrayal,betrayal,"['stab in the back', 'broken trust', 'Judas', 'tears']","['SM', 'VA', 'VA', 'IS_E']","['sensorimotor feature', 'other abstract concept', 'association', 'internal state and emotion']","[0.25, 0.25, 0.0, 0.5]"
+fright,fright,"['jump', 'cold sweat', 'suspense film', 'monster']","['SM', 'SM', 'VA', 'VA']","['sensorimotor feature', 'sensorimotor feature', 'association', 'association']","[0.5, 0.0, 0.0, 0.5]"
+home,home,"['comfort', 'family', 'kitchen', 'garden']","['IS_E', 'SC', 'SM', 'SM']","['internal state and emotion', 'social constellation', 'sensorimotor feature', 'sensorimotor feature']","[0.5, 0.25, 0.25, 0.0]"
+horror,horror,"['scream', 'darkness', 'cold sweat', 'jump scare']","['SM', 'VA', 'SM', 'SM']","['sensorimotor feature', 'association', 'sensorimotor feature', 'sensorimotor feature']","[0.75, 0.0, 0.0, 0.25]"
+present,present,"['wrapping', 'moment', 'speech', 'surprise']","['SM', 'VA', 'SC', 'IS_E']","['sensorimotor feature', 'other abstract concept', 'social constellation', 'internal state and emotion']","[0.25, 0.25, 0.25, 0.25]"
+thirst,thirst,"['desert', 'lemonade', 'cracked lips', 'marathon']","['VA', 'SM', 'SM', 'VA']","['association', 'sensorimotor feature', 'sensorimotor feature', 'association']","[0.5, 0.0, 0.0, 0.5]"
+slapstick,slapstick,"['banana peel', 'boing sound', 'oversized hammer', 'tumbling stack of plates']","['SM', 'SM', 'SM', 'SM']","['sensorimotor feature', 'sensorimotor feature', 'sensorimotor feature', 'sensorimotor feature']","[1.0, 0.0, 0.0, 0.0]"
+victory,victory,"['joy', 'cheers', 'trophy', 'podium']","['IS_E', 'SC', 'VA', 'SM']","['internal state and emotion', 'social constellation', 'association', 'sensorimotor feature']","[0.25, 0.25, 0.25, 0.25]"
+will,will,"['future', 'inheritance', 'choice', 'determination']","['VA', 'VA', 'VA', 'IS_E']","['association', 'other abstract concept', 'other abstract concept', 'internal state and emotion']","[0.0, 0.25, 0.0, 0.75]"

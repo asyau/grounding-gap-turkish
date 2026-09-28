@@ -1,0 +1,5 @@
+key,stimulus,properties,codes,raw_labels,frequencies
+will,will,"['future', 'testament', 'resolve', 'intention']","['VA', 'SM', 'IS_E', 'VA']","['association', 'sensorimotor feature', 'internal state and emotion', 'other abstract concept']","[0.25, 0.25, 0.0, 0.5]"
+agony,agony,"['scream', 'broken leg', 'tears', 'clenched teeth']","['SM', 'SM', 'SM', 'SM']","['sensorimotor feature', 'sensorimotor feature', 'sensorimotor feature', 'sensorimotor feature']","[1.0, 0.0, 0.0, 0.0]"
+insight,insight,"['Aha! moment', 'lightbulb', 'clarity', 'hidden pattern']","['IS_E', 'VA', 'VA', 'SM']","['internal state and emotion', 'association', 'other abstract concept', 'sensorimotor feature']","[0.25, 0.25, 0.0, 0.5]"
+willingness,willingness,"['first step', 'open door', 'helping hand', 'nod']","['VA', 'VA', 'SC', 'SM']","['other abstract concept', 'association', 'social constellation', 'sensorimotor feature']","[0.25, 0.0, 0.25, 0.5]"

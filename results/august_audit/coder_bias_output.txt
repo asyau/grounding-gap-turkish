@@ -1,0 +1,35 @@
+coder decisions parsed        : 235055
+unmappable (silently dropped) : 72  (0.03%)
+
+expert-labelled properties    : 2077
+also seen by the LLM coder    : 1930  (92.9%)
+coder decisions on those      : 74006
+
+=== Confusion matrix: rows = expert, cols = LLM coder (modal label) ===
+              Sensorimotor  Internal  Social  Verbal
+Sensorimotor           409        22       4     162
+Internal                34       131       4      23
+Social                  19         5     123      65
+Verbal                 149        38      69     673
+
+overall agreement : 69.2%   (paper reports 67.2%)
+Cohen's kappa     : 0.527      (paper reports 0.505)
+
+category        n_expert   recall  precision   paper recall
+Sensorimotor         597    68.5%      66.9%          66.2%
+Internal             192    68.2%      66.8%          75.9%
+Social               212    58.0%      61.5%          62.1%
+Verbal               929    72.4%      72.9%          67.1%
+
+=== MARGINAL BIAS: same properties, two labellers ===
+                                  Sensorimotor      Internal        Social        Verbal
+expert humans                            0.309         0.099         0.110         0.481
+gemini-2.5-flash-lite coder              0.317         0.102         0.104         0.478
+coder minus expert                      +0.007        +0.002        -0.006        -0.003
+paper reported gap, for scale           -0.060        -0.187        +0.019        +0.186
+
+coder shift as a share of the reported gap:
+   Sensorimotor    -12.1%
+   Internal         -1.1%
+   Social          -32.7%
+   Verbal           -1.7%

@@ -1,0 +1,37 @@
+key,stimulus,response,properties,parse_mode
+ability,ability,"ability: practice, growth, confidence, challenge","['practice', 'growth', 'confidence', 'challenge']",word_colon
+accusation,accusation,"accusation: courtroom, betrayal, evidence, guilt","['courtroom', 'betrayal', 'evidence', 'guilt']",word_colon
+advice,advice,"advice: mentor, notebook, dilemma, earpiece","['mentor', 'notebook', 'dilemma', 'earpiece']",word_colon
+argument,argument,"argument: debate, courtroom, logic, disagreement","['debate', 'courtroom', 'logic', 'disagreement']",word_colon
+being,being,"being: breath, consciousness, existence, empathy","['breath', 'consciousness', 'existence', 'empathy']",word_colon
+boycott,boycott,"boycott: protest, ethics, consumer, pressure","['protest', 'ethics', 'consumer', 'pressure']",word_colon
+caution,caution,"caution: road signs, double‑check, safety goggles, slow‑motion movies","['road signs', 'double‑check', 'safety goggles', 'slow‑motion movies']",word_colon
+consolation,consolation,"consolation: warm blanket, late-night phone call, comforting tea, sunrise after storm","['warm blanket', 'late-night phone call', 'comforting tea', 'sunrise after storm']",word_colon
+convention,convention,"convention: conference, dress code, tradition, networking","['conference', 'dress code', 'tradition', 'networking']",word_colon
+difference,difference,"difference: contrast, gap, variance, uniqueness","['contrast', 'gap', 'variance', 'uniqueness']",word_colon
+doubt,doubt,"doubt: hesitation, uncertainty, questioning, second‑guessing","['hesitation', 'uncertainty', 'questioning', 'second‑guessing']",word_colon
+downfall,downfall,"downfall: tragedy, betrayal, collapse, ruin","['tragedy', 'betrayal', 'collapse', 'ruin']",word_colon
+guess,guess,"guess: mystery, lottery, intuition, suspense","['mystery', 'lottery', 'intuition', 'suspense']",word_colon
+incentive,incentive,"incentive: bonus, motivation, goal, reward","['bonus', 'motivation', 'goal', 'reward']",word_colon
+insurrection,insurrection,"insurrection: rebellion, chaos, protest, upheaval","['rebellion', 'chaos', 'protest', 'upheaval']",word_colon
+manners,manners,"manners: etiquette, dinner, apologies, greetings","['etiquette', 'dinner', 'apologies', 'greetings']",word_colon
+misdemeanor,misdemeanor,"misdemeanor: courtroom, ticket, minor offense, police report","['courtroom', 'ticket', 'minor offense', 'police report']",word_colon
+need,need,"need: hunger, deadline, support, cravings","['hunger', 'deadline', 'support', 'cravings']",word_colon
+nightmare,nightmare,"nightmare: darkness, racing heart, broken mirror, endless hallway","['darkness', 'racing heart', 'broken mirror', 'endless hallway']",word_colon
+notion,notion,"notion: imagination, brainstorming, sketch, prototype","['imagination', 'brainstorming', 'sketch', 'prototype']",word_colon
+obedience,obedience,"obedience: training, hierarchy, ritual, trust","['training', 'hierarchy', 'ritual', 'trust']",word_colon
+objection,objection,"objection: courtroom, protest, hesitation, rebuttal","['courtroom', 'protest', 'hesitation', 'rebuttal']",word_colon
+obligation,obligation,"obligation: contract, duty, deadline, guilt","['contract', 'duty', 'deadline', 'guilt']",word_colon
+observation,observation,"observation: telescope, journal, detective, sunrise","['telescope', 'journal', 'detective', 'sunrise']",word_colon
+order,order,"order: hierarchy, schedule, command, inventory","['hierarchy', 'schedule', 'command', 'inventory']",word_colon
+pardon,pardon,"pardon: apology, courtroom, forgiveness, second chances","['apology', 'courtroom', 'forgiveness', 'second chances']",word_colon
+proof,proof,"proof: evidence, courtroom, math, verification","['evidence', 'courtroom', 'math', 'verification']",word_colon
+realization,realization,"realization: epiphany, lightbulb, breakthrough, clarity","['epiphany', 'lightbulb', 'breakthrough', 'clarity']",word_colon
+reassurance,reassurance,"reassurance: calm, support, confidence, safety","['calm', 'support', 'confidence', 'safety']",word_colon
+remorse,remorse,"remorse: confession, sleepless nights, torn letters, cold coffee","['confession', 'sleepless nights', 'torn letters', 'cold coffee']",word_colon
+resemblance,resemblance,"resemblance: twins, family portraits, echoing patterns, nostalgic memories","['twins', 'family portraits', 'echoing patterns', 'nostalgic memories']",word_colon
+self-dependence,self-dependence,"self-dependence: solitude, self‑learning, budgeting, personal growth","['solitude', 'self‑learning', 'budgeting', 'personal growth']",word_colon
+victory,victory,"victory: trophy, celebration, perseverance, anthem","['trophy', 'celebration', 'perseverance', 'anthem']",word_colon
+welfare,welfare,"welfare: safety net, healthcare, unemployment benefits, social programs","['safety net', 'healthcare', 'unemployment benefits', 'social programs']",word_colon
+will,will,"will: inheritance, determination, legal document, future plans","['inheritance', 'determination', 'legal document', 'future plans']",word_colon
+willingness,willingness,"willingness: volunteering, open‑mindedness, first‑step, teamwork","['volunteering', 'open‑mindedness', 'first‑step', 'teamwork']",word_colon

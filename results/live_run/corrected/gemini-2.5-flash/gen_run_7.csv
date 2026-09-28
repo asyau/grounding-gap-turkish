@@ -1,0 +1,8 @@
+key,stimulus,response,properties,parse_mode
+assassination,assassination,"assassination: plot, bullet, president, consequence","['plot', 'bullet', 'president', 'consequence']",word_colon
+difficulty,difficulty,"difficulty: effort, wall, knot, steep","['effort', 'wall', 'knot', 'steep']",word_colon
+fury,fury,"fury: explosion, red face, screaming, punching wall","['explosion', 'red face', 'screaming', 'punching wall']",word_colon
+honor,honor,"honor: medal, bow, family name, promise","['medal', 'bow', 'family name', 'promise']",word_colon
+matter,matter,"matter: investigation, atoms, significance, courtroom","['investigation', 'atoms', 'significance', 'courtroom']",word_colon
+mercy,mercy,"mercy: judge, kneeling, hand, pause","['judge', 'kneeling', 'hand', 'pause']",word_colon
+thirst,thirst,"thirst: dryness, desert, water bottle, long run","['dryness', 'desert', 'water bottle', 'long run']",word_colon

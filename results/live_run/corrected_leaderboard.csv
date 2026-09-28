@@ -1,0 +1,5 @@
+model,released,empties_dropped,recovered_and_recoded,dropped,added
+gemini-2.5-flash-lite,0.348,0.394,0.401,720,703
+gemini-2.5-flash,0.296,0.301,0.302,89,89
+gpt-oss-120b,0.199,0.239,0.244,493,491
+llama-3.1-8b,0.283,0.339,0.372,1194,1054

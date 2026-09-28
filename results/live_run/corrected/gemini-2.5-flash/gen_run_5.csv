@@ -1,0 +1,12 @@
+key,stimulus,response,properties,parse_mode
+career,career,"career: growth, mentor, path, goals","['growth', 'mentor', 'path', 'goals']",word_colon
+fury,fury,"fury: red face, screaming, storm, punching wall","['red face', 'screaming', 'storm', 'punching wall']",word_colon
+greed,greed,"greed: hoarding, empty feeling, gold coins, clenched fist","['hoarding', 'empty feeling', 'gold coins', 'clenched fist']",word_colon
+home,home,"home: comfort, family, kitchen, garden","['comfort', 'family', 'kitchen', 'garden']",word_colon
+nightmare,nightmare,"nightmare: sweat, racing heart, waking up, monster","['sweat', 'racing heart', 'waking up', 'monster']",word_colon
+occupation,occupation,"occupation: skill, income, identity, training","['skill', 'income', 'identity', 'training']",word_colon
+relief,relief,"relief: kicking off shoes, exam finished, cold water, weight lifted","['kicking off shoes', 'exam finished', 'cold water', 'weight lifted']",word_colon
+responsibility,responsibility,"responsibility: burden, parenting, consequences, growth","['burden', 'parenting', 'consequences', 'growth']",word_colon
+romantic,romantic,"romantic: candlelight, sunset, poetry, stargazing","['candlelight', 'sunset', 'poetry', 'stargazing']",word_colon
+slapstick,slapstick,"slapstick: pie in the face, banana peel, sound effects, exaggerated falls","['pie in the face', 'banana peel', 'sound effects', 'exaggerated falls']",word_colon
+will,will,"will: future, money, strength, choice","['future', 'money', 'strength', 'choice']",word_colon

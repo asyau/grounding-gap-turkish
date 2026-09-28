@@ -1,0 +1,5 @@
+key,stimulus,response,properties,parse_mode
+agony,agony,"agony: scream, broken leg, tears, clenched teeth","['scream', 'broken leg', 'tears', 'clenched teeth']",word_colon
+insight,insight,"insight: Aha! moment, lightbulb, clarity, hidden pattern","['Aha! moment', 'lightbulb', 'clarity', 'hidden pattern']",word_colon
+will,will,"will: future, testament, resolve, intention","['future', 'testament', 'resolve', 'intention']",word_colon
+willingness,willingness,"willingness: first step, open door, helping hand, nod","['first step', 'open door', 'helping hand', 'nod']",word_colon

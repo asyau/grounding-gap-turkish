@@ -1,0 +1,39 @@
+key,stimulus,response,properties,parse_mode
+ability,ability,"ability: talent, training, confidence, challenge","['talent', 'training', 'confidence', 'challenge']",word_colon
+appearance,appearance,"appearance: mirror, makeup, first impression, camouflage","['mirror', 'makeup', 'first impression', 'camouflage']",word_colon
+argument,argument,"argument: debate, courtroom, logic, disagreement","['debate', 'courtroom', 'logic', 'disagreement']",word_colon
+being,being,"being: consciousness, existence, choice, mortality","['consciousness', 'existence', 'choice', 'mortality']",word_colon
+boredom,boredom,"boredom: lecture, traffic jam, waiting room, rainy weekend","['lecture', 'traffic jam', 'waiting room', 'rainy weekend']",word_colon
+boycott,boycott,"boycott: protest, brands, solidarity, exclusion","['protest', 'brands', 'solidarity', 'exclusion']",word_colon
+caution,caution,"caution: traffic lights, warning signs, careful steps, safety goggles","['traffic lights', 'warning signs', 'careful steps', 'safety goggles']",word_colon
+charm,charm,"charm: smile, necklace, spell, charisma","['smile', 'necklace', 'spell', 'charisma']",word_colon
+custom,custom,"custom: tailoring, branding, personalization, niche","['tailoring', 'branding', 'personalization', 'niche']",word_colon
+doubt,doubt,"doubt: hesitation, questioning, uncertainty, inner conflict","['hesitation', 'questioning', 'uncertainty', 'inner conflict']",word_colon
+downfall,downfall,"downfall: betrayal, collapse, scandal, ruin","['betrayal', 'collapse', 'scandal', 'ruin']",word_colon
+explanation,explanation,"explanation: lecture, diagram, curiosity, clarity","['lecture', 'diagram', 'curiosity', 'clarity']",word_colon
+exploitation,exploitation,"exploitation: labor, resources, colonization, fraud","['labor', 'resources', 'colonization', 'fraud']",word_colon
+flexibility,flexibility,"flexibility: yoga, rubber bands, remote work, bendy trees","['yoga', 'rubber bands', 'remote work', 'bendy trees']",word_colon
+incentive,incentive,"incentive: bonus, motivation, goal, reward","['bonus', 'motivation', 'goal', 'reward']",word_colon
+indifference,indifference,"indifference: apathy, neutrality, detachment, indeterminate​","['apathy', 'neutrality', 'detachment', 'indeterminate\u200b']",word_colon
+intention,intention,"intention: goal, planning, focus, resolve","['goal', 'planning', 'focus', 'resolve']",word_colon
+justification,justification,"justification: courtroom, paperwork, excuses, moral dilemma","['courtroom', 'paperwork', 'excuses', 'moral dilemma']",word_colon
+misdemeanor,misdemeanor,"misdemeanor: courtroom, ticket, minor, record","['courtroom', 'ticket', 'minor', 'record']",word_colon
+mourning,mourning,"mourning: cemetery, black ribbons, quiet candles, tearful eulogies","['cemetery', 'black ribbons', 'quiet candles', 'tearful eulogies']",word_colon
+need,need,"need: food, sleep, money, love","['food', 'sleep', 'money', 'love']",word_colon
+obedience,obedience,"obedience: rules, training, hierarchy, trust","['rules', 'training', 'hierarchy', 'trust']",word_colon
+obligation,obligation,"obligation: contract, duty, deadline, responsibility","['contract', 'duty', 'deadline', 'responsibility']",word_colon
+observation,observation,"observation: telescope, journal, detective, sunrise","['telescope', 'journal', 'detective', 'sunrise']",word_colon
+order,order,"order: queue, rules, command, sequence","['queue', 'rules', 'command', 'sequence']",word_colon
+pardon,pardon,"pardon: courtroom, apology, second chances, relief","['courtroom', 'apology', 'second chances', 'relief']",word_colon
+peace,peace,"peace: sunrise, garden, quiet street, warm blanket","['sunrise', 'garden', 'quiet street', 'warm blanket']",word_colon
+proof,proof,"proof: evidence, courtroom, math, verification","['evidence', 'courtroom', 'math', 'verification']",word_colon
+realization,realization,"realization: epiphany, lightbulb, breakthrough, clarity","['epiphany', 'lightbulb', 'breakthrough', 'clarity']",word_colon
+reassurance,reassurance,"reassurance: calm voice, gentle touch, supportive glance, steady routine","['calm voice', 'gentle touch', 'supportive glance', 'steady routine']",word_colon
+requirement,requirement,"requirement: deadline, checklist, budget, compliance","['deadline', 'checklist', 'budget', 'compliance']",word_colon
+slapstick,slapstick,"slapstick: pies, pratfalls, exaggerated sound effects, physical comedy","['pies', 'pratfalls', 'exaggerated sound effects', 'physical comedy']",word_colon
+value,value,"value: treasure, market, ethics, measurement","['treasure', 'market', 'ethics', 'measurement']",word_colon
+victory,victory,"victory: trophy, parade, celebration, relief","['trophy', 'parade', 'celebration', 'relief']",word_colon
+view,view,"view: horizon, telescope, painting, balcony","['horizon', 'telescope', 'painting', 'balcony']",word_colon
+violation,violation,"violation: traffic light, courtroom, boundaries, whistle","['traffic light', 'courtroom', 'boundaries', 'whistle']",word_colon
+welfare,welfare,"welfare: safety nets, community clinics, unemployment benefits, social gatherings","['safety nets', 'community clinics', 'unemployment benefits', 'social gatherings']",word_colon
+willingness,willingness,"willingness: volunteer, adventure, open‑door, smile","['volunteer', 'adventure', 'open‑door', 'smile']",word_colon

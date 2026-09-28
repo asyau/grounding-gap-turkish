@@ -1,0 +1,71 @@
+key,stimulus,response,properties,parse_mode
+addiction,addiction,"addiction: cravings, escape, loss, obsession","['cravings', 'escape', 'loss', 'obsession']",word_colon
+advice,advice,"advice: guide, mentor, wisdom, suggestion","['guide', 'mentor', 'wisdom', 'suggestion']",word_colon
+appearance,appearance,"appearance: reflection, clothing, mirror, disguise","['reflection', 'clothing', 'mirror', 'disguise']",word_colon
+application,application,"application: software, resume, job, nail ","['software', 'resume', 'job', 'nail']",word_colon
+aptitude,aptitude,"aptitude: talent, learning, skill, potential","['talent', 'learning', 'skill', 'potential']",word_colon
+art,art,"art: brush, canvas, gallery, paint","['brush', 'canvas', 'gallery', 'paint']",word_colon
+blackmail,blackmail,"blackmail: secrets, threats, money, fear","['secrets', 'threats', 'money', 'fear']",word_colon
+character,character,"character: personality, plot, actor, bravery","['personality', 'plot', 'actor', 'bravery']",word_colon
+charm,charm,"charm: spell, allure, magnetism, enchantment","['spell', 'allure', 'magnetism', 'enchantment']",word_colon
+danger,danger,"danger: fire, cliff, storm, predators","['fire', 'cliff', 'storm', 'predators']",word_colon
+destruction,destruction,"destruction: fire, earthquake, demolition, flood","['fire', 'earthquake', 'demolition', 'flood']",word_colon
+distance,distance,"distance: miles, space, journey, separation","['miles', 'space', 'journey', 'separation']",word_colon
+distraction,distraction,"distraction: phone, noise, losing focus, entertainment","['phone', 'noise', 'losing focus', 'entertainment']",word_colon
+doubt,doubt,"doubt: uncertainty, questioning, hesitation, skepticism","['uncertainty', 'questioning', 'hesitation', 'skepticism']",word_colon
+dream,dream,"dream: sleep, imagination, fantasy, goal","['sleep', 'imagination', 'fantasy', 'goal']",word_colon
+enchantment,enchantment,"enchantment: magic, spell, wonder, allure","['magic', 'spell', 'wonder', 'allure']",word_colon
+event,event,"event: celebration, surprise, gathering, occasion","['celebration', 'surprise', 'gathering', 'occasion']",word_colon
+expectation,expectation,"expectation: hope, future, anticipation, belief","['hope', 'future', 'anticipation', 'belief']",word_colon
+fate,fate,"fate: destiny, karma, predetermination, oracle","['destiny', 'karma', 'predetermination', 'oracle']",word_colon
+fight,fight,"fight:
+punch, anger, debate, victory","['punch', 'anger', 'debate', 'victory']",bare
+forgiveness,forgiveness,"forgiveness: letting go, understanding, peace, second chance","['letting go', 'understanding', 'peace', 'second chance']",word_colon
+future,future,"future: innovation, planning, uncertainty, hope","['innovation', 'planning', 'uncertainty', 'hope']",word_colon
+happiness,happiness,"happiness: laughter, sunshine, dancing, singing","['laughter', 'sunshine', 'dancing', 'singing']",word_colon
+help,help,"help: lifeline, SOS, assistance, support","['lifeline', 'SOS', 'assistance', 'support']",word_colon
+home,home,"home: shelter, warmth, family, comfort","['shelter', 'warmth', 'family', 'comfort']",word_colon
+idea,idea,"idea: lightbulb, brainstorming, spark, creation","['lightbulb', 'brainstorming', 'spark', 'creation']",word_colon
+intention,intention,"intention: plan, goal, purpose, aim","['plan', 'goal', 'purpose', 'aim']",word_colon
+kindness,kindness,"kindness: helping, smiles, gentle, giving","['helping', 'smiles', 'gentle', 'giving']",word_colon
+manners,manners,"manners: politeness, dining, bowing, respect","['politeness', 'dining', 'bowing', 'respect']",word_colon
+matter,matter,"matter: gravity, substance, importance, debate","['gravity', 'substance', 'importance', 'debate']",word_colon
+menace,menace,"menace: darkness, fear, danger, threat","['darkness', 'fear', 'danger', 'threat']",word_colon
+mercy,mercy,"mercy: forgiveness, leniency, compassion, reprieve","['forgiveness', 'leniency', 'compassion', 'reprieve']",word_colon
+moment,moment,"moment: photograph, fleeting, anticipation, memory","['photograph', 'fleeting', 'anticipation', 'memory']",word_colon
+mourning,mourning,"mourning: grief, black, tears, funeral","['grief', 'black', 'tears', 'funeral']",word_colon
+nervousness,nervousness,"nervousness: sweaty palms, shaky voice, racing heart, biting nails","['sweaty palms', 'shaky voice', 'racing heart', 'biting nails']",word_colon
+nightmare,nightmare,"nightmare: fear, darkness, sweat, paralysis","['fear', 'darkness', 'sweat', 'paralysis']",word_colon
+obligation,obligation,"obligation: debt, duty, promise, child","['debt', 'duty', 'promise', 'child']",word_colon
+observation,observation,"observation: telescope, quiet, noticing, data","['telescope', 'quiet', 'noticing', 'data']",word_colon
+occupation,occupation,"occupation: doctor, carpenter, artist, engineer","['doctor', 'carpenter', 'artist', 'engineer']",word_colon
+order,order,"order: sequence, command, organization, receipt","['sequence', 'command', 'organization', 'receipt']",word_colon
+ostracism,ostracism,"ostracism: exile, rejection, outcast, banishment","['exile', 'rejection', 'outcast', 'banishment']",word_colon
+panic,panic,"panic: alarm, flee, scream, chaos","['alarm', 'flee', 'scream', 'chaos']",word_colon
+past,past,"past: memories, history, yesterday, future","['memories', 'history', 'yesterday', 'future']",word_colon
+perspective,perspective,"perspective:
+viewpoint, lens, angle, outlook","['viewpoint', 'lens', 'angle', 'outlook']",bare
+potential,potential,"potential: future, growth, talent, possibility","['future', 'growth', 'talent', 'possibility']",word_colon
+prediction,prediction,"prediction: future, guess, forecast, outcome","['future', 'guess', 'forecast', 'outcome']",word_colon
+present,present,"present: gift, now, appearance, exhibition","['gift', 'now', 'appearance', 'exhibition']",word_colon
+prosperity,prosperity,"prosperity: abundance, growth, well-being, success","['abundance', 'growth', 'well-being', 'success']",word_colon
+punishment,punishment,"punishment: jail, detention, fine, consequence","['jail', 'detention', 'fine', 'consequence']",word_colon
+rage,rage,"rage: fire, scream, destruction, anger","['fire', 'scream', 'destruction', 'anger']",word_colon
+resolution,resolution,"resolution: camera, goal, decision, divorce","['camera', 'goal', 'decision', 'divorce']",word_colon
+self-dependence,self-dependence,"self-dependence: independence, self-reliance, autonomy, initiative","['independence', 'self-reliance', 'autonomy', 'initiative']",word_colon
+sensitivity,sensitivity,"sensitivity:
+skin, pain, blush, temperature","['skin', 'pain', 'blush', 'temperature']",bare
+suffering,suffering,"suffering: pain, illness, loss, grief","['pain', 'illness', 'loss', 'grief']",word_colon
+talent,talent,"talent: skill, performance, gift, applause","['skill', 'performance', 'gift', 'applause']",word_colon
+task,task,"task: assignment, deadline, project, completion","['assignment', 'deadline', 'project', 'completion']",word_colon
+terrorism,terrorism,"terrorism: fear, violence, destruction, threat","['fear', 'violence', 'destruction', 'threat']",word_colon
+thought,thought,"thought: idea, thinking, ponder, contemplation","['idea', 'thinking', 'ponder', 'contemplation']",word_colon
+vanity,vanity,"vanity: mirror, pride, peacock, makeup","['mirror', 'pride', 'peacock', 'makeup']",word_colon
+war,war,"war: soldier, battle, loss, peace","['soldier', 'battle', 'loss', 'peace']",word_colon
+weakness,weakness,"weakness: stubbed toe, lack of sleep, a sudden drop, letting down someone","['stubbed toe', 'lack of sleep', 'a sudden drop', 'letting down someone']",word_colon
+welfare,welfare,"welfare:
+support, health, aid, security","['support', 'health', 'aid', 'security']",bare
+will,will,"will:  future, intention, determination, inheritance","['future', 'intention', 'determination', 'inheritance']",word_colon
+willingness,willingness,"willingness: consent, eagerness, readiness, offering","['consent', 'eagerness', 'readiness', 'offering']",word_colon
+wit,wit,"wit:
+sharpness, humor, intelligence, quickness","['sharpness', 'humor', 'intelligence', 'quickness']",bare
